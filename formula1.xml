@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<title>
+	[COLOR green]FORMULA 1[/COLOR] [COLOR white]GRAN PREMIO HEINEKEN[/COLOR] [COLOR red]D'ITALIA[/COLOR]
+</title>
+
+
+<item>
+	<title>[COLOR white]LIBRES VIERNES[/COLOR][COLOR blue] 14:00[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/36</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR white]CLASIFICACION[/COLOR][COLOR blue] 14:00[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/36</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR white]CARRERA[/COLOR][COLOR blue] 14:00[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/36</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
+</item>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+	<title>[COLOR white]FRANCIA vs HOLANDA[/COLOR][COLOR lime] 20:45[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.sportstalkflorida.com/wp-content/uploads/2015/04/World-Cup-2018-logo.jpg</thumbnail>
+</item>
