@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<title>
-	[COLOR green]FORMULA 1[/COLOR] [COLOR white]GRAN PREMIO HEINEKEN[/COLOR] [COLOR red]D'ITALIA[/COLOR]
+<itle>
+	[COLOR green]FORMULA 1[/COLOR] [COLOR white] [/COLOR] [COLOR red] [/COLOR]
 </title>
 
 
-<item>
+<tem>
 	<title>[COLOR white]LIBRES VIERNES[/COLOR][COLOR blue] 14:00[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
             <regex>
@@ -19,7 +19,7 @@
             <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
 </item>
 
-<item>
+<tem>
 	<title>[COLOR white]CLASIFICACION[/COLOR][COLOR blue] 14:00[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
             <regex>
@@ -32,7 +32,7 @@
             <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
 </item>
 
-<item>
+<tem>
 	<title>[COLOR white]CARRERA[/COLOR][COLOR blue] 14:00[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
             <regex>
