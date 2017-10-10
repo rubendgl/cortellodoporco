@@ -5,14 +5,16 @@
 
 
 
-<!--
-
-
 <item>
-<title>[COLOR blue]MOTO GP [/COLOR] [COLOR green]--[/COLOR] </title>        
+<title>[COLOR blue]********** Canales Retransmisión MOTO GP ********** [/COLOR] [COLOR green]--[/COLOR] </title>        
 <urlsolve> - </urlsolve>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>http://photos.motogp.com/2017/08/30/lg5_2818.topcontent_2x.jpg</fanart>
 </item>
 
--->
+<item>
+<title>[COLOR white][B]· Movistar MotoGP[/COLOR][/B]</title>
+<sportsdevil>http://vertelevision.online/tv/deportes/motogp.php</sportsdevil>
+<referer>http://www.vertelevision.online/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
