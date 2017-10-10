@@ -9,15 +9,7 @@
 </item>
  
 <item>
-<title>Agenda eventos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
-</item>
-
-<item>
-<title>Titulo 2</title>
+<title>Formula 1</title>
 <thumbnail>https://www.neostuff.net/wp-content/uploads/2014/07/formula1-logo.png</thumbnail>
 <fanart>http://monzanet.s3-eu-central-1.amazonaws.com/uploads/2015/08/16154814/DSC_0146.jpg</fanart>
 <link>http://ignoreme</link>
@@ -25,10 +17,356 @@
 </item>
  
 <item>
-<title>Titulo 3</title>
+<title>Moto GP</title>
 <thumbnail>https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/vespa-256.png</thumbnail>
 <fanart>http://wallpaperput.com/wp-content/uploads/2014/10/marc-marquez-motogp-best-HD-wallpaper.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pnsc/cortellodoporco/master/motogp.xml</externallink>
 </item>
  
+
+
+
+
+
+
+
+<?xml version = "1.0" encoding="UTF-8"?>
+<object name="internalFormat">
+	<string name="assetsURL"><![CDATA[logo_assets.swf]]></string>
+	<integer name="width">240</integer>
+	<integer name="height">320</integer>
+	<integer name="selectedIndex">-1</integer>
+	<array name="objectList">
+		<object name="0">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[~
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">6</integer>
+			<float name="y">-139.1</float>
+			<integer name="width">241</integer>
+			<float name="height">415.414285714286</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">16712680</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="1">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[~
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">6</integer>
+			<float name="y">-57.1</float>
+			<integer name="width">241</integer>
+			<float name="height">415.414285714286</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">16712680</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="2">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[~
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">6</integer>
+			<float name="y">-109.1</float>
+			<integer name="width">242</integer>
+			<float name="height">415.414285714286</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">16777960</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="3">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[~
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">6</integer>
+			<float name="y">-87.1</float>
+			<integer name="width">242</integer>
+			<float name="height">415.414285714286</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">16777960</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="4">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[I
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<float name="x">24</float>
+			<float name="y">-55.1</float>
+			<integer name="width">13</integer>
+			<float name="height">476.2</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="2">6909265</integer>
+					<integer name="1">23</integer>
+					<integer name="0">1000</integer>
+				</array>
+				<object name="transObject">
+					<float name="r">-0.439822971502571</float>
+					<integer name="tx">2</integer>
+					<integer name="ty">-18</integer>
+					<float name="sx">1.132</float>
+					<float name="sy">2.5</float>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="5">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[I
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<float name="x">28</float>
+			<float name="y">-55.1</float>
+			<integer name="width">13</integer>
+			<float name="height">476.2</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="2">6909265</integer>
+					<integer name="1">23</integer>
+					<integer name="0">6909265</integer>
+				</array>
+				<object name="transObject">
+					<float name="r">-0.439822971502571</float>
+					<integer name="tx">2</integer>
+					<integer name="ty">-18</integer>
+					<float name="sx">1.132</float>
+					<float name="sy">2.5</float>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="6">
+			<string name="type"><![CDATA[normal]]></string>
+			<string name="id"><![CDATA[dec23]]></string>
+			<float name="x">20.425</float>
+			<float name="y">8.69186460807602</float>
+			<float name="width">24.15</float>
+			<float name="height">31.5307600950119</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">3948580</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="7">
+			<boolean name="keepTextAspect">false</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[~
+]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">6</integer>
+			<float name="y">-95.1</float>
+			<integer name="width">242</integer>
+			<float name="height">415.414285714286</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">16777960</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+		<object name="8">
+			<boolean name="rotateable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="moveable">true</boolean>
+			<integer name="outlineColor">100</integer>
+			<integer name="outlineSize">0</integer>
+			<object name="pattern">
+				<object name="transObject">
+					<integer name="sy">1</integer>
+					<integer name="sx">1</integer>
+					<integer name="ty">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="r">0</integer>
+				</object>
+				<array name="colors">
+					<integer name="0">6909265</integer>
+				</array>
+				<string name="id"><![CDATA[pattern0]]></string>
+			</object>
+			<boolean name="selected">false</boolean>
+			<integer name="rotation">0</integer>
+			<float name="height">68.4047619047619</float>
+			<integer name="width">130</integer>
+			<float name="y">215.9</float>
+			<integer name="x">65</integer>
+			<string name="id"><![CDATA[text]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="text"><![CDATA[............]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="font"><![CDATA[Arial]]></string>
+			<boolean name="keepTextAspect">true</boolean>
+		</object>
+		<object name="9">
+			<boolean name="keepTextAspect">true</boolean>
+			<string name="font"><![CDATA[Arial]]></string>
+			<string name="type"><![CDATA[text]]></string>
+			<string name="text"><![CDATA[España]]></string>
+			<boolean name="isCustomText">true</boolean>
+			<string name="id"><![CDATA[text]]></string>
+			<integer name="x">67</integer>
+			<float name="y">202.27380952381</float>
+			<integer name="width">127</integer>
+			<float name="height">66.8261904761905</float>
+			<integer name="rotation">0</integer>
+			<boolean name="selected">false</boolean>
+			<object name="pattern">
+				<string name="id"><![CDATA[pattern0]]></string>
+				<array name="colors">
+					<integer name="0">6909265</integer>
+				</array>
+				<object name="transObject">
+					<integer name="r">0</integer>
+					<integer name="tx">0</integer>
+					<integer name="ty">0</integer>
+					<integer name="sx">1</integer>
+					<integer name="sy">1</integer>
+				</object>
+			</object>
+			<integer name="outlineSize">0</integer>
+			<integer name="outlineColor">100</integer>
+			<boolean name="moveable">true</boolean>
+			<boolean name="scalable">true</boolean>
+			<boolean name="rotateable">true</boolean>
+		</object>
+	</array>
+	<float name="version">0.94</float>
+</object>
+
+

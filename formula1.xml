@@ -7,6 +7,20 @@
 	</title>
 </item>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 	<title>[COLOR white]LIBRES VIERNES[/COLOR][COLOR blue] 14:00[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
