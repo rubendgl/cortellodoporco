@@ -24,4 +24,12 @@
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/motogp.xml</externallink>
 </item>
  
+<item>
+<title>Television</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tdt.xml</externallink>
+</item>
+
 
