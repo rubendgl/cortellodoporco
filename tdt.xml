@@ -17,11 +17,38 @@
 
 <item>
 <title>[COLOR white] Caza y Pesca [/COLOR]</title>
-<sportsdevil>http://vertelevision.online/tv/documentales/cazaypesca.php"></iframe></sportsdevil>
+<sportsdevil>http://vertelevision.online/tv/documentales/cazaypesca.php</iframe></sportsdevil>
 <referer>http://vertelevision.online/</referer>
-<thumbnail>.jpg</thumbnail>
+<thumbnail>https://www.diariodeberrocalejo.es/wp-content/uploads/2016/09/canal-caza-y-pesca-destacado.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR white] Historia [/COLOR]</title>
+<sportsdevil>http://vertelevision.online/tv/documentales/historia.php</sportsdevil>
+<referer>http://vertelevision.online/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] National Geographic [/COLOR]</title>
+<sportsdevil>http://vertelevision.online/tv/documentales/national-geo.php</sportsdevil>
+<referer>http://vertelevision.online/</referer>
+<thumbnail>https://guerrerosdesingularidad.files.wordpress.com/2015/05/img_0049.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] Odisea [/COLOR]</title>
+<sportsdevil>http://vertelevision.online/tv/documentales/odisea.php</sportsdevil>
+<referer>http://vertelevision.online/</referer>
+<thumbnail>https://vignette.wikia.nocookie.net/logosfake/images/8/8d/Odisea.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] Discovery channel[/COLOR]</title>
+<sportsdevil>http://vertelevision.online/tv/documentales/discovery-channel.php</sportsdevil>
+<referer>http://vertelevision.online/</referer>
+<thumbnail>https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png</thumbnail>
+</item>
 
 <!--           
 <item>
