@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR blue] **** Documentales ****[/COLOR]</title>
+<sportsdevil>.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>
+</item>
 
 <item>
-<title>[COLOR white] HBO [/COLOR]</title>
-<sportsdevil>http://www.onlinetv.planetfools.com/tvenvivo/hbo-peliculas-en-vivo.php</sportsdevil>
-<referer>http://www.onlinetv.planetfools.com/</referer>
+<title>[COLOR red]==========[/COLOR]</title>
+<sportsdevil>.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] Caza y Pesca [/COLOR]</title>
+<sportsdevil>http://vertelevision.online/tv/documentales/cazaypesca.php"></iframe></sportsdevil>
+<referer>http://vertelevision.online/</referer>
 <thumbnail>.jpg</thumbnail>
 </item>
 
