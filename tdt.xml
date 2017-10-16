@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<!--
+
 <item>
 <title>[COLOR white][/COLOR]</title>
-<sportsdevil>.php</sportsdevil>
+<sportsdevil>http://www.onlinetv.planetfools.com/tvenvivo/hbo-peliculas-en-vivo.php</sportsdevil>
 <referer>http://www.vertelevision.online/</referer>
-<thumbnail>http://www.carloscuenca.net/wp-content/uploads/logo-tve-1-publicidad.jpg</thumbnail>
+<thumbnail>.jpg</thumbnail>
 </item>
 
 
-           
+<!--           
 <item>
 <title>[COLOR white][/COLOR]</title>
 <sportsdevil>.php</sportsdevil>
