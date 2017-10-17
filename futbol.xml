@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+<item>
+	<title>[B][COLOR blue]**** LIGA CAMPEONES ****[/COLOR][/B]</title>
+	<thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+	<link>http://ignoreme</link>
+	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
+</item>
+---------------------------------------------------------------------------------------------------
+
+<item>
+            <title>[COLOR white]REAL MADRID-TOTTENHAM[/COLOR][COLOR red] opcion 1[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/43</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+            </item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]REAL MADRID-TOTTENHAM[/COLOR][COLOR red] opcion 2[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/44</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+            </item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]SPARTAK MOSKVA-SEVILLA FC[/COLOR][COLOR red] opcion 1[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/37</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+            </item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]SPARTAK MOSKVA-SEVILLA FC[/COLOR][COLOR red] opcion 1[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/38</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+            </item>
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 	<title>[B][COLOR red]****AGENDA****[/COLOR][/B]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
