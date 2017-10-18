@@ -3,8 +3,8 @@
 
 
 <item>
-	<title>[B][COLOR blue]**** LIGA CAMPEONES ****[/COLOR][/B]</title>
-	<thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B]</title>
+	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
 </item>
@@ -21,7 +21,7 @@
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
-            </item>
+</item>
 ---------------------------------------------------------------------------------------------------
 <item>
             <title>[COLOR white]FC BARCELONA-OLYMPIAKOS[/COLOR]</title>
@@ -34,7 +34,7 @@
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
-            </item>
+</item>
 ---------------------------------------------------------------------------------------------------
 <item>
             <title>[COLOR white]BENFICA-MANCHESTER UNITED[/COLOR]</title>
@@ -47,7 +47,7 @@
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
-            </item>
+</item>
 ---------------------------------------------------------------------------------------------------
 <item>
             <title>[COLOR white]CHELSEA-ROMA[/COLOR]</title>
@@ -60,12 +60,84 @@
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
-            </item>
+</item>
 
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+<item>
+	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B]</title>
+	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+	<link>http://ignoreme</link>
+	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
+</item>
+---------------------------------------------------------------------------------------------------
 
-
+<item>
+            <title>[COLOR white]NICE-LAZIO[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/30</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]OLYMPIQUE MARSEILLE-VITORIA GUIMARAES[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/34</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]RED STAR BELGRADE-ARSENAL[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/41</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]VARDAR-REAL SOCIEDAD[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]OSTERSUND-ATHLETIC CLUB[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/37</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 
 <item>
