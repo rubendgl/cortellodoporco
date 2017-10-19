@@ -3,7 +3,7 @@
 
 <!--
 <item>
-	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B][COLOR orange]  18/10/17[/COLOR]</title>
+	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
@@ -61,11 +61,12 @@
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
 </item>
+
 -->
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B][COLOR orange]  19/10/17[/COLOR]</title>
+	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
@@ -136,8 +137,21 @@
             </regex>
             <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 </item>
----------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<item>
+	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<item>
+	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
 
 
 <item>
@@ -147,8 +161,20 @@
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
 </item>
 
-
-
+<item>
+	<title>[B][COLOR white]                                                                                             [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<item>
+	<title>[B][COLOR white]                                                                                             [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[B][COLOR lime]=====CANALES====[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
