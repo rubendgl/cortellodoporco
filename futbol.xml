@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<!--
 <item>
-	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B][COLOR orange]  18/10/17 - 20:45[/COLOR]</title>
+	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B][COLOR orange]  18/10/17[/COLOR]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
@@ -61,11 +61,11 @@
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
 </item>
-
+-->
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B][COLOR orange]  19/10/17 - 20:45[/COLOR]</title>
+	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B][COLOR orange]  19/10/17[/COLOR]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
