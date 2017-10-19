@@ -65,6 +65,7 @@
 -->
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+<!--
 <item>
 	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
@@ -137,6 +138,7 @@
             </regex>
             <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 </item>
+-->
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
@@ -184,8 +186,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige un Liga ', ['[COLOR blue]LIGA BBVA[/COLOR]', '[COLOR blue]LA LIGA 123[/COLOR]', '[COLOR white]PREMIER LEAGUE[/COLOR]', '[COLOR white]UEFA CHAMPIONS LEAGUE[/COLOR]', '[COLOR red]COPA DEL REY[/COLOR]', '[COLOR blue]BUNDESLIGA[/COLOR]', '[COLOR blue]FRANCE LIGUE 1[/COLOR]', '[COLOR green]SERIE A[/COLOR]', '[COLOR white]PORTUGAL A LIGA[/COLOR]', '[COLOR white]EREDIVISIE[/COLOR]', '[COLOR white]EFL CUP[/COLOR]', '[COLOR white]COPA LIBERTADORES[/COLOR]', '[COLOR white]COPA SUDAMERICANA[/COLOR]', '[COLOR white]USA MLS[/COLOR]', '[COLOR white]COLOMBIA PRIMERA[/COLOR]', '[COLOR white]MEXICO LIGA MX[/COLOR]', '[COLOR white]MEXICO COPA MX[/COLOR]', '[COLOR white]CHILE LEAGUE[/COLOR]', '[COLOR white]ARGENTINA SUPERLIGA[/COLOR]'])
-   lists = ['SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'ITALY SERIE A', 'PORTUGAL A LIGA', 'HOLLAND EREDIVISIE', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
+   ret = dialog.select('Elige un Liga ', ['[COLOR blue]LIGA ESPAÑOLA[/COLOR]', '[COLOR white]PREMIER LEAGUE[/COLOR]', '[COLOR white]UEFA CHAMPIONS LEAGUE[/COLOR]', '[COLOR red]COPA DEL REY[/COLOR]', '[COLOR blue]BUNDESLIGA[/COLOR]', '[COLOR blue]FRANCE LIGUE 1[/COLOR]', '[COLOR green]SERIE A[/COLOR]', '[COLOR white]PORTUGAL A LIGA[/COLOR]', '[COLOR white]EREDIVISIE[/COLOR]', '[COLOR white]EFL CUP[/COLOR]', '[COLOR white]COPA LIBERTADORES[/COLOR]', '[COLOR white]COPA SUDAMERICANA[/COLOR]', '[COLOR white]USA MLS[/COLOR]', '[COLOR white]COLOMBIA PRIMERA[/COLOR]', '[COLOR white]MEXICO LIGA MX[/COLOR]', '[COLOR white]MEXICO COPA MX[/COLOR]', '[COLOR white]CHILE LEAGUE[/COLOR]', '[COLOR white]ARGENTINA SUPERLIGA[/COLOR]'])
+   lists = ['SPANISH LA LIGA', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'ITALY SERIE A', 'PORTUGAL A LIGA', 'HOLLAND EREDIVISIE', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
    return lists[ret]
 ]]></expres>
 <page></page>
