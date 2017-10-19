@@ -155,7 +155,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
-<title>[COLOR white][makelist.param1][/COLOR] [COLOR red] [makelist.param2] [/COLOR] [COLOR yellow][makelist.param4][/COLOR][COLOR white] -(clicar aqui)[/COLOR] </title>
+<title>[COLOR white][makelist.param1][/COLOR] [COLOR red] [makelist.param2] [/COLOR] [COLOR yellow][makelist.param4][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV[COLOR white][makelist.param4][/COLOR]</link>
             <regex>
             <name>hash</name>
@@ -195,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 </regex><thumbnail>https://www.adslzone.net/app/uploads/2017/08/donde-ver-futbol-temporada-2017-2018.jpg</thumbnail>
 </item>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 	<title>[B][COLOR hotpink]*******************************************************[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
