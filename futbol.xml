@@ -142,9 +142,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
+	<title>[B][COLOR hotpink]*******************************************************[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
+	<externallink> </externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -197,9 +197,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
+	<title>[B][COLOR hotpink]*******************************************************[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
+	<externallink> </externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
@@ -214,7 +214,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 	<title>[B][COLOR white]                                                                                             [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
+	<externallink> </externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
