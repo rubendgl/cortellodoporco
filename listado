@@ -18,17 +18,6 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7674.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7601.ts
 
 
-#EXTINF:-1,====== ESTILO DE VIDA======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12539.ts
-#EXTINF:-1,SP: Cosmo HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13704.ts
-#EXTINF:-1,SP: Cosmo
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7621.ts
-#EXTINF:-1,SP: Canal Cocina
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7629.ts
-#EXTINF:-1,SP: 24 Horas
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13003.ts
-
 
 #EXTINF:-1,====== INFANTILES ======
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12536.ts
@@ -69,26 +58,7 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15415.ts
 
 
 #EXTINF:-1,====== Taquilla ======
-#EXTINF:-1,SP: Taquilla 1
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7612.ts
-#EXTINF:-1,SP: Taquilla 2
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7610.ts
-#EXTINF:-1,SP: Taquilla 3
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7609.ts
-#EXTINF:-1,SP: Taquilla 4
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7608.ts
-#EXTINF:-1,SP: Taquilla 5
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7607.ts
-#EXTINF:-1,SP: Taquilla 6
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7606.ts
-#EXTINF:-1,SP: Taquilla 7
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7605.ts
-#EXTINF:-1,SP: Taquilla 8
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7604.ts
-#EXTINF:-1,SP: Taquilla 9
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7603.ts
-#EXTINF:-1,SP: Taquilla 10
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7611.ts
+
 
 
 #EXTINF:-1,====== EXTRA ======
