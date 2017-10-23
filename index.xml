@@ -23,8 +23,8 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/motogp.xml</externallink>
 </item>
- 
-<!--
+
+<!-- 
 <item>
 <title>Television</title>
 <thumbnail>.png</thumbnail>
@@ -32,5 +32,13 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tvonline.xml</externallink>
 </item>
+-->
 
+<item>
+<title>Camaras online</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/camarasweb.xml</externallink>
+</item>
 
