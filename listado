@@ -2,44 +2,22 @@
 
 #EXTINF:-1,SP: #0 HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12532.ts
-#EXTINF:-1,SP: LA 1
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15907.ts
 #EXTINF:-1,SP: LA 1 HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7661.ts
 #EXTINF:-1,SP: LA 2
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7660.ts
 #EXTINF:-1,SP: Antena 3 HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7710.ts
-#EXTINF:-1,SP: Antena 3
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15474.ts
 #EXTINF:-1,SP: CUATRO HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15411.ts
-#EXTINF:-1,SP: Cuatro.
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7686.ts
-#EXTINF:-1,SP: TELECINCO FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15412.ts
 #EXTINF:-1,SP: TELECINCO
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/10008.ts
 #EXTINF:-1,SP: La Sexta HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7674.ts
-#EXTINF:-1,SP: La Sexta
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15909.ts
-#EXTINF:-1,SP: Neox
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/14970.ts
-#EXTINF:-1,SP: NOVA
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7668.ts
-#EXTINF:-1,SP: Mega Tv HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7713.ts
-#EXTINF:-1,SP: Fdf
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7679.ts
-#EXTINF:-1,SP: DIVINITY
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7714.ts
-#EXTINF:-1,SP: Energy
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7681.ts
-#EXTINF:-1,SP: Andalucia TV
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7640.ts
 #EXTINF:-1,SP: TV Galicia
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7601.ts
+
+
 #EXTINF:-1,====== ESTILO DE VIDA======
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12539.ts
 #EXTINF:-1,SP: Cosmo HD
@@ -50,6 +28,8 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7621.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7629.ts
 #EXTINF:-1,SP: 24 Horas
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13003.ts
+
+
 #EXTINF:-1,====== INFANTILES ======
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12536.ts
 #EXTINF:-1,SP: Disney Channel
@@ -66,8 +46,9 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7707.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7670.ts
 #EXTINF:-1,SP: NICKELODEON HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7669.ts
+
+
 #EXTINF:-1,====== DOCUMENTALES ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12537.ts
 #EXTINF:-1,SP: HISTORIA
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7676.ts
 #EXTINF:-1,SP: Viajar HD
@@ -76,86 +57,18 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12542.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7620.ts
 #EXTINF:-1,SP: National Geo HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13706.ts
-#EXTINF:-1,SP: National Geo
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7671.ts
 #EXTINF:-1,SP: National Geo Wild HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13707.ts
-#EXTINF:-1,SP: National Geo Wild
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7672.ts
-#EXTINF:-1,SP: Crime + Investigation
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13004.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15427.ts
+
+
 #EXTINF:-1,====== CINE ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12538.ts
-#EXTINF:-1,SP: M. ESTRENOS FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15414.ts
 #EXTINF:-1,SP: M.Estrenos
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7703.ts
 #EXTINF:-1,SP: M. ACCION HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15415.ts
-#EXTINF:-1,SP: M. Accion
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7698.ts
-#EXTINF:-1,SP: M. COMEDIA FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15416.ts
-#EXTINF:-1,SP: M. Comedia
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7697.ts
-#EXTINF:-1,SP: M. DCINE HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15417.ts
-#EXTINF:-1,SP: M. Dcine
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7652.ts
-#EXTINF:-1,SP: M. XTRA FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15418.ts
-#EXTINF:-1,SP: M. XTRA
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7649.ts
-#EXTINF:-1,SP: M. SERIES HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15419.ts
-#EXTINF:-1,SP: M. Series
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7691.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15420.ts
-#EXTINF:-1,SP: M. Series Xtra
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7690.ts
-#EXTINF:-1,SP: Comedy Central HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13710.ts
-#EXTINF:-1,SP: Comedy Central.
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7687.ts
-#EXTINF:-1,SP: Hollywood FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7689.ts
-#EXTINF:-1,SP: FOX FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7643.ts
-#EXTINF:-1,SP: Fox.
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7678.ts
-#EXTINF:-1,SP: Fox Life HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13711.ts
-#EXTINF:-1,SP: FOX LIFE
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7677.ts
-#EXTINF:-1,SP: AMC HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15421.ts
-#EXTINF:-1,SP: AXN HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7653.ts
-#EXTINF:-1,SP: AXN
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7709.ts
-#EXTINF:-1,SP: AXN WHITE HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7708.ts
-#EXTINF:-1,SP: SYFY HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7594.ts
-#EXTINF:-1,SP: SYFY
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7666.ts
-#EXTINF:-1,SP: TCM HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15423.ts
-#EXTINF:-1,SP: TCM
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7665.ts
-#EXTINF:-1,SP: TNT
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7663.ts
-#EXTINF:-1,SP: TNT HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15422.ts
-#EXTINF:-1,SP: CALLE 13 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7705.ts
-#EXTINF:-1,SP: PARAMOUNT
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7716.ts
+
+
 #EXTINF:-1,====== Taquilla ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12540.ts
 #EXTINF:-1,SP: Taquilla 1
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7612.ts
 #EXTINF:-1,SP: Taquilla 2
@@ -176,74 +89,59 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7604.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7603.ts
 #EXTINF:-1,SP: Taquilla 10
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7611.ts
+
+
 #EXTINF:-1,====== EXTRA ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15476.ts
-#EXTINF:-1,SP: TOROS HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15424.ts
 #EXTINF:-1,SP: Toros Tv
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7701.ts
 #EXTINF:-1,SP: Caza Y Pesca HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7688.ts
 #EXTINF:-1,SP: IBERALIA TV
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15425.ts
+
+
 #EXTINF:-1,====== DEPORTES ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12541.ts
 #EXTINF:-1,SP:  M. MOTO GP
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15438.ts
-#EXTINF:-1,SP: M. MotoGp HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7616.ts
+#EXTINF:-1,SP: M. Formula 1
+http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7617.ts
+
 #EXTINF:-1,SP: Canal+ Liga
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7715.ts
 #EXTINF:-1,SP: Gol TV
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7702.ts
-#EXTINF:-1,SP: M.  FUTBOL FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15433.ts
+
 #EXTINF:-1,SP: M. Futbol
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13008.ts
 #EXTINF:-1,SP: M. GOLF
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13010.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15434.ts
+
 #EXTINF:-1,SP: M. Depotes 1
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13009.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15435.ts
+
 #EXTINF:-1,SP: M. Deportes 2
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12545.ts
-#EXTINF:-1,SP: M. Formula 1 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15437.ts
-#EXTINF:-1,SP: M. Formula 1
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7617.ts
+
 #EXTINF:-1,SP: M. GOLF HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15436.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15431.ts
-#EXTINF:-1,SP: Real Madrid
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7614.ts
-#EXTINF:-1,SP: Barca TV
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7662.ts
-#EXTINF:-1,SP: Eurosport 1 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15439.ts
+
+
 #EXTINF:-1,SP: Eurosport 1
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7680.ts
 #EXTINF:-1,SP: Eurosport 2
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15475.ts
+
 #EXTINF:-1,SP: BEIN SPORTS HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15440.ts
-#EXTINF:-1,SP: BeIN Sports FHD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13279.ts
-#EXTINF:-1,SP: Bein LaLiga HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13709.ts
+
 #EXTINF:-1,SP: beIN La Liga
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12497.ts
 #EXTINF:-1,SP: La Liga TV Bar
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13006.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15429.ts
+
 #EXTINF:-1,SP: LA LIGA BAR TV 1
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15430.ts
-#EXTINF:-1,SP: LA LIGA HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15428.ts
+
 #EXTINF:-1,SP: LA LIGA
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15441.ts
 #EXTINF:-1,SP: LA LIGA TV 1 SD
@@ -262,28 +160,8 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15447.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15448.ts
 #EXTINF:-1,SP: LA LIGA TV 8 SD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15449.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15450.ts
-#EXTINF:-1,SP: BEIN MAX 1
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15453.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15451.ts
-#EXTINF:-1,SP: BEIN MAX 2
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15454.ts
-#EXTINF:-1,SP: BEIN MAX 3
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15455.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15452.ts
-#EXTINF:-1,SP: BEIN MAX 4
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15456.ts
-#EXTINF:-1,SP: BEIN MAX 5
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15457.ts
-#EXTINF:-1,SP: BEIN MAX 6
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15458.ts
-#EXTINF:-1,SP: BEIN MAX 7
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15459.ts
-#EXTINF:-1,SP: BEIN MAX 8
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15460.ts
+
+
 #EXTINF:-1,SP: MULTIDEPORTES 1
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15461.ts
 #EXTINF:-1,SP: MULTIDEPORTES 2
@@ -292,5 +170,3 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15462.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15463.ts
 #EXTINF:-1,SP: MULTIDEPORTES 4
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15464.ts
-#EXTINF:-1,SP: Teledeporte
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7658.ts
