@@ -20,7 +20,6 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7601.ts
 
 
 #EXTINF:-1,====== INFANTILES ======
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12536.ts
 #EXTINF:-1,SP: Disney Channel
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7684.ts
 #EXTINF:-1,SP: Disney Jr.
@@ -55,10 +54,6 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13707.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7703.ts
 #EXTINF:-1,SP: M. ACCION HD
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15415.ts
-
-
-#EXTINF:-1,====== Taquilla ======
-
 
 
 #EXTINF:-1,====== EXTRA ======
@@ -100,36 +95,6 @@ http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15436.ts
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7680.ts
 #EXTINF:-1,SP: Eurosport 2
 http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15475.ts
-
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15440.ts
-
-#EXTINF:-1,SP: beIN La Liga
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/12497.ts
-#EXTINF:-1,SP: La Liga TV Bar
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/13006.ts
-
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15430.ts
-
-#EXTINF:-1,SP: LA LIGA
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15441.ts
-#EXTINF:-1,SP: LA LIGA TV 1 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15442.ts
-#EXTINF:-1,SP: LA LIGA TV 2 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15443.ts
-#EXTINF:-1,SP: LA LIGA TV 3 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15444.ts
-#EXTINF:-1,SP: LA LIGA TV 4 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15445.ts
-#EXTINF:-1,SP: LA LIGA TV 5 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15446.ts
-#EXTINF:-1,SP: LA LIGA TV 6 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15447.ts
-#EXTINF:-1,SP: LA LIGA TV 7 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15448.ts
-#EXTINF:-1,SP: LA LIGA TV 8 SD
-http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/15449.ts
 
 
 #EXTINF:-1,SP: MULTIDEPORTES 1
