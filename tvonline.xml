@@ -52,14 +52,37 @@
 </item>
 
 
+
 <item>
-<title>[COLOR blue] **** tdt generalista ****[/COLOR]</title>
-<sportsdevil>.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>.png</thumbnail>
+	<title>[B][COLOR blue] TDT [/COLOR][/B]</title>
+	<thumbnail>http://www.portalciencia.net/tdt/tdtlogo.JPG</thumbnail>
+	<link>http://ignoreme</link>
+	<externallink></externallink>
 </item>
 
+<item>
+<title>[COLOR white] La 1 HD [/COLOR]</title>
+<sportsdevil>http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7661.ts</sportsdevil>
+<thumbnail>.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white] [/COLOR]</title>
+<link>.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [/COLOR]</title>
+<link>.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [/COLOR]</title>
+<link>.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
+</item>
 
 
 <!--           
