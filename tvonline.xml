@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR blue] M+ [/COLOR][COLOR red] SERVER BLOCKED[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/listado</externallink>	
+</item>
 
 <item>
-<title>[COLOR red] M+ [/COLOR]</title>
+<title>[COLOR blue] M+ Multideporte[/COLOR][COLOR red] SERVER BLOCKED[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/multideporte</externallink>	
+</item>
+
+<item>
+<title>[COLOR blue] M+ beinsportsligatvbar[/COLOR][COLOR red] SERVER BLOCKED[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/beinsportsligatvbar</externallink>	
+</item>
+
+<item>
+<title>[COLOR blue] M+ beinmax[/COLOR][COLOR red] SERVER BLOCKED[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/beinmax</externallink>	
+</item>
+
+<item>
+<title>[COLOR blue] M+ taquilla[/COLOR][COLOR red] SERVER BLOCKED[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/taquilla</externallink>	
+</item>
+
+
+
+
+<!--
+<item>
+<title>[COLOR blue] M+ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -18,18 +61,8 @@
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/multideporte</externallink>	
 </item>
 
-<!--
 <item>
-<title>[COLOR red] M+ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/listado</externallink>	
-</item>
--->
-
-<item>
-<title>[COLOR red] M+ beinsportsligatvbar[/COLOR]</title>
+<title>[COLOR blue] M+ beinsportsligatvbar[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -37,7 +70,7 @@
 </item>
 
 <item>
-<title>[COLOR red] M+ beinmax[/COLOR]</title>
+<title>[COLOR blue] M+ beinmax[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -45,126 +78,10 @@
 </item>
 
 <item>
-<title>[COLOR red] M+ taquilla[/COLOR]</title>
+<title>[COLOR blue] M+ taquilla[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/taquilla</externallink>	
 </item>
-
-<!--
-<item>
-<title>[COLOR red] M+ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/listado</externallink>	
-</item>
-
-
-
-<!--
-<item>
-<title>[COLOR blue] **** Documentales ****[/COLOR]</title>
-<sportsdevil>.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR red]==========[/COLOR]</title>
-<link>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</link>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] Caza y Pesca [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://www.diariodeberrocalejo.es/wp-content/uploads/2016/09/canal-caza-y-pesca-destacado.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] Historia [/COLOR]</title>
-<sportsdevil>latelete.tv/canal-historia-en-directo-en-castellano-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] National Geographic [/COLOR]</title>
-<sportsdevil>http://latelete.tv/national-geographic-en-directo-en-castellano-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://guerrerosdesingularidad.files.wordpress.com/2015/05/img_0049.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] Odisea [/COLOR]</title>
-<sportsdevil>http://latelete.tv/odisea-en-vivo-y-en-directo-gratis-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://vignette.wikia.nocookie.net/logosfake/images/8/8d/Odisea.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] Discovery channel[/COLOR]</title>
-<sportsdevil>http://latelete.tv/discovery-channel-en-directo-gratis-por-internet/</sportsdevil>
-<referer>http://latelete.tv/</referer>
-<thumbnail>https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png</thumbnail>
-</item>
-
-
-
-<item>
-	<title>[B][COLOR blue] TDT [/COLOR][/B]</title>
-	<thumbnail>http://www.portalciencia.net/tdt/tdtlogo.JPG</thumbnail>
-	<link>http://ignoreme</link>
-	<externallink></externallink>
-</item>
-
-<item>
-<title>[COLOR white] La 1 HD [/COLOR]</title>
-<sportsdevil>http://esun-tv.ddns.net:6500/live/1testdff/YPDxFPm3Gx/7661.ts</sportsdevil>
-<thumbnail>.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [/COLOR]</title>
-<link>.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [/COLOR]</title>
-<link>.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [/COLOR]</title>
-<link>.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
-
-
-<!--           
-<item>
-<title>[COLOR white][/COLOR]</title>
-<sportsdevil>.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>
-</item>
- 
-
- 
-<item>
-<title>[COLOR white] [/COLOR]</title>
-<link>.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
-
-
 -->
-
-
