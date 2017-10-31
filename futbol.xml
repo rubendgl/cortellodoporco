@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<!--
+
 <item>
 	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------
 
 <item>
-            <title>[COLOR white]JUVENTUS-SPORTING PORTUGAL[/COLOR]</title>
+            <title>[COLOR white]PARIS SAINT GERMAIN-ANDERLECHT[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
@@ -24,7 +24,7 @@
 </item>
 ---------------------------------------------------------------------------------------------------
 <item>
-            <title>[COLOR white]FC BARCELONA-OLYMPIAKOS[/COLOR]</title>
+            <title>[COLOR white]ATLETICO MADRID-QARABAG FK[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
@@ -37,20 +37,7 @@
 </item>
 ---------------------------------------------------------------------------------------------------
 <item>
-            <title>[COLOR white]BENFICA-MANCHESTER UNITED[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/33</page>
-            <referer>http://www.arenavision.ru</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
-</item>
----------------------------------------------------------------------------------------------------
-<item>
-            <title>[COLOR white]CHELSEA-ROMA[/COLOR]</title>
+            <title>[COLOR white]ROMA-CHELSEA[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
@@ -61,11 +48,24 @@
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
 </item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]MANCHESTER UNITED-BENFICA[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/41</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+</item>
 
--->
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 <!--
+
 <item>
 	<title>[B][COLOR blue]**** UEFA EUROPA LEAGUE ****[/COLOR][/B]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
@@ -138,13 +138,14 @@
             </regex>
             <thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 </item>
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
-	<title>[B][COLOR hotpink]*******************************************************[/COLOR][/B]</title>
+	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink> </externallink>
+	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,7 +156,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
-<title>[COLOR white][makelist.param1][/COLOR] [COLOR red] [makelist.param2] [/COLOR] [COLOR yellow][makelist.param4][/COLOR]</title>
+<title>[COLOR white][makelist.param1][/COLOR] [COLOR red] [makelist.param2] [/COLOR] [COLOR yellow][makelist.param4][/COLOR][COLOR white] -(clicar aqui)[/COLOR] </title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV[COLOR white][makelist.param4][/COLOR]</link>
             <regex>
             <name>hash</name>
@@ -186,8 +187,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige un Liga ', ['[COLOR blue]LIGA ESPAÑOLA[/COLOR]', '[COLOR white]PREMIER LEAGUE[/COLOR]', '[COLOR white]UEFA CHAMPIONS LEAGUE[/COLOR]', '[COLOR red]COPA DEL REY[/COLOR]', '[COLOR blue]BUNDESLIGA[/COLOR]', '[COLOR blue]FRANCE LIGUE 1[/COLOR]', '[COLOR green]SERIE A[/COLOR]', '[COLOR white]PORTUGAL A LIGA[/COLOR]', '[COLOR white]EREDIVISIE[/COLOR]', '[COLOR white]EFL CUP[/COLOR]', '[COLOR white]COPA LIBERTADORES[/COLOR]', '[COLOR white]COPA SUDAMERICANA[/COLOR]', '[COLOR white]USA MLS[/COLOR]', '[COLOR white]COLOMBIA PRIMERA[/COLOR]', '[COLOR white]MEXICO LIGA MX[/COLOR]', '[COLOR white]MEXICO COPA MX[/COLOR]', '[COLOR white]CHILE LEAGUE[/COLOR]', '[COLOR white]ARGENTINA SUPERLIGA[/COLOR]'])
-   lists = ['SPANISH LA LIGA', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'ITALY SERIE A', 'PORTUGAL A LIGA', 'HOLLAND EREDIVISIE', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
+   ret = dialog.select('Elige un Liga ', ['[COLOR blue]LIGA BBVA[/COLOR]', '[COLOR blue]LA LIGA 123[/COLOR]', '[COLOR white]PREMIER LEAGUE[/COLOR]', '[COLOR white]UEFA CHAMPIONS LEAGUE[/COLOR]', '[COLOR red]COPA DEL REY[/COLOR]', '[COLOR blue]BUNDESLIGA[/COLOR]', '[COLOR blue]FRANCE LIGUE 1[/COLOR]', '[COLOR green]SERIE A[/COLOR]', '[COLOR white]PORTUGAL A LIGA[/COLOR]', '[COLOR white]EREDIVISIE[/COLOR]', '[COLOR white]EFL CUP[/COLOR]', '[COLOR white]COPA LIBERTADORES[/COLOR]', '[COLOR white]COPA SUDAMERICANA[/COLOR]', '[COLOR white]USA MLS[/COLOR]', '[COLOR white]COLOMBIA PRIMERA[/COLOR]', '[COLOR white]MEXICO LIGA MX[/COLOR]', '[COLOR white]MEXICO COPA MX[/COLOR]', '[COLOR white]CHILE LEAGUE[/COLOR]', '[COLOR white]ARGENTINA SUPERLIGA[/COLOR]'])
+   lists = ['SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'ITALY SERIE A', 'PORTUGAL A LIGA', 'HOLLAND EREDIVISIE', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -195,11 +196,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 </regex><thumbnail>https://www.adslzone.net/app/uploads/2017/08/donde-ver-futbol-temporada-2017-2018.jpg</thumbnail>
 </item>
------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <item>
-	<title>[B][COLOR hotpink]*******************************************************[/COLOR][/B]</title>
+	<title>[B][COLOR hotpink] *****************************************************************************************[/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink> </externallink>
+	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
@@ -214,7 +215,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 	<title>[B][COLOR white]                                                                                             [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
-	<externallink> </externallink>
+	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
