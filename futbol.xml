@@ -3,7 +3,7 @@
 
 
 <item>
-	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B]</title>
+	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B][COLOR gold]martes[/COLOR]</title>
 	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
@@ -50,18 +50,79 @@
 </item>
 ---------------------------------------------------------------------------------------------------
 <item>
-            <title>[COLOR white]MANCHESTER UNITED-BENFICA[/COLOR]</title>
+            <title>[COLOR white]OLYMPIAKOS-FC BARCELONA[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/41</page>
+            <page>http://arenavision2017.tk/node/43</page>
             <referer>http://www.arenavision.ru</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
 </item>
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+<item>
+	<title>[B][COLOR blue]**** UEFA CHAMPIONS LEAGUE ****[/COLOR][/B][COLOR gold]miercoles[/COLOR]</title>
+	<thumbnail>http://www.whoframedruelfox.com/wp-content/uploads/2017/02/UEFA_Europa_league_logo.svg_.png</thumbnail>
+	<link>http://ignoreme</link>
+	<externallink>https://pastebin.com/raw/iYBYcnxM</externallink>
+</item>
+---------------------------------------------------------------------------------------------------
 
+<item>
+            <title>[COLOR white]SEVILLA FC-SPARTAK MOSKVA[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]NAPOLI-MANCHESTER CITY[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/13</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]TOTTENHAM-REAL MADRID[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/37</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+</item>
+---------------------------------------------------------------------------------------------------
+<item>
+            <title>[COLOR white]LIVERPOOL-NK MARIBOR[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/36</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>https://worldsoccertalk.com/wp-content/uploads/2014/12/champions-league.png</thumbnail>
+</item>
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 <!--
