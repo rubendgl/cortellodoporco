@@ -242,8 +242,8 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
  
- <regex>
-<name>select</name>
+<regex>
+	<name>select</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
@@ -255,7 +255,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
  
-</regex><thumbnail>https://www.adslzone.net/app/uploads/2017/08/donde-ver-futbol-temporada-2017-2018.jpg</thumbnail>
+<thumbnail>https://www.adslzone.net/app/uploads/2017/08/donde-ver-futbol-temporada-2017-2018.jpg</thumbnail>
 </item>
 
 <item>
