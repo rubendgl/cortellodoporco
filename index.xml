@@ -26,11 +26,11 @@
 
 
 <item>
-<title>Televisión</title>
+<title>Televisión [COLOR red][B] OFF [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tvonline.xml</externallink>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tvonlineOFF.xml</externallink>
 </item>
 
 
