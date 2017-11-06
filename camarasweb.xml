@@ -37,36 +37,15 @@
 </item>
 
 <item>
-<title>[COLOR white]  [/COLOR] </title>
+<title>[COLOR white] *** [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white]  [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white]  [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white]  [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white]  [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<title>[COLOR white] MADRID, plaza del Callao [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/madrid-plaza-del-callao.html</sportsdevil>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -77,3 +56,26 @@
 <referer>http://www.skylinewebcams.com</referer>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>[COLOR white]  [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]  [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]  [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
