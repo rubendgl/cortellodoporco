@@ -17,8 +17,12 @@
 <thumbnail>http://prevenircdmx.com.mx/media/contenidos/camaraVIGILANCIA.jpg</thumbnail>
 </item>
 
-
-
+<item>
+<title>[COLOR red] VIGO [/COLOR] </title>
+  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -28,26 +32,18 @@
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>[COLOR white] Venice Italy - Rialto Bridge [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=vPbQcM4k1Ys</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white] MADRID [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>[COLOR white] Paris - Torre Eiffel [/COLOR] </title>
   <sportsdevil>https://www.skylinewebcams.com/en/webcam/france/ile-de-france/paris/tour-eiffel.html</sportsdevil>
 <referer>http://www.skylinewebcams.com</referer>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange] MADRID [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -79,7 +75,7 @@
 </item>
 
 <item>
-<title>[COLOR white] SEVILLA [/COLOR] </title>
+<title>[COLOR orange] SEVILLA [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -111,4 +107,26 @@
   <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/siviglia-plaza-san-francisco.html</sportsdevil>
   <referer>http://www.skylinewebcams.com</referer>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange] Añadiendo camaras.... 37% [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white] Cadiz, plaza de sevilla [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=jFELUgq46WA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white] Venice Italy - Rialto Bridge [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=vPbQcM4k1Ys</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
