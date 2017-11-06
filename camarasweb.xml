@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
@@ -22,13 +21,6 @@
   <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
   <thumbnail></thumbnail>
   <fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red] VIGO [/COLOR] </title>
-  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -128,3 +120,4 @@
 <referer>http://www.skylinewebcams.com</referer>
 <thumbnail></thumbnail>
 </item>
+
