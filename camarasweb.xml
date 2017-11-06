@@ -17,13 +17,6 @@
 </item>
 
 <item>
-  <title>[COLOR red] VIGO [/COLOR]</title>
-  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR orange] MADRID [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
@@ -121,3 +114,9 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+  <title>[COLOR red] VIGO [/COLOR]</title>
+  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
