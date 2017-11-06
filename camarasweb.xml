@@ -37,7 +37,7 @@
 </item>
 
 <item>
-<title>[COLOR white] *** [/COLOR] </title>
+<title>[COLOR white] MADRID [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -53,6 +53,62 @@
 <item>
   <title>[COLOR white] Madrid, Plaza del Callao [/COLOR] </title>
   <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/madrid-plaza-del-callao.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Madrid, Calle Gran Via [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/calle-gran-via.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Madrid, Plaza de España[/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/plaza-de-espana.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Madrid, Calle de Alcala [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/calle-alcala.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] SEVILLA [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+  <title>[COLOR white] Sevilla, Plaza de la Encarnacion [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/sevilla-plaza-de-la-encarnacion.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Sevilla, Avd. de la Constitucion [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/avenida-de-la-constitucion.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Sevilla, Catedral de Santa Maria [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/catedral-santa-maria-de-la-sede.html</sportsdevil>
+  <referer>http://www.skylinewebcams.com</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+  <title>[COLOR white] Sevilla, Plaza de San Francisco [/COLOR] </title>
+  <sportsdevil>https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/siviglia-plaza-san-francisco.html</sportsdevil>
   <referer>http://www.skylinewebcams.com</referer>
 <thumbnail></thumbnail>
 </item>
