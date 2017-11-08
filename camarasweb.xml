@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR orange] Buscando nuevas camaras.... 39% [/COLOR] </title>
+<title>[COLOR orange] Buscando nuevas camaras.... 37% [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -116,7 +116,8 @@
 
 <item>
   <title>[COLOR red] VIGO [/COLOR]</title>
-  <sportsdevil></sportsdevil>
+  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
+
