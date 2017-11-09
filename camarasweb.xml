@@ -116,7 +116,8 @@
 
 <item>
   <title>[COLOR red] VIGO movil [/COLOR]</title>
-  <sportsdevil></sportsdevil>
+  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
+  <referer>http://www.crtvg.es</referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
@@ -125,6 +126,7 @@
 <item>
   <title>[COLOR red] VIGO fija [/COLOR]</title>
   <sportsdevil></sportsdevil>
+  <referer></referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
