@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR orange] Buscando nuevas camaras.... 37% [/COLOR] </title>
+<title>[COLOR orange] Buscando nuevas camaras.... 39% [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -114,18 +114,10 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-  <title>[COLOR red] VIGO movil [/COLOR]</title>
-  <sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
-  <referer>http://www.crtvg.es</referer>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
-
 
 <item>
-  <title>[COLOR red] Bornholms Lufthavm [/COLOR]</title>
-  <sportsdevil>http://87.54.59.228/view/viewer_index.shtml?id=90</sportsdevil>
+  <title>[COLOR white] Bornholms Lufthavm [/COLOR]</title>
+  <link>http://87.54.59.228/view/viewer_index.shtml?id=90</link>
   <referer>http://87.54.59.228</referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
