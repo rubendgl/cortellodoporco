@@ -1,14 +1,7 @@
-renavision2017.ga</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail></thumbnail>
-</item>
-
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.5[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<title>[COLOR lime][B]Agenda servidor#1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -42,7 +35,7 @@ renavision2017.ga</referer>
 </item>
 
 <item>
-<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.6[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<title>[COLOR lime][B]Agenda servidor#2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -76,7 +69,7 @@ renavision2017.ga</referer>
 </item>
 
 <item>
-<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.7[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<title>[COLOR lime][B]Agenda servidor#3[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -112,7 +105,7 @@ renavision2017.ga</referer>
 
 
 <item>
-<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.8[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<title>[COLOR lime][B]Agenda servidor#4[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
