@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Arenavision</title>
+<title>[COLOR white] * [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR red][B] ZONA DEPORTES - Arenavision [/B][/COLOR]</title>
 <thumbnail>thumbnail</thumbnail>
 <fanart>http://www.fondos7.net/wallpaper-original/wallpapers/cancha-verde-de-futbol-6902.jpg</fanart>
 <link>http://ignoreme</link>
