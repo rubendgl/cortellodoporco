@@ -114,11 +114,31 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR orange] Estaciones Esqui [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
-  <title>[COLOR white] Bornholms Lufthavm [/COLOR]</title>
-  <link>http://87.54.59.228/view/viewer_index.shtml?id=90</link>
-  <referer>http://87.54.59.228</referer>
+  <title>[COLOR white] Live cam - Manzaneda 1 [/COLOR]</title>
+  <sportsdevil>http://ipcamlive.com/player/player.php?alias=582b900edb0f9&autoplay=1&disablevideofit=1&token=2de839f5&debug=1</sportsdevil>
+  <referer>http://ipcamlive.com</referer>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>[COLOR white] Live cam - Manzaneda 2 [/COLOR]</title>
+  <sportsdevil>http://ipcamlive.com/player/player.php?alias=58387efb7b012&autoplay=1&disablevideofit=1&token=35485088&debug=1</sportsdevil>
+  <referer>http://ipcamlive.com</referer>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>[COLOR white] Live cam - Manzaneda 3 [/COLOR]</title>
+  <sportsdevil>http://ipcamlive.com/player/player.php?alias=58330ef7a0388&autoplay=1&disablevideofit=1&token=37a85e58&debug=1</sportsdevil>
+  <referer>http://ipcamlive.com</referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
