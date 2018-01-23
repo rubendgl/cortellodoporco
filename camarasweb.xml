@@ -123,12 +123,13 @@
 
 
 <item>
-  <title>[COLOR white] Live cam - Manzaneda [/COLOR]</title>
-  <sportsdevil>http://www.manzaneda.info/2016/webcam/</sportsdevil>
-  <referer>http://manzaneda.info/webcam</referer>
+  <title>[COLOR white] San Isidro [/COLOR]</title>
+  <link>plugin://plugin.video.youtube/play/?video_id=Y9BRdf7G_7E</link>
+  <referer></referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
+
 
 
 
