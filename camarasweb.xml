@@ -121,24 +121,11 @@
 <fanart></fanart>
 </item>
 
+
 <item>
-  <title>[COLOR white] Live cam - Manzaneda 1 [/COLOR]</title>
-  <sportsdevil>http://ipcamlive.com/player/player.php?alias=582b900edb0f9&autoplay=1&disablevideofit=1&token=2de839f5&debug=1</sportsdevil>
-  <referer>http://ipcamlive.com</referer>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
-<item>
-  <title>[COLOR white] Live cam - Manzaneda 2 [/COLOR]</title>
-  <sportsdevil>http://ipcamlive.com/player/player.php?alias=58387efb7b012</sportsdevil>
-  <referer>http://ipcamlive.com</referer>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
-<item>
-  <title>[COLOR white] Live cam - Manzaneda 3 [/COLOR]</title>
-  <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/probando</externallink>
-  <referer>http://ipcamlive.com</referer>
+  <title>[COLOR white] Live cam - Manzaneda [/COLOR]</title>
+  <sportsdevil>http://www.manzaneda.info/2016/webcam</sportsdevil>
+  <referer>http://manzaneda.info/webcam</referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
