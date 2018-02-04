@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B]Agenda servidor#1[/B][/COLOR] <> [COLOR lime][B]OFF[/B][/COLOR]</title>
+<title>[COLOR red][B]Agenda servidor#1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]Agenda servidor#2[/B][/COLOR]<> [COLOR lime][B]OFF[/B][/COLOR]</title>
+<title>[COLOR red][B]Agenda servidor#2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -105,7 +105,7 @@
 
 
 <item>
-<title>[COLOR lime][B]Agenda servidor#4[/B][/COLOR]<> [COLOR lime][B]OFF[/B][/COLOR]</title>
+<title>[COLOR red][B]Agenda servidor#4[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
