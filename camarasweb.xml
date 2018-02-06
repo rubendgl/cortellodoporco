@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR orange] CADIZ [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -96,6 +96,54 @@
 <item>
 <title>[COLOR white] Cadiz, plaza de sevilla [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=NiduuFQL_0A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ASTURIAS [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white] Playa de Salinas [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=uXdFF_4lrUI</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LEON [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white] Riaño, pico Yordas [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=Q33h8Q4iFUU</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
