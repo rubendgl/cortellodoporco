@@ -224,7 +224,7 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 13 - OK[/COLOR]</title>
+            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 13 -OK[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
