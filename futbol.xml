@@ -229,7 +229,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.us/node/37</page>
+            <page>http://arenavision2018.tk/node/37</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
