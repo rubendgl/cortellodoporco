@@ -94,7 +94,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision.us/e-guide</page>
+<page>http://arenavision.us/uide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
