@@ -31,7 +31,7 @@
 
 
  <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1[/COLOR]</title>
+            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1 - OK[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV1</link>
             <regex>
             <name>hash</name>
@@ -224,13 +224,13 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 13[/COLOR]</title>
+            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 13 - OK[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk/node/37</page>
-            <referer>http://www.arenavision.ru</referer>
+            <page>http://arenavision2018.us/node/37</page>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
