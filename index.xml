@@ -9,55 +9,14 @@
 </item>
 
 <item>
-<title>[COLOR red][B] ZONA DEPORTES - Arenavision [/B][/COLOR]</title>
+<title>[COLOR red][B] Canales Deporte - Arenavision [/B][/COLOR]</title>
 <thumbnail>thumbnail</thumbnail>
 <fanart>http://www.fondos7.net/wallpaper-original/wallpapers/cancha-verde-de-futbol-6902.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/futbol.xml</externallink>
 </item>
  
-<!--
-<item>
-<title>Formula 1 -streaming SD-</title>
-<thumbnail>https://www.neostuff.net/wp-content/uploads/2014/07/formula1-logo.png</thumbnail>
-<fanart>http://monzanet.s3-eu-central-1.amazonaws.com/uploads/2015/08/16154814/DSC_0146.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/formula1.xml</externallink>
-</item>
- 
-<item>
-<title>Moto GP -streaming SD-</title>
-<thumbnail>https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/vespa-256.png</thumbnail>
-<fanart>http://wallpaperput.com/wp-content/uploads/2014/10/marc-marquez-motogp-best-HD-wallpaper.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/motogp.xml</externallink>
-</item>
 
-
-<item>
-<title>Televisión [COLOR red][B] [ Abudhabi tv ] [/B][/COLOR]</title>
-<thumbnail>.png</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/abudhabitv</externallink>
-</item>
-
-<item>
-<title>[COLOR red][B] [ Servidores IPTV ] [/B][/COLOR] [COLOR white] global updates [/COLOR]</title>
-<thumbnail>.png</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/IPTV</externallink>
-</item>
-
-<item>
-<title>[COLOR red][B] [ Servidores IPTV ] [/B][/COLOR] [COLOR white] ESPAÑA [/COLOR]</title>
-<thumbnail>.png</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/vgR5r8WV</externallink>
-</item>
--->
 <item>
 <title>[COLOR white][B] * [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
@@ -66,11 +25,19 @@
 <externallink></externallink>
 </item>
 <item>
-<title>[COLOR gold][B] IPTV [/B][/COLOR]</title>
+<title>[COLOR lightblue][B] M o v i s t a r + [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/IPTV</externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] * [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
 
 <item>
@@ -79,6 +46,14 @@
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tdt</externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] * [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
 
 <item>
