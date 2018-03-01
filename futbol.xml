@@ -61,7 +61,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/10</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -77,7 +77,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/11</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -93,7 +93,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/12</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -109,7 +109,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/13</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -125,7 +125,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/2</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -141,7 +141,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/23</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -157,7 +157,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/34</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -173,7 +173,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/35</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -189,7 +189,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/36</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -205,7 +205,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/32</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -221,7 +221,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/33</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -253,7 +253,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/38</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -269,7 +269,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/39</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -285,7 +285,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/40</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -300,7 +300,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/41</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -315,7 +315,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/42</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -330,7 +330,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/43</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -345,7 +345,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/44</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -360,7 +360,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/30</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -376,7 +376,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/31</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -392,7 +392,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/14</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -408,7 +408,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/15</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -424,7 +424,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/16</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -441,7 +441,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/17</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -457,7 +457,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/20</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -474,7 +474,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/24</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -491,7 +491,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/27</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -507,7 +507,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/29</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -523,7 +523,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/61</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -539,7 +539,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2017.tk//node/62</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -555,7 +555,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/63</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -571,7 +571,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/64</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -587,7 +587,7 @@
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
             <page>http://arenavision2018.gq/node/65</page>
-            <referer>http://www.arenavision.ru</referer>
+            <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
