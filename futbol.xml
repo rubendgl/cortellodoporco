@@ -51,8 +51,14 @@
 <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
+<item>
+	<title>[B][COLOR white]                                                                                             [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
 
- <item>
+<item>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV1</link>
             <regex>
