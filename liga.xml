@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
 	<title>[B][COLOR white] * [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
@@ -7,29 +8,22 @@
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
+
 <item>
-<title>[B][COLOR lime] SERVIDOR #tk [/COLOR][/B][B][COLOR lightblue]    última actualización 18/03/18 22:39[/COLOR][/B]</title>
+<title>[B][COLOR lime] SERVIDOR #ga [/COLOR][/B][B][COLOR lightblue]  última actualización 18/03/18 22:25[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
+
 <item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
-
-
-
-	<item>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV1</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/8</page>
+            <page>http://arenavision2018.ga/node/8</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>             
@@ -46,7 +40,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/10</page>
+            <page>http://arenavision2018.ga/node/10</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -62,7 +56,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/11</page>
+            <page>http://arenavision2018.ga/node/11</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -78,7 +72,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/12</page>
+            <page>http://arenavision2018.ga/node/12</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -94,7 +88,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/13</page>
+            <page>http://arenavision2018.ga/node/13</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -110,7 +104,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/2</page>
+            <page>http://arenavision2018.ga/node/2</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -126,7 +120,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/23</page>
+            <page>http://arenavision2018.ga/node/23</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -142,7 +136,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/34</page>
+            <page>http://arenavision2018.ga/node/34</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -158,7 +152,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/35</page>
+            <page>http://arenavision2018.ga/node/35</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -174,7 +168,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/36</page>
+            <page>http://arenavision2018.ga/node/36</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -190,7 +184,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/32</page>
+            <page>http://arenavision2018.ga/node/32</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -206,7 +200,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/33</page>
+            <page>http://arenavision2018.ga/node/33</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -222,7 +216,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/37</page>
+            <page>http://arenavision2018.ga/node/37</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -238,7 +232,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/38</page>
+            <page>http://arenavision2018.ga/node/38</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -254,7 +248,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/39</page>
+            <page>http://arenavision2018.ga/node/39</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -270,7 +264,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/40</page>
+            <page>http://arenavision2018.ga/node/40</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -285,7 +279,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/41</page>
+            <page>http://arenavision2018.ga/node/41</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -300,7 +294,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/42</page>
+            <page>http://arenavision2018.ga/node/42</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -315,7 +309,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/43</page>
+            <page>http://arenavision2018.ga/node/43</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -330,7 +324,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/44</page>
+            <page>http://arenavision2018.ga/node/44</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -345,7 +339,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/30</page>
+            <page>http://arenavision2018.ga/node/30</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -361,7 +355,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/31</page>
+            <page>http://arenavision2018.ga/node/31</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -377,7 +371,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/14</page>
+            <page>http://arenavision2018.ga/node/14</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -393,7 +387,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/15</page>
+            <page>http://arenavision2018.ga/node/15</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -409,7 +403,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/16</page>
+            <page>http://arenavision2018.ga/node/16</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -426,7 +420,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/17</page>
+            <page>http://arenavision2018.ga/node/17</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -442,7 +436,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/20</page>
+            <page>http://arenavision2018.ga/node/20</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -459,7 +453,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/24</page>
+            <page>http://arenavision2018.ga/node/24</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -476,7 +470,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/27</page>
+            <page>http://arenavision2018.ga/node/27</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -492,7 +486,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/29</page>
+            <page>http://arenavision2018.ga/node/29</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -508,7 +502,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/61</page>
+            <page>http://arenavision2018.ga/node/61</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -540,7 +534,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/63</page>
+            <page>http://arenavision2018.ga/node/63</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -556,7 +550,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/64</page>
+            <page>http://arenavision2018.ga/node/64</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -572,7 +566,7 @@
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.tk/node/65</page>
+            <page>http://arenavision2018.ga/node/65</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>

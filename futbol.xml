@@ -23,19 +23,28 @@
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR white] Servidor AV #3 - Europa League [/COLOR][/B]</title>
+	<title>[B][COLOR white] Servidor AV #3 -tk- [/COLOR][/B]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/europaleague.xml</externallink>
 </item>
 
 <item>
-	<title>[B][COLOR white] Servidor AV #2 - Champions [/COLOR][/B]</title>
+	<title>[B][COLOR white] Servidor AV #2 -ml- [/COLOR][/B]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/championsleague.xml</externallink>
 </item>
+
+<item>
+	<title>[B][COLOR white] Servidor AV #1 -ga- [/COLOR][/B]</title>
+	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+	<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/liga.xml</externallink>
+</item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--
 <item>
 	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
@@ -593,7 +602,6 @@
             </item>
 
 
-
  
   <item>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 35[/COLOR]</title>
@@ -607,3 +615,5 @@
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
             </item>
+
+

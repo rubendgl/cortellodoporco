@@ -5,8 +5,7 @@
 
 <item>
 <title>[COLOR white]TVE 1[/COLOR]</title>
-<sportsdevil>http://zagaiptv.eklablog.com/tve1-spain-p1157476</sportsdevil>
-<referer>http://zagaiptv.eklablog.com/</referer>
+<link>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</link>
 <thumbnail>http://www.carloscuenca.net/wp-content/uploads/logo-tve-1-publicidad.jpg</thumbnail>
 </item>
 
@@ -14,19 +13,23 @@
            
 <item>
 <title>[COLOR white]TVE 2[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
+<sportdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportdevil>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png</thumbnail>
 </item>
  
-
+------------------------------------------------------------------------------------------------------------------------------------
+<item>
+<title>[COLOR white]ANTENA3[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
+</item>
  
 <item>
 <title>[COLOR white]ANTENA3 HD [/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
 <thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
 </item>
-
+------------------------------------------------------------------------------------------------------------------------------------
 
 
 <item>
@@ -52,3 +55,10 @@
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>http://img.actualidadmotor.com/wp-content/uploads/2011/03/LaSextaHD.jpeg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white]#0[/COLOR]</title>
+<link>http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d9/Cero3.png</thumbnail>
+</item>
+
