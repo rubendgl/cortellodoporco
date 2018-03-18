@@ -2,44 +2,50 @@
 
 
 
-
-
-		<item>
-		<title>[COLOR skyblue]MOVISTAR MOTOGP[/COLOR]</title>
-		<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-		<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo-300x300.png</thumbnail>
-	</item>
-	
-		
-	
-		<item>
-		<title>[COLOR skyblue]MOVISTAR F1[/COLOR]</title>
-		 <sportsdevil>http://vercanalestv.com/tv/deportes/formula-1.html</sportsdevil>
-        <referer>http://www.vercanalestv.com/tv/deportes/formula-1.html</referer>
-		<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1-300x300.png</thumbnail>
-	</item>
+<item>
+<title>[COLOR white][B]· Movistar MotoGP[/COLOR][/B]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
+<referer>http://www.vertelevision.online/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
 
 <item>
-		<title>[COLOR skyblue]TOROS TV[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/toro</referer>
-		<thumbnail>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</thumbnail>
-	</item>
+<title>[COLOR skyblue]MOVISTAR MOTOGP[/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo-300x300.png</thumbnail>
+</item>
+
+-------------------------------------------------------------------------------------------------------------------	
+<item>
+<title>[COLOR white][B]· Movistar F1[/COLOR][/B]</title>
+<sportsdevil>http://vertelevision.online/tv/deportes/formula1.php</sportsdevil>
+<referer>http://www.vertelevision.online/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>		
 	
-	<item>
-		<title>[COLOR skyblue]CAZA Y PESCA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
-		<thumbnail>http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg</thumbnail>
-	</item>
+<item>
+<title>[COLOR skyblue]MOVISTAR F1[/COLOR]</title>
+<sportsdevil>http://vercanalestv.com/tv/deportes/formula-1.html</sportsdevil>
+<referer>http://www.vercanalestv.com/tv/deportes/formula-1.html</referer>
+<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1-300x300.png</thumbnail>
+</item>
+-------------------------------------------------------------------------------------------------------------------	
 	
-			<item>
-		<title>[COLOR skyblue]BEIN LIGA[/COLOR]</title>
-		<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
-		<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
-		<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
-	</item>
+<item>
+<title>[COLOR skyblue]BEIN LIGA[/COLOR]</title>
+<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
+<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]BEIN LIGA #2[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
+<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
+</item>
+
 	
 	
 	
