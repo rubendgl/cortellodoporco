@@ -2,81 +2,7 @@
 
 
 <item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
-
-<item>
-	<title>[B][COLOR red]****AGENDA****[/COLOR][/B]</title>
-	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/Agenda</externallink>
-</item>
-
-<item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
-
-<item>
-	<title>[B][COLOR green] ultima actualizacion 19/03/18 - servidor activo AV #2 [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white] Servidor AV #1 -ga- [/COLOR][/B]</title>
-	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor1.xml</externallink>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white] Servidor AV #2 -tk- [/COLOR][/B]</title>
-	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor2.xml</externallink>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<item>
-	<title>[B][COLOR white] Servidor AV #3 -ml- [/COLOR][/B]</title>
-	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-	<link>http://ignoreme</link>
-	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor3.xml</externallink>
-</item>
-
------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------
-<!--
-<item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
+	<title>[B][COLOR white] * [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
@@ -84,14 +10,14 @@
 
 
 <item>
-<title>[B][COLOR lime] CANALES [ga] [/COLOR][/B][B][COLOR lightblue]  última actualización 14/03/18 19:55[/COLOR][/B]</title>
+<title>[B][COLOR lime] SERVIDOR #ga [/COLOR][/B][B][COLOR lightblue]  última actualización 18/03/18 22:25[/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
 
- <item>
+<item>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV1</link>
             <regex>
@@ -632,6 +558,7 @@
             </item>
 
 
+
  
   <item>
             <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 35[/COLOR]</title>
@@ -645,5 +572,3 @@
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
             </item>
-
-
