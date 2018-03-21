@@ -1,123 +1,83 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+ 
 
+#EXTINF:-1,ENERGY
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
+#EXTINF:-1,Nacional:Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1,Mundo Auto TV
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
+#EXTINF:-1,beIN Sports ES HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1,beIN La Liga HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 
-<item>
-<title>[COLOR white][B]· Movistar MotoGP[/COLOR][/B]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
-<referer>http://www.vertelevision.online/</referer>
-<thumbnail>.jpg</thumbnail>
-</item>
+#EXTINF:-1,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:-1,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:-1,beIN LaLiga opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,LaLiga TV opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,Bein Sports Ñ Latino
+http://192.99.39.218:25461/live/arodriguez/arodriguez/5768.ts
+#EXTINF:-1,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,Bein Sports Opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1,Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 
-<item>
-<title>[COLOR skyblue]MOVISTAR MOTOGP[/COLOR]</title>
-<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo-300x300.png</thumbnail>
-</item>
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1,Sky Sports 1 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8
+#EXTINF:-1,Sky Sports 2 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
+#EXTINF:-1,Rai Sports
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
 
--------------------------------------------------------------------------------------------------------------------	
-<item>
-<title>[COLOR white][B]· Movistar F1[/COLOR][/B]</title>
-<sportsdevil>http://vertelevision.online/tv/deportes/formula1.php</sportsdevil>
-<referer>http://www.vertelevision.online/</referer>
-<thumbnail>.jpg</thumbnail>
-</item>		
-	
-<item>
-<title>[COLOR skyblue]MOVISTAR F1[/COLOR]</title>
-<sportsdevil>http://vercanalestv.com/tv/deportes/formula-1.html</sportsdevil>
-<referer>http://www.vercanalestv.com/tv/deportes/formula-1.html</referer>
-<thumbnail>http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1-300x300.png</thumbnail>
-</item>
--------------------------------------------------------------------------------------------------------------------	
-	
-<item>
-<title>[COLOR skyblue]BEIN LIGA[/COLOR]</title>
-<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
-<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
-</item>
+#EXTINF:-1,beIN Sports ES HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1,beIN La Liga HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1,La Liga TV HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8
+#EXTINF:-1,M+ Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1,M+ Futbol HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
+#EXTINF:-1,M+ MotoGP HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
+#EXTINF:-1,M+ Golf HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8
 
-<item>
-<title>[COLOR skyblue]BEIN LIGA #2[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
-<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
-</item>
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1,BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1,MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
-	
-	
-	
-	<item>
-		<title>[COLOR skyblue]BEIN SPORT ESPAÑA[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</sportsdevil>
-		<referer>http://verplusonline.com/ver-bein-sport-n/</referer>
-		<thumbnail>http://vercanalestv.com/logos/bein-sports.png</thumbnail>
-	</item>
-	
-					<item>
-		<title>[COLOR skyblue]LA LIGA TV[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=barliga&width=650&height=397</sportsdevil>
-		<referer>http://verplusonline.com/laligatv/</referer>
-		<thumbnail>https://karllusbec.files.wordpress.com/2012/06/liga-bbva.jpg</thumbnail>
-	</item>
-	
-	
-						<item>
-		<title>[COLOR skyblue]PARTIDAZO[/COLOR]</title>
-		 <sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
-        <referer>http://www.vercanalestv.com/tv/deportes/plus-partidazo.html</referer>
-		<thumbnail>https://www.tododream.com/foro/cache.php?img=http%3A%2F%2Fi.imgur.com%2FTlUiwhP.png</thumbnail>
-	</item>
-	
-						<item>
-		<title>[COLOR skyblue]M.FUTBOL[/COLOR]</title>
-		 <sportsdevil>http://wwww.dinostream.pw/channel.php?file=105997&width=650&height=400&autostart=true</sportsdevil>
-        <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</referer>
-		<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
-	</item>
-	
-	
-	
-					<item>
-		<title>[COLOR skyblue]BEIN SPORT Ñ[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=beinsportn&width=650&height=397</sportsdevil>
-		<referer>http://verplusonline.com/ver-bein-sport-espana-en-directo-gratis-y-en-vivo-por-internet-opcion-2/</referer>
-		<thumbnail>https://www.yiptv.com/wp-content/uploads/2015/11/bein-n-blog.jpg</thumbnail>
-	</item>
-	
-	
-
-	
-	
-	
-		<item>
-		<title>[COLOR skyblue]EUROSPORT 1[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
-		<thumbnail>http://4.bp.blogspot.com/-pO4sj5xn73c/Ua7Aix4idTI/AAAAAAAAGns/nyDdsgBl-RY/s1600/Eurosport+logo+2011+on+black_png.png</thumbnail>
-		
-	</item>
-	
-	<item>
-		<title>[COLOR skyblue]EUROSPORT 2[/COLOR]</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
-		<thumbnail>http://zonacycling.com/wp-content/uploads/2015/07/es2.png</thumbnail>
-	</item>
-	
-	
-<item>
-		<title>[COLOR skyblue]MOVISTAR DEPORTES 1[/COLOR]</title>
-		<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
-        <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
-		<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
-	</item>
-	
-	<item>
-		<title>[COLOR skyblue]MOVISTAR DEPORTES 2[/COLOR]</title>
-		<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
-        <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
-		<thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
-	</item>
