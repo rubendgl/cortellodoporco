@@ -87,15 +87,38 @@
 	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
-
+-------------------------------------------------------------------------------------------------------------------------------
 <item> 
-           <title>[COLOR red] Bein LaLiga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12267.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="Bein LaLiga" tvg-logo="" group-title="DIRECTO"Bein LaLiga</link> 
+	<title>[COLOR red] Bein LaLiga [/COLOR]</title> 
+	<link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12267.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="Bein LaLiga" tvg-logo="" group-title="DIRECTO"Bein LaLiga</link> 
 </item>
 
-
-
-
+<item> 
+	<title>[COLOR red] Bein LaLiga #2[/COLOR]</title> 
+	<link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9856.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="Bein LaLiga 720" tvg-logo="" group-title="DIRECTO"Bein LaLiga 720</link> 
+</item>
+-------------------------------------------------------------------------------------------------------------------------------
+<item> 
+           <title>[COLOR red] Bein Sports [/COLOR] </title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports" tvg-logo="" group-title="DIRECTO"BeIN Sports</link> 
+</item> 
+<item> 
+           <title>[COLOR red] Bein Sports #2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12268.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item> 
+<item> 
+           <title>[COLOR red] Bein Sports HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports 720" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports 720" tvg-logo="" group-title="DIRECTO"BeIN Sports 720</link> 
+</item> 
+<item> 
+           <title>[COLOR red] Bein Sports HD #2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item> 
+<item> 
+           <title>[COLOR red] Bein Sports FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports HD 1080" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports HD 1080" tvg-logo="" group-title="DIRECTO"BeIN Sports HD 1080</link> 
+</item> 
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
