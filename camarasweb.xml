@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+</item>
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item><item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>[COLOR lime][B] Dedicada a mi amigo Armando.....[/B][/COLOR]</title>
 	<sportsdevil>https://aquarium.ucsd.edu/kelpcam</sportsdevil>
@@ -28,12 +39,6 @@
 </item>
 
 
-<item>
-<title>                                 [COLOR white][B]CAMARAS ONLINE[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://ignorame</externallink>
-<thumbnail>http://prevenircdmx.com.mx/media/contenidos/camaraVIGILANCIA.jpg</thumbnail>
-</item>
 
 <item>
 <title>                                   [COLOR orange][B]* * * * * *[/B][/COLOR]</title>
