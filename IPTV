@@ -1,17 +1,16 @@
 #EXTM3U
  
 
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
-#EXTINF:-1,Nacional:Real Madrid TV
+
+#EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1,Real Madrid TV opción 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,Mundo Auto TV
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-#EXTINF:-1,beIN Sports ES HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+
+
 #EXTINF:-1,beIN La Liga HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 
@@ -21,10 +20,9 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 http://163.172.202.69:4022/formula1hd
 #EXTINF:-1,Movistar F1 opción 3
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-#EXTINF:-1,Movistar MotoGP Opción 1
+#EXTINF:-1,Movistar MotoGP Opción 1 FHD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1,Movistar MotoGP Opción 2
-http://163.172.202.69:4022/motogphd
+
 #EXTINF:-1,beIN LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 2
@@ -55,8 +53,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/inde
 
 #EXTINF:-1,beIN Sports ES HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
-#EXTINF:-1,beIN La Liga HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
 #EXTINF:-1,La Liga TV HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
 #EXTINF:-1,Extreme Sports Channel
