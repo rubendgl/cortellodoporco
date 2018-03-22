@@ -33,6 +33,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B] Servidor IPTV - Canales TV - Españoles y resto del mundo  [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/tvmundial.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR white][B] * [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
