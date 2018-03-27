@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-</item>
+
 <item>
 <title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item><item>
+</item>
+
+<item>
 <title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>[COLOR lime][B] Acuario gigante.....[/B][/COLOR]</title>
 	<sportsdevil>https://aquarium.ucsd.edu/kelpcam</sportsdevil>
 	<referer>http://aquarium.ucsd.edu</referer>
 	<thumbnail></thumbnail>
 </item>
+
 <item>
 <title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
@@ -31,19 +35,32 @@
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item><item>
+</item>
+
+<item>
 <title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item><item>
+</item>
+
+<item>
 <title>[COLOR orange] ISS Live feed #1 [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=-a4xUbtrBHk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item><item>
+</item>
+
+<item>
 <title>[COLOR orange] ISS Live feed #2 [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] Hubble Space Telescope [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=5_-rh6L1jiU</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -53,7 +70,45 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 ------------------------------------------------------------------------------------------------------------------
+
 <item>
 <title>                                 [COLOR white][B]CAMARAS ONLINE[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -225,18 +280,10 @@
 
 
 <item>
-  <title>[COLOR white] San Isidro - Sector Salencias [/COLOR]</title>
-  <link>plugin://plugin.video.youtube/play/?video_id=Y9BRdf7G_7E</link>
+  <title>[COLOR white] ''''''''''''''''''''''''''''''''''''' [/COLOR]</title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
   <referer></referer>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
 
-
-
-
-
-<!--
-<sportsdevil>http://www.crtvg.es/crtvg/camaras-web/vigo-mobil</sportsdevil>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
