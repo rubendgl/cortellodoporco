@@ -14,7 +14,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR lime][B] Dedicada a mi amigo Armando.....[/B][/COLOR]</title>
+<title>[COLOR lime][B] Acuario gigante.....[/B][/COLOR]</title>
 	<sportsdevil>https://aquarium.ucsd.edu/kelpcam</sportsdevil>
 	<referer>http://aquarium.ucsd.edu</referer>
 	<thumbnail></thumbnail>
@@ -24,7 +24,30 @@
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange] NASA TV [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item><item>
+<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item><item>
+<title>[COLOR orange] ISS Live feed #1 [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=-a4xUbtrBHk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item><item>
+<title>[COLOR orange] ISS Live feed #2 [/COLOR] </title>
+  <link>plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
 <title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
