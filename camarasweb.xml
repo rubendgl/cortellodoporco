@@ -3,14 +3,14 @@
 
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -24,83 +24,83 @@
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] NASA TV [/COLOR] </title>
+  <title>[COLOR orange] *** NASA TV *** [/COLOR] </title>
+  <sportsdevil>http://www.nasa.gov/multimedia/nasatv/index.html</sportsdevil>
+  <referer>http://www.nasa.gov</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
-  <link>plugin://plugin.video.youtube/play/?video_id=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR orange] ISS Live feed #1 [/COLOR] </title>
+<title>[COLOR orange]  *** ISS Live feed #1 *** [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=-a4xUbtrBHk</link>
-<thumbnail></thumbnail>
+<thumbnail>https://proxy.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F04%2FInternational_Space_Station_after_undocking_of_STS-132.jpg&u=https://upload.wikimedia.org/wikipedia/commons/0/04/International_Space_Station_after_undocking_of_STS-132.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ISS Live feed #2 [/COLOR] </title>
+<title>[COLOR orange] *** ISS Live feed #2 *** [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM</link>
-<thumbnail></thumbnail>
+<thumbnail>https://proxy.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F04%2FInternational_Space_Station_after_undocking_of_STS-132.jpg&u=https://upload.wikimedia.org/wikipedia/commons/0/04/International_Space_Station_after_undocking_of_STS-132.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] Hubble Space Telescope [/COLOR] </title>
+<title>[COLOR orange] *** Hubble Space Telescope *** [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=5_-rh6L1jiU</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange] ````````````````````````````````` [/COLOR] </title>
+<title>[COLOR white] ````````````````````````````````` [/COLOR] </title>
   <link>plugin://plugin.video.youtube/play/?video_id=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
