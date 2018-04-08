@@ -13,8 +13,36 @@
 </item>
 
 <item>
-<title>[COLOR white][B]· Movistar MotoGP[/COLOR][/B]</title>
+<title>[COLOR white][B] MotoGP opcion 1 [/COLOR][/B]</title>
 <sportsdevil>http://vertelevision.online/tv/deportes/motogp.php</sportsdevil>
 <referer>http://www.vertelevision.online/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] MotoGP opcion 2 [/COLOR][/B]</title>
+<sportsdevil>http://vercanalestv.com/tv/deportes/motogp-multi.php</sportsdevil>
+<referer>http://www.vercanalestv.com</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] MotoGP opcion 3 [/COLOR][/B]</title>
+<sportsdevil>http://vertelevisor.com/tv/deportes/moto-gp.php</sportsdevil>
+<referer>http://www.vertelevisor.com</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] Sky Sport MotoGP [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysportmotogp.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] MotoGP opcion 4 [/COLOR][/B]</title>
+<sportsdevil>http://verplusonline.com/movistar-motogp-online-vivo-gratis/</sportsdevil>
+<referer>http://www.verplusonline.com</referer>
 <thumbnail>.jpg</thumbnail>
 </item>
