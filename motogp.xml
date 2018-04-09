@@ -6,7 +6,14 @@
 
 
 <item>
-<title>[COLOR blue]********** Canales Retransmisión MOTO GP ********** [/COLOR] [COLOR green]--[/COLOR] </title>        
+<title>[COLOR blue]********** Canales Retransmisión MOTO GP ********** [/COLOR] </title>        
+<urlsolve> - </urlsolve>
+<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
+<fanart>http://photos.motogp.com/2017/08/30/lg5_2818.topcontent_2x.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow] *** *** [/COLOR] </title>        
 <urlsolve> - </urlsolve>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>http://photos.motogp.com/2017/08/30/lg5_2818.topcontent_2x.jpg</fanart>
@@ -34,14 +41,14 @@
 </item>
 
 <item>
-<title>[COLOR white][B] Sky Sport MotoGP [/COLOR][/B]</title>
-<sportsdevil>http://www.liveonlinetv247.info/embed/skysportmotogp.php</sportsdevil>
-<referer>http://www.liveonlinetv247.info</referer>
+<title>[COLOR white][B] MotoGP opcion 4 [/COLOR][/B]</title>
+<sportsdevil>http://vercanalestv.com/tv/deportes/moto-gp.php</sportsdevil>
+<referer>http://vercanalestv.com</referer>
 <thumbnail>.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B] MotoGP opcion 4 [/COLOR][/B]</title>
+<title>[COLOR white][B] MotoGP opcion 5 [/COLOR][/B]</title>
 <sportsdevil>http://verplusonline.com/movistar-motogp-online-vivo-gratis/</sportsdevil>
 <referer>http://www.verplusonline.com</referer>
 <thumbnail>.jpg</thumbnail>
