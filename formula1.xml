@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR green]Canales Retransmisión FORMULA 1[/COLOR] [COLOR white] [/COLOR] [COLOR red] [/COLOR]</title>
+<title>[COLOR blue]********** Canales Retransmisión Formula 1 *********** [/COLOR] </title>
 <thumbnail>https://www.neostuff.net/wp-content/uploads/2014/07/formula1-logo.png</thumbnail>
 <fanart>http://monzanet.s3-eu-central-1.amazonaws.com/uploads/2015/08/16154814/DSC_0146.jpg</fanart>
 <link>http://ignoreme</link>
@@ -10,13 +10,44 @@
 </item>
 
 <item>
-<title>[COLOR white][B]· Movistar F1[/COLOR][/B]</title>
+<title>[COLOR orange] *** *** [/COLOR] </title>
+<thumbnail>https://www.neostuff.net/wp-content/uploads/2014/07/formula1-logo.png</thumbnail>
+<fanart>http://monzanet.s3-eu-central-1.amazonaws.com/uploads/2015/08/16154814/DSC_0146.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+==========================================================================================================
+<item>
+<title>[COLOR white][B] Formula 1 opcion 1 [/COLOR][/B]</title>
+<sportsdevil>http://verplusonline.com/ver-movistar-f1-online/</sportsdevil>
+<referer>http://verplusonline.com/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B] Formula 1 opcion 2 [/COLOR][/B]</title>
+<sportsdevil>http://telefivegb.com/canales/deporte/F1/index2.html</sportsdevil>
+<referer>http://verplusonline.com/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
+==========================================================================================================
+<!--
+<item>
+<title>[COLOR white][B] Formula 1 [/COLOR][/B]</title>
 <sportsdevil>http://vertelevision.online/tv/deportes/formula1.php</sportsdevil>
 <referer>http://www.vertelevision.online/</referer>
 <thumbnail>.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR white][B] Formula 1 [/COLOR][/B]</title>
+<sportsdevil>http://vertelevision.online/tv/deportes/formula1.php</sportsdevil>
+<referer>http://www.vertelevision.online/</referer>
+<thumbnail>.jpg</thumbnail>
+</item>
 
+-->
 
 
 
