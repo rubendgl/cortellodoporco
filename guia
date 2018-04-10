@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR white][B] * [/B][/COLOR]</title>
+<title>[COLOR red][B] * [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] MARTES 10 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
+<title>[COLOR blue][B]          MARTES 10 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] ROMA-FC BARCELONA [/B][/COLOR] [COLOR lime] AV[19-20] [/COLOR]</title>
+<title>[COLOR white][B] + ROMA-FC BARCELONA [/B][/COLOR] [COLOR lime] AV[19-20] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] MANCHESTER CITY-LIVERPOOL [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + MANCHESTER CITY-LIVERPOOL [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] MIERCOLES 11 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
+<title>[COLOR blue][B]          MIERCOLES 11 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] REAL MADRID-JUVENTUS [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + REAL MADRID-JUVENTUS [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -52,7 +52,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] FC BAYERN-SEVILLA [/B][/COLOR] [COLOR lime] AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + FC BAYERN-SEVILLA [/B][/COLOR] [COLOR lime] AV[1-2] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
