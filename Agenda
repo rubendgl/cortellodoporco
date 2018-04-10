@@ -149,11 +149,11 @@
 <externallink></externallink>
 </item>
 <item>
-<title>[COLOR lightblue][B] ****** pruebas agenda [no usar]****** [/B][/COLOR]</title>
+<title>[COLOR red][B] ****** agenda eventos [ en pruebas ] ****** [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
-<link>http://www.arenavision.us/guide</link>
-<externallink>http://www.arenavision.us/guide</externallink>
+<link>http://</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/guia</externallink>
 </item>
 <item>
 <title>[COLOR white][B] * [/B][/COLOR]</title>
