@@ -138,3 +138,34 @@
  </regex>
 <thumbnail></thumbnail>
 </item>
+
+
+
+<item>
+<title>[COLOR white][B] * [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+<item>
+<title>[COLOR white][B] ****** pruebas agenda [no usar]****** [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+<item>
+<title>[COLOR white][B] * [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://www.arenavision.us/guide</link>
+<externallink></externallink>
+</item>
+<item>
+<title>[COLOR white][B] * [/B][/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
