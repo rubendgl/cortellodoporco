@@ -81,8 +81,8 @@
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.us/$doregex[canal]</page>
-			<referer>http://www.arenavision.us</referer>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 				<regex>
@@ -95,9 +95,9 @@
 
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://www.arenavision.us/guide</page>
+<page>http://arenavision.us/guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://www.arenavision.us</referer>
+<referer>http://arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <thumbnail></thumbnail>
@@ -131,9 +131,9 @@
 
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision.us/guide</page>
+<page>http://arenavision.us/node/5/guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.ml</referer>
+<referer>http://arenavision2018.tk</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <thumbnail></thumbnail>
@@ -152,14 +152,14 @@
 <title>[COLOR white][B] ****** pruebas agenda [no usar]****** [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
-<link>http://ignoreme</link>
+<link>http://www.arenavision.us/guide</link>
 <externallink></externallink>
 </item>
 <item>
 <title>[COLOR white][B] * [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
-<link>http://www.arenavision.us/guide</link>
+<link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 <item>
