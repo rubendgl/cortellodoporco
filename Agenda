@@ -13,7 +13,7 @@
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>https://acelisting.in//$doregex[canal]</page>
+			<page>https://acelisting.in/$doregex[canal]</page>
 			<referer>https://acelisting.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
