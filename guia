@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          MARTES 10 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
+<title>[COLOR blue][B]          MARTES 17 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + ROMA-FC BARCELONA [/B][/COLOR] [COLOR lime] AV[19-20] [/COLOR]</title>
+<title>[COLOR white][B] + BRIGHTON-TOTTENHAM [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + MANCHESTER CITY-LIVERPOOL [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + INTER MILAN-CAGLIARI [/B][/COLOR] [COLOR lime] 20:45 AV[7] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          MIERCOLES 11 [/B][/COLOR] [COLOR orange] 20:45 [/COLOR]</title>
+<title>[COLOR white][B] + BAYER LEVERKUSEN-FC BAYERN [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + REAL MADRID-JUVENTUS [/B][/COLOR] [COLOR lime] AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + BAYER LEVERKUSEN-FC BAYERN [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -52,9 +52,141 @@
 </item>
 
 <item>
+<title>[COLOR white][B] + CELTA-BARCELONA [/B][/COLOR] [COLOR lime] 21:00 AV[10-11] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + VILLARREAL-LEGANES [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B]          MIERCOLES 18 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + ESPANYOL-EIBAR [/B][/COLOR] [COLOR lime] 19:30 AV[10-11] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + VALENCIA-GETAFE [/B][/COLOR] [COLOR lime] 19:30 AV[1-2] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + BOURNEMOUTH-MANCHESTER UNITED [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item> 
 <title>[COLOR white][B] + FC BAYERN-SEVILLA [/B][/COLOR] [COLOR lime] AV[1-2] [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
+
+<item>
+<title>[COLOR white][B] + REAL MADRID-ATHLETIC CLUB [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]          JUEVES 19 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+
+<item>
+<title>[COLOR white][B] + BURNLEY-CHELSEA [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + REAL BETIS-LAS PALMAS [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + LEVANTE-MALAGA [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]          VIERNES 20 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B] + LEGANES-DEPORTIVO [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]   [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]    [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]  Last update: 17/04/2018 20:00 CEST UTC +2 (Paris, Madrid) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
