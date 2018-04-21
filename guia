@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          MARTES 17 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          SABADO 21 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + BRIGHTON-TOTTENHAM [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
+<title>[COLOR white][B] + CELTA-VALENCIA [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + INTER MILAN-CAGLIARI [/B][/COLOR] [COLOR lime] 20:45 AV[7] [/COLOR]</title>
+<title>[COLOR white][B] + MANCHESTER UNITED-TOTTENHAM [/B][/COLOR] [COLOR lime] 18:15 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + BAYER LEVERKUSEN-FC BAYERN [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + BORUSSIA DORTMUND-BAYER LEVERKUSEN [/B][/COLOR] [COLOR lime] 18:30 AV[3-4] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + CELTA-BARCELONA [/B][/COLOR] [COLOR lime] 21:00 AV[10-11] [/COLOR]</title>
+<title>[COLOR white][B] + MOTO3 QUALIFYING [/B][/COLOR] [COLOR lime] 19:35 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -52,17 +52,49 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + VILLARREAL-LEGANES [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + MOTOGP QUALIFYING 1 [/B][/COLOR] [COLOR lime] 21:10 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
+<item>
+<title>[COLOR white][B] + SEVILLA FC-FC BARCELONA [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + MOTOGP QUALIFYING 2 [/B][/COLOR] [COLOR lime] 21:35 AV[29-30] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + MOTO2 QUALIFYING [/B][/COLOR] [COLOR lime] 22:05 AV[29-30] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+<!--
+<item>
+<title>[COLOR white][B] + MOTOGP QUALIFYING 1 [/B][/COLOR] [COLOR lime] 21:10 AV[29-30] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+-->
 
 
 <item>
-<title>[COLOR blue][B]          MIERCOLES 18 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          DOMINGO 22 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -70,7 +102,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + ESPANYOL-EIBAR [/B][/COLOR] [COLOR lime] 19:30 AV[10-11] [/COLOR]</title>
+<title>[COLOR white][B] + GIRONA-ESPANYOL [/B][/COLOR] [COLOR lime] 12:00 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -78,7 +110,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + VALENCIA-GETAFE [/B][/COLOR] [COLOR lime] 19:30 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + MONTECARLO MASTERS 1000 FINAL [/B][/COLOR] [COLOR lime] 14:30 AV[15-16] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -86,7 +118,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + BOURNEMOUTH-MANCHESTER UNITED [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
+<title>[COLOR white][B] + LAZIO-SAMPDORIA [/B][/COLOR] [COLOR lime] 15:00 AV[7] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -94,7 +126,7 @@
 </item>
 
 <item> 
-<title>[COLOR white][B] + FC BAYERN-SEVILLA [/B][/COLOR] [COLOR lime] AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + CADIZ-SPORTING GIJON [/B][/COLOR] [COLOR lime] 18:00 AV[8-9] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -102,7 +134,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + REAL MADRID-ATHLETIC CLUB [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + MOTO3 RACE [/B][/COLOR] [COLOR lime] 18:00 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -110,7 +142,31 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          JUEVES 19 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 19:20 AV[29-30] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + ATLETICO MADRID-REAL BETIS [/B][/COLOR] [COLOR lime] 20:45 AV[1-2] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + MOTOGP RACE [/B][/COLOR] [COLOR lime] 21:00 AV[29-30] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]          LUNES 23 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -119,13 +175,13 @@
 
 
 <item>
-<title>[COLOR white][B] + BURNLEY-CHELSEA [/B][/COLOR] [COLOR lime] 20:45 AV[3-4] [/COLOR]</title>
+<title>[COLOR white][B] + ATHLETIC CLUB-LEVANTE [/B][/COLOR] [COLOR lime] 21:00 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + REAL BETIS-LAS PALMAS [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -181,4 +237,4 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
