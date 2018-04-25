@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          SABADO 21 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          MIERCOLES 25 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,13 +20,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + CELTA-VALENCIA [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + FC BAYERN-REAL MADRID [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + MANCHESTER UNITED-TOTTENHAM [/B][/COLOR] [COLOR lime] 18:15 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -82,7 +82,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-<!--
+
 <item>
 <title>[COLOR white][B] + MOTOGP QUALIFYING 1 [/B][/COLOR] [COLOR lime] 21:10 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -94,7 +94,7 @@
 
 
 <item>
-<title>[COLOR blue][B]          DOMINGO 22 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          JUEVES 26 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + GIRONA-ESPANYOL [/B][/COLOR] [COLOR lime] 12:00 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + ARSENAL-ATLETICO MADRID [/B][/COLOR] [COLOR lime] 21:05 AV[13-14] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -110,13 +110,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + MONTECARLO MASTERS 1000 FINAL [/B][/COLOR] [COLOR lime] 14:30 AV[15-16] [/COLOR]</title>
+<title>[COLOR white][B] + OLYMPIQUE MARSEILLE-RED BULL SALZBURG [/B][/COLOR] [COLOR lime] 21:05 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + LAZIO-SAMPDORIA [/B][/COLOR] [COLOR lime] 15:00 AV[7] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -164,9 +164,9 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]          LUNES 23 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          VIERNES 27 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -175,7 +175,7 @@
 
 
 <item>
-<title>[COLOR white][B] + ATHLETIC CLUB-LEVANTE [/B][/COLOR] [COLOR lime] 21:00 AV[19-20] [/COLOR]</title>
+<title>[COLOR white][B] + LEVANTE-SEVILLA FC [/B][/COLOR] [COLOR lime] 21:00 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
