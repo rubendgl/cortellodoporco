@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          MIERCOLES 25 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          SABADO 28 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,37 +20,37 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + FC BAYERN-REAL MADRID [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + REAL SOCIEDAD-ATHLETIC CLUB BILBAO [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + REAL MADRID-LEGANES [/B][/COLOR] [COLOR lime] 18:30 AV[1-2] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + VILLARREAL-CELTA [/B][/COLOR] [COLOR lime] 20:45 AV[1-2] [/COLOR]</title>
+<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + INTER MILAN-JUVENTUS [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 <!--
-<item>
-<title>[COLOR white][B] + MANCHESTER UNITED-TOTTENHAM [/B][/COLOR] [COLOR lime] 18:15 AV[19-20] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>[COLOR white][B] + BORUSSIA DORTMUND-BAYER LEVERKUSEN [/B][/COLOR] [COLOR lime] 18:30 AV[3-4] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>[COLOR white][B] + MOTO3 QUALIFYING [/B][/COLOR] [COLOR lime] 19:35 AV[29-30] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
 <item>
 <title>[COLOR white][B] + MOTOGP QUALIFYING 1 [/B][/COLOR] [COLOR lime] 21:10 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -94,7 +94,7 @@
 
 
 <item>
-<title>[COLOR blue][B]          JUEVES 26 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          DOMINGO 29 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + ARSENAL-ATLETICO MADRID [/B][/COLOR] [COLOR lime] 21:05 AV[13-14] [/COLOR]</title>
+<title>[COLOR white][B] + FORMULA 1 [/B][/COLOR] [COLOR lime] 14:10 AV[23-24] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -110,15 +110,15 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + OLYMPIQUE MARSEILLE-RED BULL SALZBURG [/B][/COLOR] [COLOR lime] 21:05 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + ALAVES-ATLETICO MADRID [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-<!--
+
 <item>
-<title>[COLOR white][B] + LAZIO-SAMPDORIA [/B][/COLOR] [COLOR lime] 15:00 AV[7] [/COLOR]</title>
+<title>[COLOR white][B] + MANCHESTER UNITED-ARSENAL [/B][/COLOR] [COLOR lime] 17:30 AV[3-4] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -126,7 +126,7 @@
 </item>
 
 <item> 
-<title>[COLOR white][B] + CADIZ-SPORTING GIJON [/B][/COLOR] [COLOR lime] 18:00 AV[8-9] [/COLOR]</title>
+<title>[COLOR white][B] + VALENCIA-EIBAR [/B][/COLOR] [COLOR lime] 18:30 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -134,13 +134,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO3 RACE [/B][/COLOR] [COLOR lime] 18:00 AV[29-30] [/COLOR]</title>
+<title>[COLOR white][B] + DEPORTIVO-FC BARCELONA [/B][/COLOR] [COLOR lime] 20:45 AV[1-2 10-11] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 19:20 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -164,7 +164,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
--->
+
 <item>
 <title>[COLOR blue][B]          VIERNES 27 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
@@ -181,7 +181,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-<!--
+
 <item>
 <title>[COLOR white][B] + REAL BETIS-LAS PALMAS [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
