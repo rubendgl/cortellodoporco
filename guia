@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR red][B] * [/B][/COLOR]</title>
+<title>[COLOR red][B]    [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          SABADO 28 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          LUNES 30 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,13 +20,29 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + REAL SOCIEDAD-ATHLETIC CLUB BILBAO [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<title>[COLOR white][B] + REAL BETIS-MALAGA [/B][/COLOR] [COLOR lime] 20:45 AV[GOLTV] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/gol.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
+<item>
+<title>[COLOR blue][B]          MARTES 1 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + REAL MADRID-BAYERN [/B][/COLOR] [COLOR lime] 20:45 AV[ANTENA3] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/antena-3.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+<!--
 <item>
 <title>[COLOR white][B] + REAL MADRID-LEGANES [/B][/COLOR] [COLOR lime] 18:30 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -58,7 +74,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-<!--
+
 <item>
 <title>[COLOR white][B] + SEVILLA FC-FC BARCELONA [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -94,7 +110,7 @@
 
 
 <item>
-<title>[COLOR blue][B]          DOMINGO 29 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          MIERCOLES 2 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -102,13 +118,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + FORMULA 1 [/B][/COLOR] [COLOR lime] 14:10 AV[23-24] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<title>[COLOR white][B] + ROMA-LIVERPOOL [/B][/COLOR] [COLOR lime] 20:45 AV[ ] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + ALAVES-ATLETICO MADRID [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -140,7 +156,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-<!--
+
 <item>
 <title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 19:20 AV[29-30] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -164,32 +180,31 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
 <item>
-<title>[COLOR blue][B]          VIERNES 27 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          JUEVES 3 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
-
 <item>
-<title>[COLOR white][B] + LEVANTE-SEVILLA FC [/B][/COLOR] [COLOR lime] 21:00 AV[1-2] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<title>[COLOR white][B] + ATLETICO-ARSENAL [/B][/COLOR] [COLOR lime] 21:05 AV[ ] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR white][B] + REAL BETIS-LAS PALMAS [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
-<thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
+<title>[COLOR white][B] + SALZBURG-MARSEILLE [/B][/COLOR] [COLOR lime] 21:30 AV[19-20] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-max-1.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + LEVANTE-MALAGA [/B][/COLOR] [COLOR lime] 21:30 AV[1-2] [/COLOR]</title>
 <thumbnail>http://img.freepik.com/vector-gratis/balon-y-campo-de-futbol_23-2147514570.jpg?size=338&ext=jpg</thumbnail>
@@ -229,12 +244,11 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
 <item>
-<title>[COLOR yellow][B]  Last update: 17/04/2018 12:00 CEST UTC +2 (Paris, Madrid) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR yellow][B]  Update: 30/04/2018 19:00 CEST UTC +2 (Paris, Madrid) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
--->
