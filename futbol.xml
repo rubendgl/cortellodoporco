@@ -16,13 +16,6 @@
 </item>
 
 <item>
-	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
-	<link>http://Ignoreme</link>
-	<externallink>http://main.txt</externallink>
-	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
-</item>
-
-<item>
 	<title>[B][COLOR green] Actualizado 30/04/2018 17:00 CEST UTC+2 Madrid,Paris [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<externallink>http://main.txt</externallink>
@@ -74,4 +67,21 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
+<item>
+	<title>[B][COLOR white]                                                                                   [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>http://main.txt</externallink>
+	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
+<item>
+	<title>[B][COLOR orange] Moto GP [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>hhttps://raw.githubusercontent.com/rubendgl/cortellodoporco/master/gp</externallink>
+	<thumbnail>https://4vector.com/i/free-vector-moto-gp_055278_moto-gp.png</thumbnail>
+</item>
+<item>
+	<title>[B][COLOR orange] Formula 1 [/COLOR][/B]</title>
+	<link>http://Ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/f1</externallink>
+	<thumbnail>https://adn.gpupdate.net/news/318194.jpg</thumbnail>
+</item>
