@@ -1,4 +1,4 @@
-#EXTINF
+#EXTM3U
 
 
 #EXTINF:-1,MotoGP opcion 1
