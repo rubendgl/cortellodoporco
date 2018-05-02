@@ -10,7 +10,7 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR blue][B]          LUNES 30 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
@@ -118,7 +118,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + ROMA-LIVERPOOL [/B][/COLOR] [COLOR lime] 20:45 AV[ ] [/COLOR]</title>
+<title>[COLOR white][B] + ROMA-LIVERPOOL [/B][/COLOR] [COLOR lime] 20:45 AV[13-14  21-22] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
