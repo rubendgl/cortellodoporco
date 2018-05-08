@@ -13,7 +13,7 @@
 
 
 <item>
-<title>[COLOR blue][B]          MIERCOLES 2 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          MIERCOLES 9 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + ROMA-LIVERPOOL [/B][/COLOR] [COLOR lime] 20:45 AV[13-14  21-22] [/COLOR]</title>
+<title>[COLOR white][B] + FC BARCELONA-VILLARREAL [/B][/COLOR] [COLOR lime] 20:00 AV[1-2] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -29,21 +29,13 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]          JUEVES 3 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
-<thumbnail>.png</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>[COLOR white][B] + ATLETICO-ARSENAL [/B][/COLOR] [COLOR lime] 21:05 AV[13-14  21-22] [/COLOR]</title>
+<title>[COLOR white][B] + SEVILLA FC-REAL MADRID [/B][/COLOR] [COLOR lime] 21:30 AV[10-11] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + SALZBURG-MARSEILLE [/B][/COLOR] [COLOR lime] 21:05 AV[1-2] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-max-1.png</thumbnail>
@@ -302,9 +294,9 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
 <item>
-<title>[COLOR yellow][B]  Actualizado 02/05/2018 16:00 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR yellow][B]  Actualizado 08/05/2018 09:00 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
