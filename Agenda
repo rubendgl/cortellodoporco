@@ -13,8 +13,8 @@
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>https://acelisting.in/$doregex[canal]</page>
-			<referer>https://acelisting.in</referer>
+			<page>http://arenavision.top/$doregex[canal]</page>
+			<referer>http://arenavision.top</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 				<regex>
@@ -27,9 +27,9 @@
 
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>https://acelisting.in</page>
+<page>http://arenavision.top/guide</page>
 <Agent>Mozilla</Agent>
-<referer>https://acelisting.in</referer>
+<referer>http://arenavision.top</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
 <thumbnail></thumbnail>
