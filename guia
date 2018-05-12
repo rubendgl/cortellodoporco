@@ -11,9 +11,16 @@
 <externallink></externallink>
 </item>
 
+<!--
+Acceso a logos
+formula1 https://gas2.org/wp-content/uploads/2017/12/new-logo-770x424.jpg
+moto gp https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png
+partidazo https://api.dondeverlo.com/img/channels/movistar-partidazo.png
+bein sports https://api.dondeverlo.com/img/channels/bein-sports.png
+-->
 
 <item>
-<title>[COLOR blue][B]          MIERCOLES 9 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          SABADO 9 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -21,7 +28,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + FC BARCELONA-VILLARREAL [/B][/COLOR] [COLOR lime] 20:00 AV[1-2] [/COLOR]</title>
+<title>[COLOR white][B] + SIMULCAST LIGA [/B][/COLOR] [COLOR lime] 18:30 AV[1-2] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -29,7 +36,15 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + SEVILLA FC-REAL MADRID servidor.tk[/B][/COLOR] [COLOR lime] 21:30 AV[10-11] [/COLOR]</title>
+<title>[COLOR white][B] + REAL BETIS-SEVILLA FC [/B][/COLOR] [COLOR lime] 18:30 AV[10] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR white][B] + GETAFE-ATLETICO MADRID[/B][/COLOR] [COLOR lime] 18:30 AV[3-4] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -37,17 +52,31 @@
 </item>
 <!--
 <item>
-<title>[COLOR white][B] + SALZBURG-MARSEILLE [/B][/COLOR] [COLOR lime] 21:05 AV[1-2] [/COLOR]</title>
-<thumbnail>https://api.dondeverlo.com/img/channels/bein-max-1.png</thumbnail>
+<title>[COLOR white][B] + GIRONA-VALENCIA [/B][/COLOR] [COLOR lime] 18:30 AV[7] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
-
+<item>
+<title>[COLOR white][B] + ALAVES-ATHLETIC CLUB --servidor .tk-- [/B][/COLOR] [COLOR lime] 18:30 AV[19-20] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
 
 <item>
-<title>[COLOR blue][B]          VIERNES 4 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR white][B] + REAL MADRID-CELTA [/B][/COLOR] [COLOR lime] 20:45 AV[1-2] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/movistar-partidazo.png</thumbnail>
+<fanart>.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue][B]          DOMINGO 13 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -55,53 +84,45 @@
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO3 FREE PRACTICE 1 --servidor .tk [/B][/COLOR] [COLOR lime] 09:00 AV[10-11] [/COLOR]</title>
-<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
+<title>[COLOR white][B] + SPAIN GP --servidor .tk-- [/B][/COLOR] [COLOR lime] 10:55 AV[23-24] [/COLOR]</title>
+<thumbnail>https://gas2.org/wp-content/uploads/2017/12/new-logo-770x424.jpg</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTOGP FREE PRACTICE 1 --servidor .tk-- [/B][/COLOR] [COLOR lime] 09:55 AV[10-11] [/COLOR]</title>
-<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
+<title>[COLOR white][B] + ESPANYOL-MALAGA [/B][/COLOR] [COLOR lime] 16:15 AV[1-2] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO2 FREE PRACTICE 1 --servidor .tk-- [/B][/COLOR] [COLOR lime] 10:55 AV[10-11] [/COLOR]</title>
-<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
+<title>[COLOR white][B] + LEVANTE-FC BARCELONA [/B][/COLOR] [COLOR lime] 14:05 AV[1-2] [/COLOR]</title>
+<thumbnail>https://api.dondeverlo.com/img/channels/movistar-partidazo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO3 FREE PRACTICE 2 --servidor .tk-- [/B][/COLOR] [COLOR lime] 13:10 AV[10-11] [/COLOR]</title>
-<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
+<title>[COLOR blue][B]          LUNES 14 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR orange][B] + MOTOGP FREE PRACTICE 2 --servidor .tk-- [/B][/COLOR] [COLOR lime] 14:05 AV[10-11] [/COLOR]</title>
+<title>[COLOR white][B] + CADIZ-REAL ZARAGOZA --servidor .tk-- [/B][/COLOR] [COLOR lime] 21:00 AV[19-20] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
-<item>
-<title>[COLOR white][B] + MOTO2 FREE PRACTICE 2 --servidor .tk-- [/B][/COLOR] [COLOR lime] 15:05 AV[10-11] [/COLOR]</title>
-<thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
-<fanart>.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
+<!--
 <item>
 <title>[COLOR white][B] + AMIENS-PARIS SAINT GERMAIN [/B][/COLOR] [COLOR lime] 20:45 AV[13-14] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-max-1.png</thumbnail>
@@ -296,7 +317,7 @@
 </item>
 -->
 <item>
-<title>[COLOR yellow][B]  Actualizado 08/05/2018 09:00 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR yellow][B]  Actualizado 12/05/2018 16:00 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
