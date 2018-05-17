@@ -20,13 +20,13 @@ bein sports https://api.dondeverlo.com/img/channels/bein-sports.png
 -->
 
 <item>
-<title>[COLOR blue][B]          SABADO 9 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          Actualizando guia eventos ... [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + SIMULCAST LIGA [/B][/COLOR] [COLOR lime] 18:30 AV[1-2] [/COLOR]</title>
 <thumbnail>https://api.dondeverlo.com/img/channels/bein-sports.png</thumbnail>
