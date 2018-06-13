@@ -1,0 +1,1121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="dbe8442efcb4094d708f6a16dca8517e",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/776267995?ticket=4B09F4C57BF82C94B58517E97475DC018DAE0C79&profile=pass
+#EXTINF:-1 tvg-id="f1324a3a08e13b309e93c361e9c44c19",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/977941233?ticket=F2FF3C431EA1C60D2842228A758970A0B4D30586&profile=pass
+#EXTINF:-1 tvg-id="61de7bc35f5133b2083a62e210ff86aa",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1132191329?ticket=8E43B3116B000AD3C84581FD219BC7D2F48A665A&profile=pass
+#EXTINF:-1 tvg-id="6663494f3c9810c3a099cc7160342252",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1330209638?ticket=FFD915DAC4CCAF9AF236027C9A25E399D26C6F75&profile=pass
+#EXTINF:-1 tvg-id="b00d27d268d02209db3c391c90a67801",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1378291120?ticket=B7E6799F453579BC2610ADA56D43BA241107976F&profile=pass
+#EXTINF:-1 tvg-id="73f4ef5f3486952eacea0014d0d65a6d",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1609561203?ticket=6B7808703682CA8A67588654B20D5530938CF5B7&profile=pass
+#EXTINF:-1 tvg-id="90aec87983a0e21ae53ae9bec824cd55",{name-not-set}
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2043195024?ticket=96941C573DAD6862095F8D4B31B7CE13C55B070F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18761" tvg-id="db23d36e7e65bd3a3236b6622c525f62",La 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1859331035?ticket=2C8F1DCA6FE359701597A8BABAF35FC5C2F94AEC&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18641" tvg-id="fa3bfa4bb7bcd4f59dd83052f207d388",La 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1274690554?ticket=D24055C035E7CA93D7D72CDBBAE95DC57E83B89D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18580" tvg-id="575de9f585240f0ca6db17b361ef41bb",La 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1978228055?ticket=A0187E8E856D4187C727D76F58DB2F6F462615E9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18796" tvg-id="8a91402007eb96b13a508ccc0ecc9d8c",La 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/541102474?ticket=C8CBD472708475FB0CBE9F4DA47C548DAF8B6BFE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18659" tvg-id="dabdcca9693fd861bc8fb54d64b2be69",Antena 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/701283802?ticket=DA36C2FF270CC3924208025A6DCF3102EECD427C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18705" tvg-id="d0c088b81f9e18ce4aa821777cd5e9fb",Antena 3 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/948486352?ticket=BD497F8B69B23453AFA2E6D4DD66C08DE7C69F7C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18710" tvg-id="725ab902e504d13726bed1e8c5179020",Cuatro
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/45701746?ticket=E2596C1B7F783C7B553FCF4F0E423622806A5421&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18780" tvg-id="1ece9ba926b807e7efa2c9f4019709a9",Cuatro HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/698076702?ticket=76E88A53217BA8CAB472C7F84BED8DDD5CFA6EDF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18656" tvg-id="1d88d9ca351c601c9ac6d55efc611e8b",Telecinco
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1255770141?ticket=8FBA62C485CAC48961C0E52312D1B29C5659AFB2&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18673" tvg-id="7d48dd4dfda9f7ce9c817ed9c72679f7",Telecinco HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1306347645?ticket=C4220926D228DEEE7B6744C091BE9309792FB8D1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18666" tvg-id="86889337cdee06d9e9453eed1ba3ce9e",La Sexta
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/932415622?ticket=58D763096A48D727111640F6DF7BF70BFA440C8C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18646" tvg-id="a000c40e58dcd7de27a197bb4ebc0fc0",La Sexta HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/247726240?ticket=41200064AF0ED3669CE8E6F35659828FB06957BE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18727" tvg-id="4a897183722c4d5d8d96b6f859ad21bd",#0
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/57772362?ticket=3DBE95B081C1BF3CE107BEEF4F6375DAE9718381&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18635" tvg-id="4ff4fb539f7c0d884c74f6a7eacaf608",#0 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1409021007?ticket=A4BB6B42A1DF72A4D206870B0BA1F9879913BF02&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18799" tvg-id="6b858aa31372ac22d6a54a590534f672",TV Canaria 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/596280683?ticket=6B732AE898039BE49562D6A45678A7279838853F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18798" tvg-id="11bcff11d18eaa394599bd4c8465b364",TV Mediterráneo 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/301972497?ticket=827F17B2AD92D2C2331E0006F5F062120707D877&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18797" tvg-id="9ec0cb8055704a795c023fcc6eda43e9",TV3 HD 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/13353118?ticket=4E1773B58EAAFC8F26F5C9E7BDB43F9BCD8DC4B3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18778" tvg-id="254ac8bf343fa628bda0a334d9088b77",beIN LaLiga
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1070090789?ticket=08646E34F28311029064DE29E856AD1AE790F4E1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18667" tvg-id="2e283e3628d5f38206add385326c5557",beIN LaLiga HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/910043182?ticket=143B85062818D708B7844C2132BF361BA2E93D1F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18783" tvg-id="d9880d6fae208389bb71f6e239d20e07",Movistar Series
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1863157977?ticket=1E1C185EDC125E426B66DB306F7CEB163D54A374&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18623" tvg-id="90aff9480c79cce6505094b704d4c237",Movistar Series HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1224322960?ticket=379B43AD374EDEE4A1C2C5B7CEBD7A2645630902&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18788" tvg-id="5f16182836811cbd8696274f2ca9bf07",Movistar Series Xtra
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/672667231?ticket=3EB00E96562BCA6AE559FCCC10318A0EEB5B9F5D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18791" tvg-id="84336f3c427add109afbd413bcf39e1e",Movistar Series Xtra HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1013920644?ticket=B618A56AFB3D6FA8F8D3234AD5D13344FF587E90&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18612" tvg-id="b4886f4bffd3cddc804856ff40667559",FOX
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1265600692?ticket=14BE7D8F073CA78F5174CA9E630FB824C73A0C19&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18782" tvg-id="7470f4db93d59f7729167b17b869d2ab",FOX HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1542746228?ticket=40F210DA79BA7ACA8744A57266EC94E614DAF959&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18735" tvg-id="391dc187608e3ff211d7747325c14d82",AXN
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/130096441?ticket=0156ECEC91FEF6564FF726763391B2B75144213D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18766" tvg-id="07cde24fac33e17d6f216fa398893b00",AXN HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1340263687?ticket=377ABB52B6289D32FB2C801CA1AE064780825A1B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18730" tvg-id="54cebbd3cb5c822b5581475faa06c42e",TNT
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1404816980?ticket=4C1C84ED2389F7E7C4DA5D04BB3BA76EA32B632C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18694" tvg-id="056690775a2f3fce2a1184156657929e",TNT HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2005952005?ticket=98AD016F8F91664495C38E9A27102D9BBA4E9589&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18711" tvg-id="2bc4b636fcaccc5ed47e63c7c7c9cf95",Comedy Central
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/917947435?ticket=B4C7AF9415C18CE0A59E59E9598FA66FD9125FA5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18574" tvg-id="14367d987110d1fb8f2e2b18d2987d48",Comedy Central HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/410859028?ticket=46B07F638F6F44F0894AFAF072145B4072AF4814&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18726" tvg-id="67d6433076aab84bc006a80d6630f509",Calle 13
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/809752167?ticket=CC08024B6BB799717CED6A0A8CE56C44669CE000&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18624" tvg-id="0fe668fcaf1c167969bf7a2048ff7e14",Calle 13 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2087249423?ticket=51BFA90B811916FC29F3BF1125454EEDA6CFB37E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18571" tvg-id="0544188748c13f9e3083b801fa4b13c4",COSMO
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/119030789?ticket=541A062017D211004181BC1488717FD2655A42EB&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18665" tvg-id="5004931a63801cc667918971c1279d83",COSMO HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/445842512?ticket=C0BAF80C68A84AC2B965AB7812593CFFF0C9CFE3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18702" tvg-id="a479e0850bf4e28c5b40bfbad2d7d2e7",AMC
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/98597284?ticket=B110DF53BC321309CC95E1651FD616209EFFFE6F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18720" tvg-id="6ead5652f8e75f0db24f0a80c1900a49",AMC HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1381412206?ticket=BBBB62FF5CA6B6F17C20E0A88D64BF7EE8143F20&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18627" tvg-id="b3e5e133fb83baa22287b158fa8c5b85",FOX life
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/870442419?ticket=183F30ACCB507BD5D49BA3EB7FE8B6E76A9C453A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18578" tvg-id="cfde8d4b38b9131b1d08b13e04709997",FOX life HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1267588815?ticket=18E3D1C26B11E4D22237EBE2D81EC6525C9E70C5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18717" tvg-id="bd6e10ce665fdba8ed27b1ae1b3eaf4c",AXN White
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1309699773?ticket=2FB7C797CCD73B9D8DFCC6E00BC2689D468B4BD4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18746" tvg-id="c69c4d5c20b897ce47c11ef2d2f84247",AXN White HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1548590278?ticket=2D1636C05EC13CF26187F0D5709D26CD4ADB091F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18744" tvg-id="2015072b7122e5a5d9cf5bcedb226467",Syfy
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/721884448?ticket=BA6A8594B83B1BF92143C2D2AEFFA96AE674F7A8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18579" tvg-id="7cc769f0c7b5ca3887a1ba9eaf659095",Syfy HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1885980540?ticket=D7D43CF257E7344F9063EB9610AD0A06D5B0CE23&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18620" tvg-id="5b8d9ce77d25cbf60d60e1dcdab7c565",Non Stop People
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1738313051?ticket=45516677F7714E56913D3ADA93CED7D4D6A9125F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18800" tvg-id="4dc57e9e8891ed0cbcf57bd5c1748db2",Non Stop People HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/511624525?ticket=5CFD1F52B87C783F5EBC727604AD397006A45B33&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18757" tvg-id="80b73008084aef0d7678f4a6ac3c37be",MTV España
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/137410432?ticket=21059803E5909EDF0514D2CC6635BBCACB37A6E3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18630" tvg-id="510340e3c2656e4e83f430c57fa38bea",FDF
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1665139537?ticket=44C08729583694BC45581DD3D7F23369FEBB0091&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18602" tvg-id="66cfb1dbf7e35c913a56ed2e1f61b087",Neox
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1538379622?ticket=85F8E0FA3925B7D76FDD3C0C139686AF67219C12&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18801" tvg-id="27617535b8dad0d4bd801e2f91c9ed5d",Atreseries
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/896885031?ticket=0A4F0DDF613A07E0E3DE884F36606D693BDF7FC1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18802" tvg-id="c7468e04e968d602aa75196848dcf103",Atreseries HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/76433095?ticket=44BA671EFD36EF4575E3BBEC4872F5D4FBC84C10&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18610" tvg-id="4d98ae2b1a15373efa297f6e3648265c",Energy
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/732862541?ticket=A9EAAF374BDDB845274D544AD90F9DB634289277&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/24175" tvg-id="2fd178e8bd3b05ba881b97289914e456",M. Fama a Bailar 24 horas
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1752748335?ticket=7B680B8DF512F740659A8B99F8C35C614AC462CF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/24175" tvg-id="f839c1041ef356c1e8c9d3c89d647adf",M. Fama a Bailar 24 horas HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/79772152?ticket=0710BE580174B1F17C67D7615FF03D8AFB571DF9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18587" tvg-id="c97a4ae4824148227556ac5b4df98546",Movistar Estrenos
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1682602697?ticket=81BC97D66F37E1E396F15E5F165A5CA7A93A1B4E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18671" tvg-id="ac271f04f35fa40166424961ee074262",Movistar Estrenos HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/69150636?ticket=E3DB45FD2A2F7CBA2A224697BE90E14419228BDE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18590" tvg-id="204c0db033d585262c1faecf8d6f11ce",Movistar Disney
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/806177824?ticket=3B1A433F7F0CD8751DCF963086210704A551449A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18590" tvg-id="e244a5b9d0cad5f61662aaf21e7b6954",Movistar Disney HD 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/967132386?ticket=E3F80E1840FA6D576B70CBE310F4B72F43E564B4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18638" tvg-id="9ee2d0962a1879c77baf113d365f843d",Movistar Xtra
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/382788254?ticket=21ADB3DCBCAB68F1A4F3E8F767F475399C43B2A3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18739" tvg-id="3d02c4f5e9be2b617b2b88d00cac9498",Movistar Xtra HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1975779901?ticket=9B8DCF14B1C45267445AF8384B703B343C11CCD3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18712" tvg-id="5039f3813977ceace132c5deff13f450",Movistar Acción
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/32717136?ticket=BAF8ACC9B150DDCB305677C1EEFAF562256657F8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18611" tvg-id="ffd402095a7ec5d94144dc4f6b0b5a4f",Movistar Acción HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/151180543?ticket=625449950858D1F84E8FC96CC87E95DDED184876&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18629" tvg-id="51a11398abf45ca23a5c043b01173914",Movistar Comedia
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/403939665?ticket=48C881B1E1BE41416674343BF1F4BFF359C8BFEA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18692" tvg-id="a043373b08f86bbf6e18896e58f0fb07",Movistar Comedia HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/993477536?ticket=8DAE54173E3B1C4D7E0118C405957D293079B4DA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18745" tvg-id="38d97950f80b6c6bc07e55584fa424af",Movistar DCine
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1350162744?ticket=35393F484A0F2B9A2732C9B3373E6BBC18386356&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18754" tvg-id="03f716423f9b505af6d4f7eb94f47bd8",Movistar DCine HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1108801283?ticket=6471081D674FBE7FC89513938395271F1B3F7EC7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18601" tvg-id="9e24a28b8c570fc41cbb9ecf3f8eb511",Movistar Cine Español 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/195175582?ticket=CF1FD6B24F9A5689B6C3750D534838968DF9A743&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18649" tvg-id="c8cbb6dce464aaeb6e4dd4e3f1ace0f0",TCM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1555483592?ticket=BE0231C7FBAB3718794C9031A897E2B2273D8102&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18672" tvg-id="1487e267c26a19f61135fe1cd74492be",TCM HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1742898964?ticket=AD1814FC652C6F7883D8DE9CBABC2AF6546C7F4B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18560" tvg-id="4d585471f51f21bb4ff8bb1bd29a7f74",Hollywood
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1901353037?ticket=F6927B30EFEDDC6F8B6AD456CA43AA83CA75D562&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18718" tvg-id="a4ce7757725791e4d5f021c35dea69c4",Hollywood HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1467469476?ticket=39FE133E91D264FEDA5B54517E349BC04AB51C96&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18662" tvg-id="d72fe87bf41af3a1d601bd5f1c4e9de2",Sundance Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2078814167?ticket=31223C5EB4444EBDCB221DCB5AA72AE91090BF25&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18803" tvg-id="038b399fe7f632a2969aece9b2e83165",Sundance Channel HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/523864835?ticket=23D9164E1B441AF14D2A18E4DD9F67814879C05B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18804" tvg-id="c6db82644029e9ae05512349ce90fa3f",DARK
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1686297542?ticket=A0EA6E10E5EB9390CDFB26B116DC784BDCDCBE16&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18805" tvg-id="43d6ec5b15204a117fbaf0cb8b795d62",13 TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1542248003?ticket=AA0F74E5F50AE55E8DC540236887C71ED6A5ECC4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18806" tvg-id="9f974519561b1836f28f5da150204fcb",Ten
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/423991199?ticket=8D37788CE42802CA2114E27195125C06FA56D8AF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18732" tvg-id="bdc33033a47d807a98fa21ff692bc70e",Paramount Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/858833853?ticket=5893C6EAA3489B3749268209B524E0240AF22B74&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/36303" tvg-id="18c7569862aaf8c255acdb8144698b4b",DEPORTES
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/408340248?ticket=24DC0918E551FCA4C71AB9E76C2B8C9C8D764E88&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/36303" tvg-id="8e05a31c5c168da2c15351cfeb9b8ab8",DEPORTES HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/480445838?ticket=1330923B27559BEC035993A5809DDC96FA1655BE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18683" tvg-id="7afdca051273cdc54de785bb05e89083",Movistar Fútbol
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/97189242?ticket=13E42876173CB1B83E1B3F68C3CD6FF7AF68F26C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18566" tvg-id="073454d6d58bb2003f9de475f1cf8a37",Movistar Fútbol HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1448358919?ticket=CA122C92EE406D58883700CA3F17326D36E8D1AA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18759" tvg-id="8481ab2523d50abdca7b3d86f875602a",Movistar Partidazo
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/631996804?ticket=5FBD11BD828C1B9B5267E05F21C7A6442558D098&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18764" tvg-id="67816058b2b016b4d61548cbb7a08873",Movistar Partidazo HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1482719591?ticket=222DA4FFB217BF701DB781AF5906C3D16CF004FA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18778" tvg-id="7040b4cfec37e328a1014c8de3809591",beiN LaLiga 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1337213040?ticket=2C1DCB776683C91C537F4C3D46FB9BCBDAC782FC&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18667" tvg-id="120bfbfcd2d339e401143dfff9c9bfc8",beiN LaLiga HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2096827154?ticket=B300D88A1C2FB303BD5A74FF1AB7C5C42C2C02D4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18661" tvg-id="2d7f4476cf84280e19e502a95b478d6b",beIN LaLiga MAX 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1984200493?ticket=6CC9C39072E3450E9BAE0214745B0B24BEBBE8C5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18617" tvg-id="4221d5073d6838bb3684a5cbef82eb4b",beIN LaLiga MAX 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/131408194?ticket=6D69A8B1DAF6EF5D54BA0B20B4A32BDDBCB9920B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18760" tvg-id="5f27f0bc026ee9afe67c20d05ad23b5c",beIN LaLiga MAX 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1022371679?ticket=219FA31A7FF57F7BF22FFBED8918C37FDCE1D7B7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18722" tvg-id="225619661d98804cf6f5fb7e31aff9ef",beIN LaLiga MAX 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1712936482?ticket=5E18D64CF93CD8F1F36F9D7A555D3BCCC62DFBB4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18643" tvg-id="8b8f0d80419876381c6e412339a001cf",beIN SPORTS
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/888715?ticket=00CE37421497E55BE3044ABE142B15077F3B06B7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18706" tvg-id="1209f37b9d7907e3c699a45056e9ca7f",beIN SPORTS HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2079525138?ticket=F7E06A82BE6CFF9DFBF8569730835B9450047449&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18698" tvg-id="4e6b0ff82800b2804eb8a34562315fc7",beIN SPORTS MAX 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2014276430?ticket=255BACCA2F0789D7B95EF64257E867A104B115A9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18768" tvg-id="5470ed90384d288490f803da75c5b74a",beIN SPORTS MAX 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/283996244?ticket=404B44DA34429032BFEAFFDAC4E83A38C8B3ED8B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18607" tvg-id="ecc80e44c04592d41bce74a276aab626",beIN SPORTS MAX 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1141819628?ticket=6331B8F7116A8A628793B17570F1C08D140F68FB&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18570" tvg-id="b6e6bcf8d3505be79fe713dda5ebae0e",beIN SPORTS MAX 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2025645750?ticket=7CDCAAA29E55B28475BBD3F9C7B863615DA47618&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18709" tvg-id="4f74a851d980c4cf3fbcc54b8b41bf51",Real Madrid TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1369994319?ticket=1CEB78F7DE245CD891B7A44D3ACBB96A8AEA88B0&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18807" tvg-id="f7d92079457c85397984b55f425b1069",Real Madrid TV HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2032196087?ticket=5F06465A2098192114F8894D1E9C49CEADA2CEA2&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18614" tvg-id="eadfa8f44a63a34bf7aaaa100652afbb",Barça TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1957224426?ticket=CE7962BD7ED5FFE772F8D4BAC3469937014A840C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18781" tvg-id="65db8e51e2d6dd81e3b5cc1978fecb71",Movistar Deportes 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1368316773?ticket=23C19F70A1734C1ED727380196E72D3B5B4D4EA3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18704" tvg-id="ce4e09f1477f4c590c66dc7698e0e0bf",Movistar Deportes 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1896435406?ticket=62FAC8C92BBAF40FB96954B7E53E513007A5E7D4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18564" tvg-id="d17f3474700e01dc4c77a6dacc28a17f",Movistar Deportes 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1949597649?ticket=F3D1C71A0DA78AD5B9828B70578050965D24AB96&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18655" tvg-id="4d96f7ac65dc8001ff1980a28ab3c03f",Movistar Deportes 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/754423373?ticket=3E7846A390D3146CEEDAD2ED9D12BED015C0A6A9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="85a4e11b9cc1aa8f1e407720d6c9b74d",Movistar F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/467772549?ticket=4AF9E72DF096D332AC00207168A0DA139740557D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="5e53f9df329ceb673b638a8c2f1cf81d",Movistar F1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1610175326?ticket=3F1ACA3E687AB75D687467CECB1C2C9FDD1BFDCE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="5d1eaa26056f37529ba93da04d97a74f",Movistar MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/648683101?ticket=CBB8B6E91B2EABEBC9BDC0B89E482BC95B3C35BB&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="0c40210acae4f3bf7d6ef7fc8b5227f1",Movistar MotoGP HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/169951244?ticket=0C4961F0C3CD7E6633BC9A36E10A81AF71C987E1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18697" tvg-id="16260610519f289fbedf377d56d8a2f3",Movistar Golf
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/268838422?ticket=F2127FB901121E6D20A91BAC9B914215AE513CB1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18703" tvg-id="4e5d268e145862aab711d0e8c280b913",Movistar Golf HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/237395278?ticket=A856DCC70E7B6C42EB4C6CB6D09EC396D73B2285&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18616" tvg-id="b982038dd13e538cb73218531fb9a925",M. eSports
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/218333881?ticket=6B69F8DFE81655381EC5580C977D5C0B8392AA93&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18809" tvg-id="87dd42786b6f87bb5ef3256da814b79d",M. eSports HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2017648007?ticket=5ACF18A60C2F677042BB9992461C9F5950B72D2F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18609" tvg-id="8d2d12d8da0565e53db415a5dd58dd50",Eurosport 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1477586317?ticket=42188955E744DE91BA8D6B685A4033D977991522&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18660" tvg-id="e36cbfdf2213e8267b7dc13bcd97ebcc",Eurosport 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1606380771?ticket=0643D0B2B2D88F0691C504732424EBADE1778EE4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18762" tvg-id="5a82765c560aca8ecf3eaaa65a90f1bc",Eurosport 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1551270490?ticket=98B0633B944A793B178AB89F1B706726F1E01538&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18748" tvg-id="e1906a6737184349212e4819771d2834",Eurosport 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1735037153?ticket=E97DA9279C9D45ACE03EB53EF057AF00FD49910A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18568" tvg-id="e78bb7223bd3f82c2a5974280f411eef",GOL
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/582454247?ticket=1071439905F9D26F922BF3307E38B06AFAD08305&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18568" tvg-id="be7a9d7747b144df4ebc5bea13989dde",GOL HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2006809278?ticket=C98F5219AD4009125F4FF8A05A4B4E2A53E8FFF4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18747" tvg-id="0be8023af838c9a2c5f5cebae2aa0656",Teledeporte
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/973269003?ticket=984ECB136A21924C569A7D3FD37CBFF0F7DFD9F6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18811" tvg-id="fc7da7fa57019a2f7d7b44f9a1be7400",Teledeporte HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2057797116?ticket=BCAEC61934DC0AE397A90DA71F8ECD93FA4C2941&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18812" tvg-id="dad900abcff1bd3c69e32ccd915f0b71",Fútbol Replay
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/721476058?ticket=C3180B329BDC8735FA117AB79AF02E3A737655E2&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18634" tvg-id="d5d04d6a68015d75fdf4169dc7b32db9",Caza y Pesca
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1783484629?ticket=EB3D5F460D2268ED12172415B5E7FCE1994575D3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18696" tvg-id="c68ef7e4a91b79cb477f5aeea5c84344",Caza y Pesca HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1693945542?ticket=9E0E1C04B066957C8620C43F1A309B3A916F3D89&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18669" tvg-id="fc3510e3edffc46673fb2668b7844dce",Iberalia
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1662006780?ticket=EE2A7BAB5235C5EE3F01E9206C4E9ACFA74B18AC&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18813" tvg-id="a5aa2bd09232b07071ead45ff1afa9cb",Iberalia HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1345039013?ticket=FBE79564B80B70EC680B5A59FF8FF18A1BBFFE81&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18562" tvg-id="a8339e922d68c84835fec0ef88148c08",Toros TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/312357800?ticket=1DEA1A8D5619C6AD94B586CEF33852EE8389546E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18719" tvg-id="0d91fe7168c185f617b9fdaf353699c8",Toros TV HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1912508685?ticket=B41BCF3606955D97D7638187978BE204F32A267D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18728" tvg-id="efaca6ae6472d3beae76323e2461dd34",Multideporte 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/782675183?ticket=3F3E0DF560224463A9A1828A93FD5E46B5B9CDC6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18597" tvg-id="85a7621146726cf58a91767d777657f7",National Geographic
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/291678085?ticket=9B79CB44097391A87E0DCA811B5FEC9902D1893D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18699" tvg-id="23fdfbecdb188aa78046bc49fc6712a3",National Geographic HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1828453667?ticket=54E533D7F076503912CD33CB348DE28C6EE19972&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18681" tvg-id="c0a4f06eb8b32f4112842a6210786972",NAT GEO Wild
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1861264576?ticket=CD3A294C76B80D2D228A32A9A59477349C9804A1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18756" tvg-id="bab109db133040a44ffef6611b78883d",NAT GEO Wild HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1527361978?ticket=51F0A7F53AA2B36624E00F483B3153E4B62126AC&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18674" tvg-id="c7a1c40b4c2d5b308e38eccb93274d36",Historia
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/197435847?ticket=C38260D6A46101712421A9A1883886AF541C7A24&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18751" tvg-id="6954b52dded68cf3bd18874bb5e925b1",Discovery Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/766858345?ticket=8A87BFBA51A82603F8FD3789A55E681EB7BE565B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18814" tvg-id="a168467d77b69eb1378bb8aae89fee2c",Discovery Channel HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2101766305?ticket=E5F81D8E45A114F911EE51FA5CDE89D78259EA4E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18599" tvg-id="6fcab7d1c8650730e37dd11d46efb117",ODISEA
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1370999407?ticket=5FC6F5B2026E32C976AF1030E39C5BD167683E8E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18815" tvg-id="8fcef921ecc36efdd0d2537fb501c377",Odisea HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/570019471?ticket=18CCD03DD3D454579CE0602A9A82C9EB8AB8765D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18640" tvg-id="88cac5c989ea795addac5407d752a553",Blaze
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1237699208?ticket=6A4013F4DE2C53B7376F8DD4AB50A074C3D8421D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18733" tvg-id="bf8720d1aefcd7290e9d3e4c511e4792",Viajar
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1361086399?ticket=FAC591CCE45C210028A26692C59D61251A5FF942&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18771" tvg-id="0703dbc73fe55bb0232e709e2a9d22bf",Viajar HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1205535495?ticket=FE9DF4B7817DCC2CC4CEA136647935CC3F879C2C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18816" tvg-id="2fd925b95cf0dec83e30db65072b7042",Discovery Max
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/958781743?ticket=C20630137C73C8B77C6460B508E4F36EA35C2FFA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18561" tvg-id="87017cb82f053616a03ae1b1b77dcfd4",Crimen + Investigación
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/947650951?ticket=4C29CC3FA3233BE491B630820E9CC8510501EB23&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18817" tvg-id="cea360b2a87866dc5de703451df3a751",CGTN Español
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/845194190?ticket=8B81E6898A60025F3A07FF91334C842ADE33B7C7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18633" tvg-id="0f9672fc593cebdb6073b52cac52c79c",Cocina
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2087884303?ticket=CEAC4B39027477BACC9DA5EBDD4F4C8A16D5BDFE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18586" tvg-id="4afe22b38b0a6ce173f851c0cdda309c",Decasa
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/857931338?ticket=5A95FF0991263A7785A6B092C02977A80663E315&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18818" tvg-id="34b35b12bbdcc773a142a7af5a016ba2",DKISS 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/307999540?ticket=26E2274AE3EDB1F47FA77328C771ABEE776BD1A1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18675" tvg-id="7923320295a52f7ede6ff35e43c4dd80",Divinity
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/36840313?ticket=8CFABC307C5AFB7106F64917A666A2322D34688F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18644" tvg-id="af91eddfd381dbd87d9c61ff4b689047",Nova
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1609404847?ticket=1B10794F047AA1D5E58CFF54924FE4F62C0476AF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18819" tvg-id="64ca0836981780965a6afaaac84ac6e1",MEGA
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/906545764?ticket=87A241DDB92873A3F686C411E33C9930890FC10C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18820" tvg-id="7c02c9fbb39107f0c81f87ea0228627b",BeMad
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2076770940?ticket=6C718D1BC075D8CB9D17B34D11C6918C148BF736&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18821" tvg-id="b46089a9c74bab9b720739c6d1137066",BeMad HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/696869044?ticket=20B1AFADD7A1F7930882A434CB3BE52E3A999FBD&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18822" tvg-id="bfcc5a2cefb636a1cc2cc813a573e1b9",Garage TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/744148159?ticket=144FFD5D8570FF5B223AABE5BA132B2C918ABFE5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18628" tvg-id="fdeb5e2570840705db0608c2e033d3ee",Canal Orbe 21
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/626977789?ticket=62299077BC3EF6DBF3A948100B01A354D8083887&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18774" tvg-id="bc35f9d4afdc6a611153d66005d7bf30",Baby TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1425618364?ticket=78B6C0EDE94FF594BBA1EEFB590DB7D2A3B47232&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18765" tvg-id="f443c08a5b3bfd848fa7d05983c7e8a1",Disney Junior
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/180372468?ticket=764F3D4DA070BB82B887553B200B5D411A45221A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18619" tvg-id="1eadf8e4bc066a40cba2ba577d9e0bec",Canal Panda
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1694018846?ticket=BC84AC8CC38EF73EE95FDC61ABD0F06C6873F908&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18595" tvg-id="cc8f3b26f9018e86cd5ea3bd2d7e62b0",Nick Jr
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/641437644?ticket=3B46518B0230D494D9C7BCF23DF0C7FCC9416A30&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18700" tvg-id="21908f2a56e431b6f28ae79577a43bd8",Nickelodeon
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/714051617?ticket=A9A631FBA5F28D1B89F43ADFF4A1967F56A7AB21&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18688" tvg-id="773aad13a655e470952787604790171d",Nickelodeon HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/330119799?ticket=9E4825C47CD78594605B6F1F905506375188DA85&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18594" tvg-id="ab5c1c156b2fc00eeed0ef27dc39007b",Disney XD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/354180267?ticket=653DC18C325AB1E5099F297EE794CA2F8ADFD852&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18679" tvg-id="4934db6a9fd262d0b117c306950fc68e",Disney Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1792750665?ticket=2E55D514AA380C0B641D0534C87385CE5F852832&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18653" tvg-id="ad3a5862c5cc2793649436b14f98f22f",Disney Channel HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1649949357?ticket=5BFF5099F4F909DC4177E12BE0D52556AB7D30F4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18585" tvg-id="24caf5bfe23766b7750a7d7cfc8d6f18",Boing
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1073072676?ticket=8F34FB079BD4F06CDDCF98121E4E8AFD48AF9AC1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18770" tvg-id="6b2fe6037e4c60ce9b7b4c4da9949239",Clan TVE
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/65417067?ticket=BD51CC2F623890BBDC14D926559D18DD144FF77B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18567" tvg-id="72b6c5be8702e79a559101cd2b6a2405",Clan TVE HD 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1053144690?ticket=09639CEB7489A5254BE1195F10CE14D4F265D4AD&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18606" tvg-id="6d88055e9541c0f8e13f7c23e9934eb7",VH1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1577420909?ticket=387B8895B6F02D0FD9D42FB09170A74E610AB04A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18559" tvg-id="6ffdb8ff8d8ec73dd79e8c7302d114c0",MTV Rocks
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2142829935?ticket=91C2253DFB96996AB24D6A17F3EC1020FA4CDE1B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18685" tvg-id="f0f4d6d2730bcab31c70515455c143c8",Mezzo
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1389819120?ticket=3DD948D577A540BEF88F9E07AD15DF7F1BFCB5FC&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18787" tvg-id="2dd6defb091806b4f3bc9f90f1a432a2",Mezzo Live HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2078201389?ticket=50717216778AA3B55D6DF8A90DB2873976F2B01F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18596" tvg-id="a7dabb34e33ce609896d2ede76b84f95",Classica
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/884726439?ticket=A98E8F3D9548DB9DB9B0290A585C5A3712CA43F8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18596" tvg-id="5ca5dd058aa9f9541e7f37ba1b2889cf",Classica HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/98411868?ticket=85DE9E12F014FA3C67CE6BE146ED49A431BC89CB&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18773" tvg-id="238cbefcbff3f1c57ae126d1ac3159fc",Playboy TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2092862499?ticket=B0AF1BD4CE72B313A4501FBAA928560085E2480D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18772" tvg-id="f724cf76442d1e0d70f51088780c84de",24 Horas
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1993286903?ticket=48839C5EBEFAB9BC19387FF5CD83FBB981FD6046&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18626" tvg-id="187c6f20710144612545147c050c89d5",BBC world
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/544177176?ticket=859BFA0F5636BB23280866E2357E95BC6985329A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18737" tvg-id="28eacea70345242ca436fc8645007937",CNNi
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/667871784?ticket=FC1D44698BF3DE01E223813DDE54569124A31BCE&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18687" tvg-id="e621e67c8ed98daf1249108f96dc08f7",Fox News
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2095456742?ticket=F853FA00AAD3C3A17AAB1025E188CA2CB06C8317&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18592" tvg-id="bc1158bba8b92d3a41d8b7b4b6cc14e2",Euronews
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/995627452?ticket=6E311A7E56B5688A8DA53691AA30E19C3CF52780&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18625" tvg-id="2d4663cc415638293ee87ab9c6900304",Al Jazeera 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1281574445?ticket=1DFDB26406A5AD0F60E18ADAA84985303D01B050&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18572" tvg-id="53fea13bce1eaec550a1b5f3b960e1e3",France 24
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1000472147?ticket=08CAFF3E9C129352F86177B2DE247463B885BC44&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18734" tvg-id="a9c570d623374ff23f83d879147c28ca",Russia Today 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1450231209?ticket=B11B65E72BF31C29A0C05965930C346E925A47C7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18686" tvg-id="3b2c6153505015b857986c2cf749a0d4",Russia Today  HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1398877243?ticket=619221E6B3FB6A56405827A478505F6F53998BD1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18682" tvg-id="e5aba648f11b9834b4ac66ea6bba8c8d",CNBC Europe
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1218882533?ticket=5AA26692D4E9A557EE9F537CD9F41D94A96E429D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18581" tvg-id="7373c85281c5bdec9cc884c96284b9f2",TV5 Monde Europe
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1388868467?ticket=8919120D2F15FD275D6B2FFD7183B70CA6795198&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18752" tvg-id="33542b7d136bb9411cce31e0b3c264d1",Bloomberg
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2099991603?ticket=B56F07AD9D05F7C47DF5C529D8726F8A8A6FB9F7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18823" tvg-id="d949a1ac10528af7733573f44d7408f2",Intereconomía TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/748767705?ticket=5C53ACFDDA32564DFAE25FF728D0469D907FC957&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18824" tvg-id="78f74e869870f14b1e2798cb5dec5afd",Libertad Digital
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/105838456?ticket=1D8617AD848DBBA57B2EA9CC0F6255F3B3FC828D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18576" tvg-id="d83ac0f397cdbce8a85bafed85ad7e33",Sky News
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1941977816?ticket=8E31BD108F80754835754546152667680B720BC6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18792" tvg-id="6c1ee9e73c958242c0f8466f2f7016b8",RT France HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1743330924?ticket=2945E767AA44E66C2D8ACCEC0FB0F3BC322C735E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18825" tvg-id="f00afb330b84dbfd92977623ef294c30",CNC World
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/872090352?ticket=C7A43B3198F1F19850F87468D9631B0D0D90BB33&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18652" tvg-id="3ac8b1a2022859c6ecdd6cda3197d0d0",TV Record
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/582076474?ticket=8CED5DF32BC264819D6CA421E4CF27734A13EFC6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18658" tvg-id="700e7c91c0e49641eb653473155295a7",Cubavision
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/293342832?ticket=6E2E52BDAD92F5CC27ABEFB35B6A092C62437FB7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18603" tvg-id="800a4f76170d95e7ef9d106f10c87dce",teleSUR
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1984891520?ticket=0C806249E38B1CB2EA3DE3BDB026007BD2CEA98A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18826" tvg-id="97db1438dd71f77599d3f6f1ac3e1b8c",EWTN
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/940891031?ticket=20B7E59530CB05CF4D0636825B1541C5508E773F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18684" tvg-id="f1572b7e5f3e76753c11e6ec5f5c637f",Arirang TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2116769777?ticket=8AC5D130962046C71E14931EF1642556D8BE136F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18639" tvg-id="1cf4613d0075e7f45eabff9bf315fe99",Russia
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1029829660?ticket=BB248B7DC3A7E8F761589AE14555562C21786E39&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18648" tvg-id="94af12c2dcbcf909db6e0367e567cdac",Canal Sur Andalucía
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1108520852?ticket=17033FB1261843905A926FFDCA75FF27DAF90861&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18794" tvg-id="846a483ae801842286b1f4e4a3b6404c",Galicia TV Europa
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/977824388?ticket=2365F47C5E27362E10D7A268FA755BFA8EA35601&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18827" tvg-id="97d30d864187f57547174bfbb16f90af",Canal Extremadura SAT
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/101569431?ticket=9ACFB9192A3F6F33602DEEAC4AF06E8006DB98F9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18828" tvg-id="35af99a2133c314fd45f83782007e1a7",TV3CAT 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/580497205?ticket=41E78149F7A382B3AEA99DB40D6352949B3DCD35&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18829" tvg-id="201993b7c8a429926a4522887bb40a90",ETB Sat
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/932387104?ticket=3512BBCDDEB6542833139F8B57E46E0C2B7D037C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18750" tvg-id="5fd8a7b2ee01c81449a71e5f0fa49e76",Aragón TV Int
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/849860703?ticket=6F071F017F945AD824FACF670689447FEB5D532F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18830" tvg-id="de3965fc5c68ba6e8b32e37f7fc01f10",Xarxa Televisions 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2087008734?ticket=2C18D02087BF02632E81A6EB7B002999F007E2AF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18831" tvg-id="a633e857ad86c972c8c47cfe4438085c",betevé 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1474835366?ticket=53332283732C5E820E247A066AC2BD33BAA144B3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18753" tvg-id="6d0e667c40ccb30763c93fa4dd7dc988",Alquiler 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2087063149?ticket=315237C965F8D865578186EFD5CE82016D5ECF36&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18654" tvg-id="c277b7c7cecbb65b456755141aca9c62",Alquiler  2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1203206082?ticket=901C813104A0877B96806623D81CA3274C55F2A7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18775" tvg-id="4d22d0f3c9e563a611cb51d31e168ca6",Alquiler 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1943020109?ticket=8277DED8D9C48274A1179CAD3350C70FD3E8D984&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18693" tvg-id="dfea1bec900fed848c9e045c86eec3fe",Alquiler 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1813768927?ticket=E8784C1BA13C9651E8A680E325A5ACCAE7663B28&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18714" tvg-id="be276d4c42eb11617e79685837ab3c32",Alquiler 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1282222014?ticket=65944CCDEE3349C29E17293AA93C24C947C7462C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18589" tvg-id="b7acd6e2e2af049326b5d5da8bfba8f1",Alquiler 6
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1658236087?ticket=81BE8C981E2F3281DDA80292C8E219AA3CA271C5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18777" tvg-id="d2935940c0481103bfb57b4812e6915a",Alquiler HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1079612370?ticket=859445A4BFF94555068CA5064ECC06F6AFE88C64&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18565" tvg-id="c160179d52309c65f23ac53dfe1ba24e",Alquiler 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/488071361?ticket=526E66BF0328F1D2B509BE191CA0EC5D5BF848DA&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18741" tvg-id="25748aa07af6a00940d8832eb94af160",Multifútbol 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/545944613?ticket=B6DA8521DACB4BBD671C39ED2FB712FB61A9CE86&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18786" tvg-id="e2d0a88a594de7ca654752e5b711e010",Multifútbol 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/178835682?ticket=4FBB01F4B6DF49470E56D489157274E5E27B6DE3&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18738" tvg-id="82297a56f1959394e5f090c79ba2d0a5",Multifútbol 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1450846594?ticket=D6692A5EFB7126E8B67D874373940B587E642276&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18708" tvg-id="38ed73bca08ec8ead1c9c52f203bf4bd",Multifútbol 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1014230328?ticket=87A2FC8AA3A787D45D6D5BDC2C8AB836A611E69B&profile=pass
+#EXTINF:-1 tvg-id="d443dfa3245840b1d92c5a3eaad7a9b1",Multifútbol 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/601834452?ticket=B3C0CDD88639A7494DEE5D53D5B6857B8083A9C6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18584" tvg-id="b7286836f1e9e9fe42ebd0f0dfa295ae",beIN LaLiga MAX 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/912795831?ticket=091DF69184FD8AD5F1D134B2D39D404FF7D4B2E4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18832" tvg-id="d88df1063ec0e83e40eb02218b18c15b",beIN LaLiga MAX 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/116493784?ticket=962A908F51E85DA8DF275CD9AF20C4A97D0D807E&profile=pass
+#EXTINF:-1 tvg-id="6ec1a76bfe6559a11b5d221fedbab998",Multifútbol 8
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1806156142?ticket=24E151A39F453136D6B28019CBF26BB4C8A8F59C&profile=pass
+#EXTINF:-1 tvg-id="d0fa077cdd8b8fe5970314264eb5e78b",Multifútbol 9
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2080897744?ticket=76029D65529B1F09328812EC42CC6BA768BBA0E2&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18729" tvg-id="7157ec94857f05e2a27f45c6fbe2ed45",beIN SPORTS MAX 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/351033201?ticket=1BCBAC868C7D1D06E6294D78BE2E34EA2C3E94B7&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18591" tvg-id="62fcb10d7270ee40f82783315d2b6d3e",beIN SPORTS MAX 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/229768290?ticket=B146A60FBD2E1B153CAFD241DC9047FB4E35EF68&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18608" tvg-id="ccf12a659795f9480f7ed113f77d70d3",beIN SPORTS MAX 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1697313228?ticket=C25E7076626B2181F5BBADC18716FC582A18A71F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18784" tvg-id="f336509c231b8fc0bdd801bbfb021c6c",beIN SPORTS MAX 6
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/475018995?ticket=40DCD2A5F109886C8721E9816C85A6737E42ECBF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18680" tvg-id="e91037a6952b4195592fab8d0e2a776d",beIN SPORTS MAX 7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/641143017?ticket=C07B88B6A3BEDD1914EBF2772F3968CB68EEE5B6&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18743" tvg-id="921f2176b285b5faa1395bc95b0a4f5c",beIN SPORTS MAX 8
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1981882258?ticket=1E058CDF233F0E69581471A6FC183F12FF4E28A8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18724" tvg-id="26d715a496395679724744b4ca1915a9",Multideporte 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/605411110?ticket=CC71BAFCA26A2AE6F9126D2F54A17B0615EABC59&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18678" tvg-id="eccd8bce872022b1ae40caf6e5168cad",Multideporte 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1317785068?ticket=51CE83D9668A896E2FB4E77296E708BB82E4C056&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18776" tvg-id="712d9fcde6f1175c447aba397f249947",Multideporte 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1302277489?ticket=C396F081BA166AFBE316AA2AC8BBD5C0EF7FCDD1&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18701" tvg-id="f2f92a51fa7db734bfc15b2a5c1eae7d",Multideporte 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1361770994?ticket=94742475181040E1AA815B7B3506C8D3130D6F2D&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18657" tvg-id="cc87014ff854ed96ae97fa30b9ee35b9",Multideporte 6
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1325500364?ticket=AF214E350CC53AE8DB8564DD8EE6D7F323437514&profile=pass
+#EXTINF:-1 tvg-id="e30653f4e93ac65f3a91eaa0d9b5feb0",Multideporte 7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1951598307?ticket=8808A2893137A5D5C44056D5A338A70688E6750B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18833" tvg-id="f58682996636db26eeeeb9d46fc5d27a",La Tienda en Casa
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/427984629?ticket=5DE67F0B5A1AA584984D2DA212EAC539380DF83C&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="7b4c139f5bd6c3d00709a6b3a2afda6b",Multicamara 1 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/521358459?ticket=9428711BA88401F28BAD1FC33730E544A9292FB0&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="4dd526943ab5c4e443eb2605e4fa0ea8",Multicamara 1 HD F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/338089293?ticket=4912C729309CFC374CF431E65CDA9004B2306A13&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="86ec64c904255378b2f579a6df131aeb",Multi 1 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1231350918?ticket=FAC7D1C2954623FBF906069F35D95D8E6B6D7468&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="9058aed7d11f1e759f25e0f380e47a32",Multi 1 HD  F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1471043728?ticket=AB849C48754D94F32A0479119F1F196BEA34D4F2&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="0455cbf87b277ba1e0e2cb1ff29ff54b",Multi 2 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2026591492?ticket=973AD065287B7B7C433C7054A5423ACD954FFC28&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="b45e7e43e159a478c611dfd4c1a4fb56",Multi 2 HD  F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1132355252?ticket=4C416B170B3FFA8DB4B46DFD5C98B7D8D7589A34&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="40be4392b9f3af1e1e4fa2d601ac7d29",Multi 3 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/306429504?ticket=9ACEB9B73EE2EA539FF5E4A2954E18869D4993A9&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="447057625817af1f4616d7eb8185289d",Multi 3 HD  F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1649897540?ticket=8A58E9229B6D343E0202E9D427F9AE6C20ADE1A8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="df6c0d60168356525daf4e6294cfe7e1",Multi 4 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1611492575?ticket=66D3CB994658C00A1EA0B9D81881B514C2C83FB5&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="8011ab33d6d6fc898939e24786094f27",Multi 4 HD F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/866849152?ticket=BBA3B6BC7180361E3C7C1D2FC72C69E7DFF52D44&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="6f5aa44f29ecf79413b2fd09cb45a298",Multi 5 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1336171119?ticket=7E32CD32C1DE05CC659928670CFC645DAC3C381F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="f07ac162a7fdf9183d884206124b01ec",Multi 5 HD  F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1656847088?ticket=C775DD8B4A01EB54466EE7066BC2D39918DD11F8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18647" tvg-id="00d7f601355352aefed6d86a2760c70c",Multi 6 F1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/32954112?ticket=77AAA3F06D89C8749C153FF91E1EF1E651524BCB&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18740" tvg-id="a8db5c4ec89fcf30ddbda086b45601e6",Multi 6 HD  F1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1314708392?ticket=1394D83085841C07E394D7277C1FB943F08734E8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="7e8635bff8d2189b9c4d8a28702428fa",Multicamara 1 HD MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1060472446?ticket=73C8851BB422B1E542BDCBB1DA0EC918C7588904&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="5f046cc4e891b26cfd345fa77a1995e5",Multicamara 1 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1147929695?ticket=9B2B9EC97ABEE27282C30083556CC3809FDD0C01&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="84289c3e0250ac4e1ff1f999aa0930e2",Multi 1 HD MotoGP 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1050421380?ticket=21A0AC3E57DE5B6D7B35F5AEC8021A9DA992C0C0&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="a157edef40e4a2e00f43959a842212a5",Multi 1 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1877825441?ticket=0859991B3DA674557CEB5B796B662EDBC6C7795F&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="2c3a850465aaac20a9492153102f78c3",Multi 2 HD MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/75840044?ticket=A3EFFD672A1FF5D921759D3A5BE1C14C61A7348B&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="9977170d3934b8e561d0a21bed431a11",Multi 2 MotoGP 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/219641753?ticket=B24FA5BE2F577EF4B694F8B24182AFC4820E8DD0&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="802ed9bb45f21a0fe38d4e08b3817a48",Multi 3 HD MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1004088960?ticket=4D034F55A8361AC447F68928A927F0CDCA2242DF&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="f695d21df16f1a88a55ffab44ac2204b",Multi 3 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/500340214?ticket=BF054111AFC0281DD6719FB78255A26E21304D78&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="aebae7e9cb70ea307deaca6e7285c42d",Multi 4 HD MotoGP 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1776794286?ticket=A23019A5A6D840B456085853092BCAAC78BCE4B4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="4585afbd9549f1a86fd60eed746ab622",Multi 4 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1034913093?ticket=F836D2396D46389A3F09E119CAD9236FC72C917E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="465bd960ed2b662bdbe72f11afeb7e9d",Multi 5 HD MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1624857414?ticket=7A04189747556C0FE9FA9C525329DD841BFB475E&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="21878640eada8f75eca511aace5232a7",Multi 5 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1082558241?ticket=FD716E72BAC5E79F914FE1A2460DDD50E61986D4&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18670" tvg-id="2c293e61d5af402d14c97e22ba198b4a",Multi 6 HD MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1631463724?ticket=37C3CC922B12A49E7CBAA2045E4076D896BE1984&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18600" tvg-id="8a605ed9d4d33935882a84c72b075c35",Multi 6 MotoGP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1499357322?ticket=A7BC8AD2B04861D0949247E9CF93D0DB657775C8&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18615" tvg-id="77c1cff4d9869f29115fb8fd132ed009",LaLiga TV Bar
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1959772535?ticket=CE2817F93195BBF452237D3DD53E9D1EDED23AAD&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18636" tvg-id="03a9910c14c697af0a2e67d2884c3684",LaLiga TV Bar HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/210872579?ticket=5E25625E37EFAFEEC95D81775EE92F4970ABB079&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18577" tvg-id="5b5bda764477397e9aaebf2ea4dfaf66",LaLiga TV Bar 1 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1994021723?ticket=3C1EF4CDE1181F2C981BDCAF842D055ACDBE829A&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18764" tvg-id="311b791a30e427d671492f1ca3e7297e",Movistar Partidazo UHD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/444144433?ticket=A1BE2E20AB75B4B156B356C93E0200ED3A0F7F38&profile=pass
+#EXTINF:-1 tvg-logo="http://pipa:pipas@venenox.ddns.net:2566/imagecache/18667" tvg-id="51234b34c6b92883fd854e24439a6db9",beIN LaLiga UHD 
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/877339473?ticket=31736E102A786F506899CF41177772D8BE8B8562&profile=pass
+#EXTINF:-1 tvg-id="1bf15ba7ca576d32c690a0babd0939ae",BBC One HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/660336923?ticket=7DF85C98C130CBC7F56FF7A78458BA9AA2702ABC&profile=pass
+#EXTINF:-1 tvg-id="db6a3f9785ebc505335afb46ce684e40",BBC Two HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/390032091?ticket=6D80D90D72B7D575E34D411BABF1056186BBDCCA&profile=pass
+#EXTINF:-1 tvg-id="22fba7595512dcccff196a48cb9a3155",BBC Four
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1504181026?ticket=91BCFA08AA51E7B7CDE093595A9F844DFB4E12F4&profile=pass
+#EXTINF:-1 tvg-id="a19492c821fedd321cdc8b1520b19e7c",BBC Entertainment
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1217565857?ticket=98F5AAD20BB69170BBC62926FD6790AF356DF2A0&profile=pass
+#EXTINF:-1 tvg-id="9d06319331d4ccde3af3616887b1575b",Channel 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/321980061?ticket=51DC68081DA39E0A9FDB04B14C7678D68270D8DC&profile=pass
+#EXTINF:-1 tvg-id="47ec9376bf8766713fd76ebbd7ba7fd4",Channel 4 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1989405767?ticket=34046E676F940AFC4D0C048C372D1B7AF7B64BE8&profile=pass
+#EXTINF:-1 tvg-id="2395f21489e7b54d2f422c9d0e25c7df",Channel 4 +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/351442211?ticket=2DE1A977FB80FA99A7BEB681E1CF05EBFB1EBA9D&profile=pass
+#EXTINF:-1 tvg-id="cff0a872c2c139b0465541e4269998d4",Channel 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1923674319?ticket=CEB2B8FC0DF9E3FE236532BB57FADAA1D36BA7DE&profile=pass
+#EXTINF:-1 tvg-id="d426a0a0f07a1269a60a67d48c1fb5e2",Channel 5 +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/547366612?ticket=2D8C841DA0856C67CDFBDADB64CA5C6323649C5E&profile=pass
+#EXTINF:-1 tvg-id="20820bce7f21a1573c0a61ccda678395",iTV HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1309377056?ticket=750E6446EFB321C5C547C24ACB9B1AE24D1A9C0C&profile=pass
+#EXTINF:-1 tvg-id="151cb5d9f74f25afdc328de5fff2f98e",iTV +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1505041429?ticket=AC4F919EF5BA164256EF02FDF4D6975043F46AD2&profile=pass
+#EXTINF:-1 tvg-id="42d1bf5eef23672b0453ba9cb4109a18",iTV 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1589629250?ticket=3AE0F415E794EF4EE5AE01E616B457DAF62E48F2&profile=pass
+#EXTINF:-1 tvg-id="1cf7537554020ff7d799848589ae3319",iTV 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1968437020?ticket=BB9AA04AAE61599B521C434B51E39E1A456494B9&profile=pass
+#EXTINF:-1 tvg-id="053a5d8b604b24cb70b0b50cf88c082e",iTVBe
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/190659077?ticket=A6BFF780A9A5A1C9BE5AC72B22BE71350A201042&profile=pass
+#EXTINF:-1 tvg-id="d3b1d8f34b49913328eaf0206896f62e",iTV Encore
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1943581139?ticket=3BAAB9EDB68534A68C40E1FB4A7633CCC7355280&profile=pass
+#EXTINF:-1 tvg-id="63345b077fcf605c5280b26cb54ff839",Drama
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/123417699?ticket=34499A7D012CD5EC93EC838214C08F48173792C9&profile=pass
+#EXTINF:-1 tvg-id="76d69321be8deb9c5b5ecf2c284606b8",More 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/563336822?ticket=902E26F81A4AF6192C783D0FD94754CA8B921513&profile=pass
+#EXTINF:-1 tvg-id="ad1bd20b4a0ac6602a036a7f9343ad44",Pick TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/198319021?ticket=81950A6BA14BCB03C16EF3634BCFC7CBCD46089F&profile=pass
+#EXTINF:-1 tvg-id="0b1170d5a0c35aa22d1fe20f6ca2a1bf",Spike
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1433407755?ticket=341C5057CA6733FBDE97AE3CD741C8A6BC574C9E&profile=pass
+#EXTINF:-1 tvg-id="343a9610e7db1500055be93dd77dda7b",Sky One
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/278280756?ticket=3B92B44F69AC3FB5A981F898D91DB9C82DD0E602&profile=pass
+#EXTINF:-1 tvg-id="abcf6323bd131ab9ff538399a28e404c",Sky Two
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/593743787?ticket=DFB50DF1DD36C76B914DE2DC3D4ABABD184BC91F&profile=pass
+#EXTINF:-1 tvg-id="a4d29d5ccdd893ca5b5ae1d4d98cf8e8",Really
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1553846948?ticket=750A9C3C0AB4B7B4A0127C8DC78BFAE0DC4480A4&profile=pass
+#EXTINF:-1 tvg-id="9e0929033f72349e934bea0c18631853",Yesterday
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/53021086?ticket=46C90A07F66D1E2B2BA722B4A898E447F04E0F2B&profile=pass
+#EXTINF:-1 tvg-id="4c74bd05757206d1144a564f387908fd",E!
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/96302156?ticket=4551BAF2D9E0AAA7A29CB203D7E12D9017B627B9&profile=pass
+#EXTINF:-1 tvg-id="ee6d24a4ced47cd35346484098985d22",E4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/606367214?ticket=59719E8B342593A3755D9792B93260BFA3CC502F&profile=pass
+#EXTINF:-1 tvg-id="6929b110a590073f0bd43e6df611c3c2",E4+1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/280045929?ticket=C99F5F89BCB8C6910CF5C9BF5675EA478655D5A9&profile=pass
+#EXTINF:-1 tvg-id="fdfca64cd457585c75a09f58c45a8824",Real Lives
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1286012157?ticket=7F04700B03E366FBE0BC8C333F5469F4F55BFC6F&profile=pass
+#EXTINF:-1 tvg-id="96f97e63d39d97704627b6f15a345038",5USA
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1669265814?ticket=6AAC6A0CE8B1E47EF4919C539ABF0F22B92B54A8&profile=pass
+#EXTINF:-1 tvg-id="a3f0e9faa44e465e934caad384e4033c",4 Seven
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2062151843?ticket=F095666A1FC23E3C0E06EBF51E22EAC53DE471B7&profile=pass
+#EXTINF:-1 tvg-id="77a2c2b9a84c3debf75de5c63addb841",Gold
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/969056887?ticket=4D7AB89E32637A121A9873AEAE8F37F9AB3C49D0&profile=pass
+#EXTINF:-1 tvg-id="c44f8cb4aae7be477dbe9ea085b05393",Comedy Central
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/881610692?ticket=65E13A2B604FBC0E5CE8C6834706888DDBA4DAED&profile=pass
+#EXTINF:-1 tvg-id="e22f350a128442f533b6441e4c2f20e6",Comedy Central Extra
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/171257826?ticket=297549D0CAE52E2E546260FA7C2616A9450A400A&profile=pass
+#EXTINF:-1 tvg-id="01d6f85313a75b17c6ffeff11bfcae57",Dave
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1408816641?ticket=B58A29C628203A0BE0C8EECADC600EACFDB9501D&profile=pass
+#EXTINF:-1 tvg-id="aad5ca194fa83e514383b151e5fb87da",Dave HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/432723370?ticket=DFD708100F5B65058AB7B012963205DA477A18E3&profile=pass
+#EXTINF:-1 tvg-id="1e02f5895cfcdf317718b2b111e680e3",Dave Ja Vu
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/167051806?ticket=DFB13FA1F1576626A004AC8B2D56ACDC0A9E98ED&profile=pass
+#EXTINF:-1 tvg-id="f8a10050950e168c0244e42f2f97562e",Fox
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1342218744?ticket=D2CEBF51F969E9E1C6C635AB67EA85F85D3E4561&profile=pass
+#EXTINF:-1 tvg-id="3f49e310d7fb16e9d182e482cf9249d2",CBS Action
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/283330879?ticket=F6875E76AD8284976E2239B7ADA0B5C726A86985&profile=pass
+#EXTINF:-1 tvg-id="1c20cf0b002f9a148f33c84a5573e444",CBS Drama
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/198123548?ticket=39A65B6D4E49C68EEF07C4A5AFC9C4DACA74F82A&profile=pass
+#EXTINF:-1 tvg-id="f750fb1d92e4e07f3f728099383ab04c",CBS Reality
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/503009527?ticket=9134A787C3E5F4E623DE1EC0D4D64452ADC025B5&profile=pass
+#EXTINF:-1 tvg-id="7a99f4a95723571094a7f9565e864b36",Alibi
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/703895930?ticket=DA83048E7C89FE188605FEF902739908EDA9B846&profile=pass
+#EXTINF:-1 tvg-id="d11aa49b9c83b78dd1fea7092fb3835e",Sky Living
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/463739601?ticket=EC1A5C28DD60823BBA110678C393B347E0F246D9&profile=pass
+#EXTINF:-1 tvg-id="abe4027d0db101f6e6ad5b297edb9863",Challenge
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2097341611?ticket=F5143B57D93ADC75C368602DF1F01D42E6537594&profile=pass
+#EXTINF:-1 tvg-id="551d77e1ca98824276e2bf9b37e59e42",Sky Arts
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1635196245?ticket=F0E0342548243831A208F831E4CE3487FB566F9A&profile=pass
+#EXTINF:-1 tvg-id="2a54ce3aefad58e7aaf35bd22f2b34c3",Home
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/986600490?ticket=760631CCE9CE27FCC501E3030AF696CAF93F1BF5&profile=pass
+#EXTINF:-1 tvg-id="01fde7f95617fbd79274d81bdffab0f0",Food Network
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2045246721?ticket=54C9108D1AC8F3674650450071F0BFDCD14E9221&profile=pass
+#EXTINF:-1 tvg-id="bcabb5de07806fdb2fb255e8835d67d8",Eden
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1588964284?ticket=EE3162DED8FA14405F2FEC28F9D7AB6FCEEE0540&profile=pass
+#EXTINF:-1 tvg-id="130d7abc0dd347d7743dd1aaee78af37",ID
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1014631699?ticket=A432AFF6EAA11D2D6B55AA1B0D834680A1984757&profile=pass
+#EXTINF:-1 tvg-id="619f07985398e43870c993cbee424ff0",Animal Planet
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/403152737?ticket=46269D00086E56612DB77A191AC7020828A8E0E1&profile=pass
+#EXTINF:-1 tvg-id="118aa36411b8eb2d22ffa6723f467175",Discovery History
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1688439313?ticket=6F4236B74CAEB850D0E1D1E08DE4D9221F11B1E1&profile=pass
+#EXTINF:-1 tvg-id="597ed00b0196d7e3b9765d375785977e",Discovery Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/198213209?ticket=C380AB8E4F62E64DC8BC51F1942636D7FF999DB8&profile=pass
+#EXTINF:-1 tvg-id="a78d892f1b1b4d72690b88828a9606b7",Discovery Turbo
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/797543847?ticket=3787DC20AD300EC8181936F59DAA46687B472E8F&profile=pass
+#EXTINF:-1 tvg-id="e5ac9342b0452a0a5719de27774c3ee6",Dmax
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1116974309?ticket=DE6AB2B03C49D45E91E46E0C522F0B306A9311D1&profile=pass
+#EXTINF:-1 tvg-id="e45a30b0bf6b53bafd8e2104828d09fa",National Geographic
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/808475364?ticket=D149F9B947B8704254FE423589DC4D8607D00361&profile=pass
+#EXTINF:-1 tvg-id="9f2309a672ffb81519a27b205bbc85c0",Crime + Investigation
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/638133151?ticket=C7EB3BAFEAE3EF3B7F040E5720EC5A895B7882E7&profile=pass
+#EXTINF:-1 tvg-id="32359e7fed595f99fb46d4d30633b596",History
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2141074738?ticket=1ACC57521AD39EF7B73C413C044105D85AEA261F&profile=pass
+#EXTINF:-1 tvg-id="1e7e2cec8c1063c1f04030e8cc70fd32",H2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1814855198?ticket=CFA07425BEE81A8F672F047B3D235BE38FF790CB&profile=pass
+#EXTINF:-1 tvg-id="e51cb6479bd4d35eeeca305e385d5079",Sky Cinema Action & Adventure HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1203117285?ticket=15B9CEFB5B208E7406E5966170815B134A6A3897&profile=pass
+#EXTINF:-1 tvg-id="8879b8c9f60942a090c32166f594a090",Sky Cinema Drama & Romance HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1236826504?ticket=E6582BC3133B1F7CCF8B36CDDD5742EB91D03C1A&profile=pass
+#EXTINF:-1 tvg-id="c9de90745132c263749c31fe3c1351c5",Sky Cinema Crime & Thriller HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1955651273?ticket=063A1F48913B9ED35849057E93786153331F876D&profile=pass
+#EXTINF:-1 tvg-id="9f3ed0296abe6a80fabc2fa09b3013da",Sky Cinema Premiere HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/701513375?ticket=B4FBAB989EDA5CB472591328CA6F8E4FF7AC24B7&profile=pass
+#EXTINF:-1 tvg-id="73c435d8fc63d53ebdd783a6e06827cd",Sky Cinema Family
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1479918707?ticket=99D15DC7F82623997147DE9C67A48146ED981E72&profile=pass
+#EXTINF:-1 tvg-id="4ae901b7de57b92e82d3459181f3a938",Sky Cinema Greats HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/922872138?ticket=30EE74140DA42F0698914AB3585C33BEAA94E604&profile=pass
+#EXTINF:-1 tvg-id="5df65f44cf52f5f75a86a80c7a6c90ad",Sky Cinema SciFi & Horror HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1147139677?ticket=F7DA3E2C6D455D0B8FEBA72D69C5687CAA60465C&profile=pass
+#EXTINF:-1 tvg-id="bb583b7d9cb235b630311f9d0305a924",BOX OFFICE 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2101041339?ticket=590D05CF6138701BDC4E769FF9AF2E81B96C98A1&profile=pass
+#EXTINF:-1 tvg-id="0476e64b67110a7f485286ae9085321f",BOX OFFICE 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1273394692?ticket=A74E4F1AB4304FC523DFB82C22FC7C573A873AD1&profile=pass
+#EXTINF:-1 tvg-id="b693ffd3e02f5f88a41b5b38b84b15f5",BOX OFFICE 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1409258422?ticket=7575714C05FA6530514345AD37175C249635D7B6&profile=pass
+#EXTINF:-1 tvg-id="c7ac81991128ecbf561b4ca815409d17",BOX OFFICE 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/427928775?ticket=A5ED9F5D6C39F6665B493F1030B7EC79E39487E9&profile=pass
+#EXTINF:-1 tvg-id="7288c3b4012d25eaeb43e93da9dcee5f",BOX OFFICE 5
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/885229682?ticket=A7A1E38206BDFA084CC1CA9980B6B8C67F5AAAB5&profile=pass
+#EXTINF:-1 tvg-id="7c1c1707c3d1b1190d07a3a050a89d9d",BOX OFFICE 6
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/118955132?ticket=98C5D4F5FE368246DA453D782F316B87C2039213&profile=pass
+#EXTINF:-1 tvg-id="5d2d9af10939cb16bb76d01761f3b1c3",BOX OFFICE 7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1905929565?ticket=25736CF335C4972018BD4AEB118C3236A7F3AE87&profile=pass
+#EXTINF:-1 tvg-id="6e4142a3d836a9b4fe66db9dfca71856",BOX OFFICE 8
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/591544686?ticket=CCC788451CA256104235130697C9E12EC435EC52&profile=pass
+#EXTINF:-1 tvg-id="eb52031d1fe19292db9306999d6f2d10",BOX OFFICE 9
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/486757099?ticket=D2D42D0A9BCA9BEA9840D7E9E7F3908BC6F65EB8&profile=pass
+#EXTINF:-1 tvg-id="3c1af0ee405ed4e83657996fb09bdf2d",Disney Junior
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1861229116?ticket=F8C2D7EB72B80A6D04E47A51F66D176945305E7F&profile=pass
+#EXTINF:-1 tvg-id="a0e3607ed0ff98a1d3eaf3198dc0da16",NickToons
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2120278944?ticket=C8EA95163C480692FF1A82B23C8B606A0E29D2D4&profile=pass
+#EXTINF:-1 tvg-id="736dbb49a394ec811f5ddef8fd352cc4",RTEjr
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1237020019?ticket=E6064CCE49B094EFD4D75B3CBA6B6F7D26D61A96&profile=pass
+#EXTINF:-1 tvg-id="a534710d272ecc1cd20b8a2186dd7efc",Baby TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/225522853?ticket=A1BE66F0322860591977B03FFCFE090E13B9D904&profile=pass
+#EXTINF:-1 tvg-id="a102b35bf6b865500e73ad94c9046ef6",Cartoon Network
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1538458273?ticket=99BFF59534ABFE8762EA708B7268601992AB1230&profile=pass
+#EXTINF:-1 tvg-id="a2c2c5f043caf809ed6c48293c999c1d",Pop
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1892008610?ticket=1C56FECA03CA5542BC48D14763DD9327C9AFA557&profile=pass
+#EXTINF:-1 tvg-id="d755dc686a44432855cf62e3242ae7a0",Nickelodeon
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1759270359?ticket=C595D87F6F26D3B2E35294F055281C5A5C2C9174&profile=pass
+#EXTINF:-1 tvg-id="50f5d059b0e6ce8637b488ac22dbebd7",CBeebies
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1506866512?ticket=0F6CB26AA1AE67AC3FEEED415FCD97B8EDBF7C15&profile=pass
+#EXTINF:-1 tvg-id="11524ea1e56abe0da7441ea2659064ef",BoomeRang
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/558780945?ticket=9E30883FD7071E043B654D80FA46B985029EBD3A&profile=pass
+#EXTINF:-1 tvg-id="3df1e73941ba559872598f5dbcb3a507",Boomerang +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/971501885?ticket=E0966D26D121CC57D37054BAB78850BA374F3397&profile=pass
+#EXTINF:-1 tvg-id="d15b0b4086ede0ab330ce51777cf5186",Nick JR +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1074486225?ticket=5E7155637BCBCDD37897AFE47C86EB432DA6EDA3&profile=pass
+#EXTINF:-1 tvg-id="8d5b99c16995f7b0eca7ecbac98c74b2",Disney XD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1100569485?ticket=115A12A4FF47F44BF2020C8F43D985D3874EA759&profile=pass
+#EXTINF:-1 tvg-id="1928aeac7e7ed58bd15ab338ca06fa7a",Tiny POP
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/749611033?ticket=4320C1FBBB3CC93ED4D2F99763946859F3E0CB21&profile=pass
+#EXTINF:-1 tvg-id="88a0a635501deadbe3fb0f2018853b1c",CBBC
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/900112520?ticket=654FBD806F54BF22D5D90271BDB7852DDB338D6D&profile=pass
+#EXTINF:-1 tvg-id="79082513e804610cc23e6509c8bc0835",Sky Sports News HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/321194105?ticket=2C7BF5DFE5D30FC891AC88E4FD3FAF579238A155&profile=pass
+#EXTINF:-1 tvg-id="5d17b878938daebe1809708b6d0d203f",Sky Sports Premier League HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2025330525?ticket=AF2D7DC8E0A62A3FBC7A63A9F834DE67A439380E&profile=pass
+#EXTINF:-1 tvg-id="ee6dc9bd068bbe0849dcfa35b79ef71a",Sky Sports Main Event HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1036611054?ticket=683D079B905C220283EB8E325B5DBB4878F8D8DF&profile=pass
+#EXTINF:-1 tvg-id="d7307a19c10225cb11ac19af28d0c760",Sky Sports Main Event HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/427438295?ticket=60A3B565B54EA91F214CFC107E4636A32D27B136&profile=pass
+#EXTINF:-1 tvg-id="d344e677c67a91a525500e2eae30d2b1",Sky Sports FootBall HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2011579603?ticket=33DC48F6451115C399C9189021585BC84E4E37B2&profile=pass
+#EXTINF:-1 tvg-id="b362f795e1a1bb1e5e3c301b254bd97f",Sky Sports FootBall HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/368534195?ticket=CE0117114CC87F7EB66643BF5F94226209F0096A&profile=pass
+#EXTINF:-1 tvg-id="906d83efcfacd3c3fd29c9db9914e09d",Sky Sports Action HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1870884240?ticket=773B01CF5D3CCAD67761969B22A54A9DB939D3DF&profile=pass
+#EXTINF:-1 tvg-id="f4122ef2fb62ff8fe7fe2f766b3234ee",Sky Sports Action HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1915622132?ticket=92754E3591D666482C74B64D045A0EBEDF970DEC&profile=pass
+#EXTINF:-1 tvg-id="bc9e482ae61512caa20bf7143c0640ee",Sky Sports Cricket HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/709402300?ticket=1DAC9A128DD80782E341F8D6125A73CCE021736B&profile=pass
+#EXTINF:-1 tvg-id="d7c6bedcf595dcf6c12daf200eb05027",Sky Sports Cricket HD (Back up)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1556006615?ticket=AECD0AADE3495809AF6A8E2CC38AAA9F4EA487EB&profile=pass
+#EXTINF:-1 tvg-id="226c9b2cc211c5fb18a0ba4ffdbc43be",Sky Sports Arena HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/748383266?ticket=59F72550D681FBC1CD56C260C2E964BFF2CDE027&profile=pass
+#EXTINF:-1 tvg-id="3bf36b62fce50688e775dfb6c7a563de",Sky Sports Arena ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1651241787?ticket=431CDF6D9817FA3DCDD29E136B6E808D0FD27E6C&profile=pass
+#EXTINF:-1 tvg-id="0b909a93a5901a4ecd8c45839f9fba4f",Sky Sports Golf HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/328896523?ticket=E72775A677BFC6DB43CB05CDABF7772D2EE41898&profile=pass
+#EXTINF:-1 tvg-id="c157b83dd835fe87c2825326dfb969c9",Sky Sports Golf HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1035491265?ticket=16EE3A40EF3F87D6C0C3D3DE1EAFEE8D2BB07A70&profile=pass
+#EXTINF:-1 tvg-id="644c0e0efa5ae08ab6528bdaf3e74034",Sky Sports Mix HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/235818084?ticket=5252F20A1D04EA9F54CA475B83C6D5CDF959DBEF&profile=pass
+#EXTINF:-1 tvg-id="de29e29c397054fd52ca8fd81bba7be5",sky sports Mix HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/484583902?ticket=D784732DD63D708AD3D6C787BEB800B520C2008E&profile=pass
+#EXTINF:-1 tvg-id="af8cf2c2aa456e8d763461f26035fdc7",Sky Sports F1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1123191983?ticket=E9FC55CE0CB54D2AB193264616AFD099760A0804&profile=pass
+#EXTINF:-1 tvg-id="f4264f2dd1f1343963a7f7effd64d23b",sky Sports F1 HD ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/760162036?ticket=491D4D04EE0620276CB6E3ACA34D278523553BF8&profile=pass
+#EXTINF:-1 tvg-id="995ee90b14d95e50be26960850104d73",BT Sport 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/199843481?ticket=389116DF0329F05E0613FA70834AF5BCF3558964&profile=pass
+#EXTINF:-1 tvg-id="7ab653a2573b4a052702268d181cb1dc",BT Sport 1 HD (Back up)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/575911546?ticket=1CE8711F74CD1BE947BA687020A75A1ECD1E0A5D&profile=pass
+#EXTINF:-1 tvg-id="c2f69444d5f1d4e9036ddf134143203e",BT Sport 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1150613186?ticket=3E2D374BD366B9B18C8CCDFC885510598916C139&profile=pass
+#EXTINF:-1 tvg-id="bec5f25db70c1dc67ce98ae52cadb7a3",BT Sport 2 HD (backup)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1576191422?ticket=5D7E6ADAA7AFAA5BD3267E6368DD73AD4B71DF98&profile=pass
+#EXTINF:-1 tvg-id="c04eb6be1f75d0cf0a690ff76fa587f9",BT Sport 3 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1052135104?ticket=732C4E8013A10288A573D4AB3883B3E33DE3BEAF&profile=pass
+#EXTINF:-1 tvg-id="5e730056e1b44c479f683a0b1a2fac0a",BT Sport 3 HD (Back up)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1442870110?ticket=01B1D9E28D76EF8B00FBD35D24651DC5F69EACBE&profile=pass
+#EXTINF:-1 tvg-id="74bb36deb71ba55ba8b46bfef51d1b2d",BT Sport ESPN HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1580645236?ticket=D34FB20F34B809EE30676A8B09BF8FB8D8078F12&profile=pass
+#EXTINF:-1 tvg-id="ede01725cb42ce5539066d6a45fd2115",BT Sport Extra 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/622321901?ticket=50553F781892E1131A16EF9963633D18DFBC32A5&profile=pass
+#EXTINF:-1 tvg-id="3d76a119d12e880684b15aac26340ff7",BT Sport Extra 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/430011965?ticket=3D7D8B85C1E5464BF0ED59DA6B4B9CB81E3CCA92&profile=pass
+#EXTINF:-1 tvg-id="83211f0017cd9154213c49f07a0e4bee",BT Sport Extra 3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2040195?ticket=E38850BCCB9D162296883C92E1CA70D2991FE4DE&profile=pass
+#EXTINF:-1 tvg-id="e551e9e074cc75be86acd1b238fd6857",BT Sport Extra 4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1625903589?ticket=25FE5792B8F35FD669EDEFDEF520A8E119C57FE8&profile=pass
+#EXTINF:-1 tvg-id="3f80605950c3cfb82a0ae08a4290d65f",BeinSports 1 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1499496511?ticket=2E4AC746C7A6AAF346C993B38667A9A02DEE5B59&profile=pass
+#EXTINF:-1 tvg-id="597662f6238a3467b8330c2a497e61aa",BeinSports 2 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1986164313?ticket=3BE5F37A827D4C40C08E5A9B8392843C7EA1B606&profile=pass
+#EXTINF:-1 tvg-id="6d4cf82daf226fd86ced74e0c147ef77",BeinSports 3 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/771247213?ticket=1035056C98DB8CD42C51997279DB3A52F13C4932&profile=pass
+#EXTINF:-1 tvg-id="c8d225e4337656d392fdfc96312aa435",BeinSports 4 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1680200392?ticket=EF1C14F7B04069574F385DCD583E9DCE38645AB3&profile=pass
+#EXTINF:-1 tvg-id="7ca03b93e03117590a751bef4c2889a5",BeinSports 5 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/322674812?ticket=765EDC98A171080A93FDD08FF94DD9A8704D79C9&profile=pass
+#EXTINF:-1 tvg-id="8a8ccc944ea7fcf05e500f2022e19418",BeinSports 8 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/348949642?ticket=6A0ECB79A68AF911E5038FB5F818F3918A31FEDD&profile=pass
+#EXTINF:-1 tvg-id="154a4aa8a38c8c1feb1a711b4a67da76",BeinSports 9 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/675957269?ticket=A3C563ADC179369165D49CCA58E4AF09CB7DC93E&profile=pass
+#EXTINF:-1 tvg-id="342a8de2559cdab647fcf9a4ea95f08b",BeinSports 10 HD (AR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1653418548?ticket=6082EE0D857459A2BD1384708ABA120C063F370F&profile=pass
+#EXTINF:-1 tvg-id="2087cc4476e0325c451100354314e4b3",BeinSports 11 HD (EN)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1154254624?ticket=AB8426D46026B96AC13DC8BB3E52D261CA52FD1B&profile=pass
+#EXTINF:-1 tvg-id="9460276ad999100ed8d340371498ce7f",BeinSports 12 HD (EN)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1780965524?ticket=744EC84C9C33207FE628545EBF1DD74E7DF236AD&profile=pass
+#EXTINF:-1 tvg-id="55496ac81c612d43cd4414d46868ff6f",SPORT TV 4K UHD (PT)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1214925141?ticket=7C771D5636DDCF7C42F312F23949B1A501F99BC0&profile=pass
+#EXTINF:-1 tvg-id="2dbe65eabea491800da3252206d84816",TSN 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1785052717?ticket=796F42C0ED3CAC8B8BBA8D2079A3A93D15178B1B&profile=pass
+#EXTINF:-1 tvg-id="94d1deeb185667fbdf0c89c512318d78",TSN 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1809764756?ticket=6846D65B16DE531EB8122E9D44E9374C009DB44B&profile=pass
+#EXTINF:-1 tvg-id="177962834bde58acae867da27101a6cd",TSN 3 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/56785175?ticket=EC2050425589B893E0CDA74E7D5291C6C947993F&profile=pass
+#EXTINF:-1 tvg-id="bc0143b9511bcb574b9143943e8e9db6",TSN 4 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/960692668?ticket=7A813515A87D740B5D11F1B74560C4BC21EC2212&profile=pass
+#EXTINF:-1 tvg-id="26322d8563e659f0573e38db0c6c6b5e",TSN 5 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/86848038?ticket=BA20315627DEB326FC22CFA6E64E356254FAA57A&profile=pass
+#EXTINF:-1 tvg-id="1ab75c117b6459b82666e353cdb853dc",Sport Klub 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/291288858?ticket=733E1308BBEA6A3D938139E725C486D4721D2DF9&profile=pass
+#EXTINF:-1 tvg-id="829897619b7efe5523114f6d80d070c5",Sport Klub 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1637324930?ticket=0B74FC0B0397F77F581DF5C0CA37055D60C7D948&profile=pass
+#EXTINF:-1 tvg-id="22b63e6fda9d6e18faae09e0331a962b",Sport Klub 3 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1866380834?ticket=4BEB0059589021A4754FE0CB1865B248508DF26C&profile=pass
+#EXTINF:-1 tvg-id="206a1e7fb1791e9b45e72f9dca5f0aeb",Super Sport 1 HD (ALB)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2132699680?ticket=61614275BAF276D2865FF115722870EB4EAA8C2A&profile=pass
+#EXTINF:-1 tvg-id="5091ed994130d4c62e498f2fb950bb86",Super Sport 2 HD (ALB)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/434999632?ticket=288535BD1F0C85BA8BED3A0B1344ACB7C9846BF4&profile=pass
+#EXTINF:-1 tvg-id="e02c1bd0e83a5b8192878c19b83c2eee",Super Sport 4 HD (ALB)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1343958240?ticket=93322FF5709502F2A789DAE8B2E8586AABB3C290&profile=pass
+#EXTINF:-1 tvg-id="8a897ecc87b54760d7afdb53bc34e72f",Arena Sports 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1283361162?ticket=3EE080385F6CB7182C9FB789920ED89062646C4F&profile=pass
+#EXTINF:-1 tvg-id="56ee8b730a7197809216aee5629d0f8f",ARENA SPORT 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1938550358?ticket=DDFB3F7FF96210A7BBDAADDB167DFBC452FB34FC&profile=pass
+#EXTINF:-1 tvg-id="9f9aa759af7d3f846ef01a056d971707",ARENA SPORT 3 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1504156319?ticket=93CD4DDBBAC07B79EBF6B867A8798F75B1D6A1F2&profile=pass
+#EXTINF:-1 tvg-id="e9ee89aff1c9c4d9a17c0aa23a6ea1f2",Arena Sport 4 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/797568745?ticket=3149B81E5CE957D409D48DE5D0B1BA0058F1D687&profile=pass
+#EXTINF:-1 tvg-id="e20b749ad8d03b81fe368eda343d7b52",ARENA SPORT 5 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/443812834?ticket=06DF10E1F2A6881FBD935056DE1C7C674B4DA816&profile=pass
+#EXTINF:-1 tvg-id="04b43c343e98bf0cd85306fd54a790c4",SFR SPORT 1 HD (FR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/876393476?ticket=4EE695C4D9ECC1B60E1ABE56048BE49B67EC93FD&profile=pass
+#EXTINF:-1 tvg-id="5b83cdb60bf8be60f086fe22b2efd43d",SFR SPORT 2 HD (FR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/919438171?ticket=D9EA37C0DCD33C03138A4CA61815ADE9AA326C24&profile=pass
+#EXTINF:-1 tvg-id="f4b3f10f85c9a77b49761aeeea922499",SFR SPORT 3 HD (FR)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/267498484?ticket=E67613F21D43B2A17EC153B2B178114643F5B89A&profile=pass
+#EXTINF:-1 tvg-id="19e0f5850d23baa83632a6af7995bb42",Olympic Channel FHD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/99999769?ticket=C18E26308917FF11E5FA7324C6B951314AEA6472&profile=pass
+#EXTINF:-1 tvg-id="e2713730f4afc198ce2ef34295887e48",Box Nation HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/808940002?ticket=99825123F11DDDDB9D1286A45343A43D4AE442AB&profile=pass
+#EXTINF:-1 tvg-id="db04126c7aa19b3da56e9afbd9b56080",Box Nation ( Back up )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1813120219?ticket=7F0ED76A863C7045F60137CE61F3FDB36E405DD0&profile=pass
+#EXTINF:-1 tvg-id="143ae0ad58a8f8f6cca6cf7f5d5a008b",Premier Sports HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/769669652?ticket=EA512813850AF52C5090B35E261250D8E1DFD62A&profile=pass
+#EXTINF:-1 tvg-id="b9dcffabe77683fd407f79984f0a4dbf",Eurosport 1 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/738188473?ticket=516DF56EDDB28736F01A2707773BE6CD198B186A&profile=pass
+#EXTINF:-1 tvg-id="a4d629b46697c72736de8f85bc95c369",Eurosport 2 HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/875157156?ticket=B080008915571F6217B2BD04BA617EB8D8471D88&profile=pass
+#EXTINF:-1 tvg-id="4d98246075c36c460b9cd18a5b1b2205",Eir Sport 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1613011021?ticket=B539B5365FB2362309ED07B348FE8B16332650C6&profile=pass
+#EXTINF:-1 tvg-id="adc80565ece9612a5c5820e00d4d5b32",Eir Sport 2
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1694877869?ticket=A3CC32956362DD73F550306C656A0AE0FD7240C0&profile=pass
+#EXTINF:-1 tvg-id="094ad27f3204a61f72537c27408aa95c",Racing UK HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2144487945?ticket=C8612EC578BF084F3AF3990EC012B9C15A54CAB6&profile=pass
+#EXTINF:-1 tvg-id="ad8658e13b347ef5ebb4cda90b3ae4cf",Racing UK SD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1633191597?ticket=42373B4D9FA4E33D20729DEB88BC182F2B631ACB&profile=pass
+#EXTINF:-1 tvg-id="c779fd9bca2bd767fabe32371f2e9efe",At The Races
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/469596615?ticket=388B7486989409EF8582A759513BB11857CC96CB&profile=pass
+#EXTINF:-1 tvg-id="24104a5892902825481d0a638cf06ec7",Horse & Country
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1481248804?ticket=11D130DD66CEFB6430D19D6D2450EA8F12EEDBF5&profile=pass
+#EXTINF:-1 tvg-id="27376e85a2b810039ff1dd638d75c19a",Motors TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/91109159?ticket=4EB5BC2AFC1AAB72BB0A4BD10A0B266418B42718&profile=pass
+#EXTINF:-1 tvg-id="c4998c7899618e94d36cdde0752c8841",Sky Sports BoxOff ( ppv events Only )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2022480324?ticket=532CEB1E2F49E9E7BB24467DDC9A5A39967411F7&profile=pass
+#EXTINF:-1 tvg-id="8d99df225c48317940d2ecb7397679f6",RTE One HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/585079181?ticket=75B69FFD28F24BA1B7ECCB2346C2A0A752C2E1CC&profile=pass
+#EXTINF:-1 tvg-id="e15fc1c6baeac272c5f59a27956f592b",RTE Two HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1187078113?ticket=BA9D4C8D0579984A99E2CB75C6F1E4ABF9E0570A&profile=pass
+#EXTINF:-1 tvg-id="e8d960697295222ba3a8124879842094",TV3
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1767954920?ticket=34C771B672D314E0B2A38A06FE513D6D66F57288&profile=pass
+#EXTINF:-1 tvg-id="7b0d03955e8c236d7dd719c079da6363",TG4
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/352521595?ticket=268AB2AEBF1ABD841AEF7E710AE07ED15EEA5899&profile=pass
+#EXTINF:-1 tvg-id="6a33a474acc09405af49bf33ccf94e85",3e
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1956918122?ticket=AFCCE0BA7AA14D87971EB644E8560DD3187F6F2A&profile=pass
+#EXTINF:-1 tvg-id="4ea903e73dd7ef0f28bce5eb8342795c",Utv
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1728293198?ticket=F9A5C9D247B9F1909D9B97924A8E69A485BB9B6E&profile=pass
+#EXTINF:-1 tvg-id="a3fc0cdb25d68c00658e95ebde98e425",RTÉ News Now
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1527577763?ticket=207D143C99D6C89D75DFF105701CBA730CECF5C4&profile=pass
+#EXTINF:-1 tvg-id="000781d77809218e933faaf906ab1848",iTV Box Office ( ppv events only )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1468073728?ticket=BDA57DFE7C5B55C144FCD025934CC7AD9FAE5C3A&profile=pass
+#EXTINF:-1 tvg-id="77c46ff3cbbc0b8b48d8c5be53cc79ac",Sky Cinema ShowCase
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1936704631?ticket=DF582B683381B961F842AA5270FEF0EB3B56485B&profile=pass
+#EXTINF:-1 tvg-id="306d0101c99b9ef26f27179ff4fbf160",Sky Cinema Select HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/16870704?ticket=317B713D36E0AF76C4E2FA21250E40D8B171B494&profile=pass
+#EXTINF:-1 tvg-id="26b2b4d8b8a287bc01a101df6ff6b8e9",Sky Atlantic HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1488237094?ticket=48361831E95415E50A6F55E185C0A2303226832C&profile=pass
+#EXTINF:-1 tvg-id="e6e978d9709b0668595447e145c948be",Sky Cinema Hits HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1501096422?ticket=5BBE586E84B411D6A0B02E1138D4A53AA3E0D7D8&profile=pass
+#EXTINF:-1 tvg-id="d5a53c9be91082005f2e328cf1da6ded",Sky Cinema Disney HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/456959445?ticket=230B75FA591D6D9BB883261351602B4D154D099C&profile=pass
+#EXTINF:-1 tvg-id="9292096bdb50cbb10c86eb4ee10b520a",True Movies
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1795789458?ticket=780514915CA555664509D6C46D4C3F91E88C2CA5&profile=pass
+#EXTINF:-1 tvg-id="b04bd6a198363283d2643edf95b61b3a",Horror Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/567692208?ticket=F8FD306633B29ED8B2B35D12CCE26495D5A7CBB1&profile=pass
+#EXTINF:-1 tvg-id="4dd4b632dc061ef708252c4502a7ab00",Movies4men
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/850842701?ticket=7567615A4FB627322DC24B171D6F273A45DC6D8B&profile=pass
+#EXTINF:-1 tvg-id="e2788b3ece0a2e1376111da412f4a647",Movies 24
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1049327842?ticket=6C9708078D4B9A5BCD7FB13E6A367ED702D1FF61&profile=pass
+#EXTINF:-1 tvg-id="716c0ce5eee34a15ab48a2acd1625c32",Universal Channel
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1695313009?ticket=95BE82B781781BD84C7FA462C48E1F4637C5C867&profile=pass
+#EXTINF:-1 tvg-id="3312d44ab8d066c05f865e417510541b",TCM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1255412275?ticket=D05F2D5FAB60E4114B67D96493D1E8F1DEA3512A&profile=pass
+#EXTINF:-1 tvg-id="1398b8eda2f5870b34ca855d4909b1a6",TCM +1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1840814099?ticket=5044AD2AAB9041C8605FCCEE2A6EF10AE9C30E01&profile=pass
+#EXTINF:-1 tvg-id="d7999f7a16ebd2893d80e31bd6306938",SyFy HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2057279959?ticket=BE617A27302E4F3C03690DF250976F8B052E64BF&profile=pass
+#EXTINF:-1 tvg-id="8c3582ed15a67f3305b833300ad0ab38",BeinMovies 1HD Premiere
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1837249932?ticket=27F6C0CABF91B6423B43E2DBE973FD81228CE1E1&profile=pass
+#EXTINF:-1 tvg-id="ab87530d1021b1def49b10d2d30c3b50",BeinMovies 2HD Action
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/223578027?ticket=1E098CE4172EE16FB9B681FC3A738D0716457BD5&profile=pass
+#EXTINF:-1 tvg-id="84114758c92601ee61e48ef14e2f0e9c",BeinMovies 3HD Drama
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1481052548?ticket=0341014F7103F966C73CE6E087C69425F5725731&profile=pass
+#EXTINF:-1 tvg-id="02601088d178c0a276c201e3272583fb",beinMovies 4HD Family
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/135290882?ticket=A6C0A250D0A673BCEE9B338330573ED517B13E40&profile=pass
+#EXTINF:-1 tvg-id="df72fe092676d3983f68a9527a32cbe2",AMC From BT
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/167670495?ticket=C63CBAC62CDBF1E82594F9F4E28CE46C43D5E982&profile=pass
+#EXTINF:-1 tvg-id="253563e34a0b3885f3950cdbbe4618df",BOX OFFICE 3D
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1667446053?ticket=787B4A1425810561CC8B7F45BD5C6791CC1312C8&profile=pass
+#EXTINF:-1 tvg-id="c9964b3a2caab0116f481c6509e0a959",Heart TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/978032329?ticket=EFF1669129A1AE35B0923DB66496726F7BA597BB&profile=pass
+#EXTINF:-1 tvg-id="b5e18a785a4534d090bfb595e8064d38",Virgin TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2022367669?ticket=A65FB69C239BD19188181FF6F7BDE06AB87075FD&profile=pass
+#EXTINF:-1 tvg-id="e1005d6d852650d3de50ff947150f3f9",Clubland
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1834811617?ticket=5F9CF83354F9FD335FB80716CE7ECB1758509A3F&profile=pass
+#EXTINF:-1 tvg-id="c4e9d0ce308f172143cd5e432c822945",MTV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1322314180?ticket=62103C611F98B5B9CCA192BA180917C2D83C5D31&profile=pass
+#EXTINF:-1 tvg-id="6e9733aea7779e1ac4b37dd560a4424f",MTV Base
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/775133038?ticket=85281F2A2F6D52912E30E94F4509F692C882D936&profile=pass
+#EXTINF:-1 tvg-id="eca94763f990a378645f2552256e5dca",MTV Classic
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1665640940?ticket=DEA723F11CFCB354DEF32651DC380FACFFB35FAC&profile=pass
+#EXTINF:-1 tvg-id="0bdee2acd50a0e99029ccf3685f75429",MTV Hits
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/753065483?ticket=55506C967FEC1086F51A96FF8E65472F9C25EC01&profile=pass
+#EXTINF:-1 tvg-id="56946f633904b388eac7c01e91aaea58",MTV Live HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1668256854?ticket=81464976CB132CF45DCF9114FC37784845B763C9&profile=pass
+#EXTINF:-1 tvg-id="af8955e93d7c346d48022269b925c1dc",MTV Rocks
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1767213487?ticket=33B94F8D7E49A6C0B4CD54C4F5BCB7C7ADD0117F&profile=pass
+#EXTINF:-1 tvg-id="61e1ccc5eb4272812c02028d01e5793c",MTV Dance
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1171054945?ticket=6FB53DD318166313D9C956561B06979565184D22&profile=pass
+#EXTINF:-1 tvg-id="9f60d1e6e54055082024b37bb4cf5a71",MTV Music
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1724997791?ticket=A61524CF3EA202FC38EE6FDAD2FB61549112B824&profile=pass
+#EXTINF:-1 tvg-id="8671b2c5aa947503e667df6a131d37db",VH1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1169322374?ticket=BA9754087089D49414DA0FE3C01DA9779897AA75&profile=pass
+#EXTINF:-1 tvg-id="40f53994be7b1628039f8f4c6359ecfe",The Vault
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/339342656?ticket=D5E24F851D3124F99700B3B53D7779A5E9FF1601&profile=pass
+#EXTINF:-1 tvg-id="32703161d54e6523455b312ca7f756d7",CNN HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1630629938?ticket=A2434EE8CCB2EE697B77147F60241AA70B6AE9B7&profile=pass
+#EXTINF:-1 tvg-id="77b683b2f015b81f926a9ef1ffece99b",CNN SD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/847492727?ticket=82A81B86E2D5AA62E9640D464991D8A9BE574503&profile=pass
+#EXTINF:-1 tvg-id="dccc45e4eaa512e5425c169e9c1d136a",Al Jazeera News HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1682296028?ticket=B99C3D302D34B598CFE46EE4C6F83F10372E29A0&profile=pass
+#EXTINF:-1 tvg-id="1bb28efb716f23a64960cea1e1ec7ebe",Russia Today
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2072949275?ticket=0631F281F6B1F701D944C54DE82409FCEFA9DCC0&profile=pass
+#EXTINF:-1 tvg-id="0af1176aeede52a17b6d8da32213477b",Sky News
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1779953930?ticket=6FE45FF6D9D76C6EC0909AE5585E28CD82695F8D&profile=pass
+#EXTINF:-1 tvg-id="b5f1de5c7bcebfb36cdeaa5a36719290",BBC News HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1558114741?ticket=8C7338E667315A05BF834DF9FBBEEC06992DAE47&profile=pass
+#EXTINF:-1 tvg-id="14f2e94926136a51e42751f4f3176b61",BBC World News
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1240068628?ticket=10CB4FE621836521E8CEA63027E4E16D916D1F9B&profile=pass
+#EXTINF:-1 tvg-id="11593145b65b18fde6a3d8b019ef52ed",France 24
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1160861969?ticket=CBB849386FB7A1E6508533229B972FCAC084BF0D&profile=pass
+#EXTINF:-1 tvg-id="9ccc13381a9e9ddb1137fb17cb6f4c1b",EuroNews
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/940821660?ticket=4B572F629DDBBE2CD4991F5D1A2E28B192E86812&profile=pass
+#EXTINF:-1 tvg-id="f611ae16c3944a991805186a8ff364b8",B4U Plus
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/380506614?ticket=CB0924A018FA929698B004AA3333ED91292DE4C5&profile=pass
+#EXTINF:-1 tvg-id="c8a1b7400ddc6d2629d6f7e3035ae783",Brit Asia TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1085776328?ticket=510BA091CB1A4B0C5C044935DA0046939E5C9C91&profile=pass
+#EXTINF:-1 tvg-id="a1a623f202131074895183efb74712e1",Colors
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1914939041?ticket=FED74E19EE041B3A89D3D2C0A31F26E47FE9B010&profile=pass
+#EXTINF:-1 tvg-id="2162447a3e6f5da519b781859b64ab2a",Star Gold
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2051301921?ticket=BF67A396391F767F41AB0B3C91C2BCED24E5D7D4&profile=pass
+#EXTINF:-1 tvg-id="ab8ec5d2bf473eaa30212969b0f4dd6e",Star Plus UK
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1388678827?ticket=1AF83FC0A9E58B4B808FA4EFA3B40C9C95FF1314&profile=pass
+#EXTINF:-1 tvg-id="51599aba757f70b7003a548738b60376",Star Life OK
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/983193937?ticket=14E3E2F78A1092304443B5AFA15FEE64EAF0FCA3&profile=pass
+#EXTINF:-1 tvg-id="3667a032b2260fd42ccbdfdb9fa7a3c6",Sony SAB
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/849372982?ticket=60BF3C9804F160D1D7DD18797745689485F07546&profile=pass
+#EXTINF:-1 tvg-id="dac60c8b7e246ec90bfe46096cc711e0",Sony TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/185386714?ticket=10122E5D888FEEB696AFFFE908E1518C54ECFC75&profile=pass
+#EXTINF:-1 tvg-id="f0d981583cee477d8dcdba4ca49ec367",Rishtey
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1484904944?ticket=9988E3458A8A8E9F47425B647B1F4157C185B9E8&profile=pass
+#EXTINF:-1 tvg-id="ed9c753f42c7311950b9cca33a9066bb",Sony Mix
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1064672493?ticket=634E10AF034632C1BF69D70E3C72457DB780BB4A&profile=pass
+#EXTINF:-1 tvg-id="39218d20452cbb41c4c29054775ea545",B4U Movies
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/546119993?ticket=DC7B912C04771102B48CBDBCD91839AE96E8A50C&profile=pass
+#EXTINF:-1 tvg-id="1d49bdcdb9a159927b5b71d654605829",Zing UK
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1304250653?ticket=F008DEBACC31386D0D526E3B3E94F426DC82F36D&profile=pass
+#EXTINF:-1 tvg-id="b1b2c89d7a96828c0d38d0d93a684154",ZEE Cinema HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/499692209?ticket=CF0E3C649AFBC7894D21B7BB6542462513B2F031&profile=pass
+#EXTINF:-1 tvg-id="0a019c1130b482515aa332eb2a83eed8",ZEE Punjabi
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/295436554?ticket=7ABD392AEAA3696CD6FDA1765A9631802BA711E7&profile=pass
+#EXTINF:-1 tvg-id="d59c11d86ec123a9ffc8225a306ddd7b",ZEE TV HD
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1477549269?ticket=1F5DF2A4A127D18E0EB0D3CC95E9D09FE5BAE867&profile=pass
+#EXTINF:-1 tvg-id="73b687c5091dc04e71233943aa85ffe9",Nollywood Movies
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1166521971?ticket=7F3612936B82C43FF77176F1343928D60FFB6216&profile=pass
+#EXTINF:-1 tvg-id="8dbf0e9d7bb98d7223428d33f3248841",Star Sports 1 India
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/487505805?ticket=A3AEA3DEE3D2C57141432CECCEAE0479EF58B901&profile=pass
+#EXTINF:-1 tvg-id="a35d6045030a1eb8402654c8fc96ef44",Star Sports 2 India
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1163943331?ticket=E3D66E5187465B97BEF3D12A3FD7409141EC50F9&profile=pass
+#EXTINF:-1 tvg-id="ccdaa7bb278a8cb6b4ccc728edc9056d",Sony Ten 1
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1000856268?ticket=E2A6FD8806D5A32A97AF53D70D007DC4C5D7D6AD&profile=pass
+#EXTINF:-1 tvg-id="69c9f1800b1ac54d55aaf96bbe4c7ef3",Chelsea TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/15845737?ticket=86A188B5C04D9C95F0B6393F019F4BB12356B81B&profile=pass
+#EXTINF:-1 tvg-id="2cbed0c92b7dcfefb296d8f02db26cb2",LFC TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1238416940?ticket=96858733E832D7D3309BB3C35B787B83C5446456&profile=pass
+#EXTINF:-1 tvg-id="098903d4d548882cb9d3ea11e255db29",MU TV
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1409517833?ticket=85831313733F3A44BD63F424185359441C50EEF2&profile=pass
+#EXTINF:-1 tvg-id="83815485c961955540f599bd8c88aff7",Rangers FC TV (LIVE MATCHES ONLY)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/89424259?ticket=F1E7C60009F41E26345B72599A22A472DD8A1EAF&profile=pass
+#EXTINF:-1 tvg-id="28a85074fdf76041f91a3b7e71dc5de8",ABC (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1951442984?ticket=F6AD3DECC2DFC6CF7C51FF2429A15839911FE2DD&profile=pass
+#EXTINF:-1 tvg-id="5a38e9af682096622e72d7eaaf7e05b1",CNN (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/803813466?ticket=3CE2A3B72326D12DA88319AFBA3571040B05FCD6&profile=pass
+#EXTINF:-1 tvg-id="4a69a86320e290709e36a2dc156b8850",Destination America (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1671981386?ticket=E78AE1A8EBA994028B1C631B02AAD625843E552E&profile=pass
+#EXTINF:-1 tvg-id="9fb8daf45054ecd9382cbe1304d06e67",LIFETIME (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1960491167?ticket=09C6837A25ECF86B65804FDA080258145CE633F5&profile=pass
+#EXTINF:-1 tvg-id="04c1f51ee4807104ded4530b0c15937a",A&E (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/519422212?ticket=EC7D81ECF633E2D97BC3C2667F04DAEB01CFBD0F&profile=pass
+#EXTINF:-1 tvg-id="874988d4817f49dd9e24289472e532c7",AMC (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1418217863?ticket=19C81CB0129FA276E271097AB9FD6569BD7B0278&profile=pass
+#EXTINF:-1 tvg-id="485eb6aae9dd7741aedc32df2b7df248",HBO HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/716594760?ticket=4B611A45683641068EC905C5D37FD281827C9002&profile=pass
+#EXTINF:-1 tvg-id="b4fc955347b514d7ff111b4920e9a36e",HBO Comedy (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1402338484?ticket=8D593EA79C4C2A9AEFB25AC7DDF33D7CE9D1A142&profile=pass
+#EXTINF:-1 tvg-id="779cab8b0ae0a9efc8dc5f75f8dc72c7",HBO Signature (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/195796087?ticket=D1BADD4D9496103E2F6B7FEBEFA906C4B52ECAFC&profile=pass
+#EXTINF:-1 tvg-id="7f76b4ba487382ac5337aa2ce176a3bd",HBO Zone (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/984905343?ticket=24C81690924D68D7821A435E23803BF81807295B&profile=pass
+#EXTINF:-1 tvg-id="620aa5d9777878a652fe73d07fd16cf8",Discovery Channel ( US )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1503988322?ticket=D048DAE91184ED815AF4A7FEC089C77D70A463FC&profile=pass
+#EXTINF:-1 tvg-id="602d7f8ea2e62736a5386c6f5e1b7a64",CNBC HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/243215712?ticket=488F2AD1671B39E5F04D8276B25CE6D5B3F2B30C&profile=pass
+#EXTINF:-1 tvg-id="b133396a538258dbdd6fff5ae85215cc",ESPN (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1782133681?ticket=5BC081A07A356096E4F386E0451167336326C743&profile=pass
+#EXTINF:-1 tvg-id="ec50fe5f40e17ab8c2f74180db23f5dd",NFL Network (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1610502380?ticket=27C4E927F3FFBA1286DFD808845A5C531D168A5A&profile=pass
+#EXTINF:-1 tvg-id="9b8813f81ed5d8e86f97553a284b60ee",NFL NOW (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2014546075?ticket=4321782D9771FAD525355A383438D3CC1AED7C3A&profile=pass
+#EXTINF:-1 tvg-id="cab73973c6f65b53b459fc617cfc7654",NBC Sports Network HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1933162442?ticket=0FF6E3F63C5D3BF1825F77FC7F8F15672FD4A3CA&profile=pass
+#EXTINF:-1 tvg-id="2892c9ef050fe04bf6731a1e738ab18f",MSNBC (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1875481128?ticket=21CF42EE0A082DC630412863B12FFDF6D07DEFBB&profile=pass
+#EXTINF:-1 tvg-id="a4bd47e7422e45603fd5d1f23ba20bbe",WWE HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1732754852?ticket=CEB8659BFF3D32B50A2946EE87F972224A323B3B&profile=pass
+#EXTINF:-1 tvg-id="1520f65aaecf28964b56707962a8bfee",Bravo ( US )
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1526079509?ticket=6B84FC9A081CA2083D9F875F3D01142A48ECADEA&profile=pass
+#EXTINF:-1 tvg-id="f93a5444feae428579f45f1202772283",HGTV HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1146370809?ticket=1319BD923A3A1333C7CA6754678F29F823DD7E7A&profile=pass
+#EXTINF:-1 tvg-id="d19979e7bc51b6edcb36075a2e296da9",BeinSports (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1736022481?ticket=7A43E5C46AD41F4B310BAB0D6B274C5D6E386358&profile=pass
+#EXTINF:-1 tvg-id="57b779dde6c1fe26be59b79bfad48558",Fox Sports 1 HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1568257879?ticket=10ACB2AA4AA0CB2BD121129A6044FB851EB461D2&profile=pass
+#EXTINF:-1 tvg-id="f7ede547eab734c1bd4b9b78fe9123b0",Fox Sports 2 HD (US)
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1206250999?ticket=52777D09F6A10D8FF4DB2ADDEE28FE0E7AD62A17&profile=pass
+#EXTINF:-1 tvg-id="e443024e73bb04837a14ab2beef54b48",Harry Potter Movies 24/7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1308771300?ticket=382FB5BB10F8DEB5EDE3372B87486A8EE4D2BA58&profile=pass
+#EXTINF:-1 tvg-id="ba7c2f49d44797fae6223eeb47e2c6aa",Veep 24/7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1227848890?ticket=A544C4F72BEECF7345A2E4AB0E1EE52EEC409692&profile=pass
+#EXTINF:-1 tvg-id="d177de48c86de6641bc13c08330ac24b",The Big Bang Theory 24/7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1222539217?ticket=2EF1D5051FDEE8419A3F915B43CDFA2C8C0C1728&profile=pass
+#EXTINF:-1 tvg-id="8517379206b2f17d5c8a5edd966c0265",Game Of Thrones 24/7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/305600389?ticket=35B247E6EE4BDF99460004C4FB7D7A8FA05A2B4C&profile=pass
+#EXTINF:-1 tvg-id="b991309c7cb3e11686dabd0344937994",Shameless 24/7
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/472945081?ticket=DE1558FC4C81031F016A3838BEDF76A7D999DF53&profile=pass
+#EXTINF:-1 tvg-id="8128b552fed4fad12597b3d670c01e01",Absolute 80s
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1387604097?ticket=333F21B68236CF619B6C17AF723242AC0CF28154&profile=pass
+#EXTINF:-1 tvg-id="ebd54f4506c689fbded205be87b766e1",Absolute 90s
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1162860011?ticket=3FFE5F627FAC87B5D21F8B11A8A318132638C194&profile=pass
+#EXTINF:-1 tvg-id="f71b30bed17071c8ecc74ccece34e4da",BFBS Radio
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1043340279?ticket=8CD03875307631A3CCA9DDF410ADF40042813DCE&profile=pass
+#EXTINF:-1 tvg-id="53b17d9a6217011df6f3862c7d24633e",RJMRnB
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/444445011?ticket=9437248FDA9D00CDB203820B7A4C91D652079961&profile=pass
+#EXTINF:-1 tvg-id="89eb77d987e7242501287cd6f0def5b2",BBC Radio One
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1501031305?ticket=9F0621B0F4F4C9F7748BA298ADD692ABEFB14B1F&profile=pass
+#EXTINF:-1 tvg-id="86f9172029a9204131e57bc90947b951",BBC Radio Two
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/538442118?ticket=BA3AAD7F7C833D3DA3F90981507F0B4B763458A5&profile=pass
+#EXTINF:-1 tvg-id="0b6728198a2de61a20cdfe483d495b40",BBC Radio Three
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/422078219?ticket=03F5FDC7D4092898A2E7BA966895B380BF28C5F3&profile=pass
+#EXTINF:-1 tvg-id="eb6c0efdfd82f53c5f9e064499d0bb7d",BBC Radio Five Live
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2098097387?ticket=5D97C957AC8D620408A7A189B53084D2A71C0B66&profile=pass
+#EXTINF:-1 tvg-id="85e57290f622b5616889dd3417891d49",BBC Radio Six Music
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/275965317?ticket=6B01A7C22A4291296FEA70584FDE923AD2DA2F5A&profile=pass
+#EXTINF:-1 tvg-id="c573931e553efb82fe57243c90bd94ec",BBC Asian Network
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/512979909?ticket=E4F2C283848D0CBC7299EBFABF620B3E0F257229&profile=pass
+#EXTINF:-1 tvg-id="94fd0345b2182c3888c72e43b5d7a9e2",3FM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1157889428?ticket=D0E3A5315BBEEEF5092C4DD00DA4C2270C90B2ED&profile=pass
+#EXTINF:-1 tvg-id="f25e6cbe602dec9eddd7fe769676834e",BBC Radio 4 Extra
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1047289586?ticket=FEB2FBB344B015C1E66A22523594584DF699954A&profile=pass
+#EXTINF:-1 tvg-id="b73fa6ab7f298595f9a4b2407af494af",BBC Radio Berkshire
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/732315575?ticket=9BB9C6F5FC6A76EB2E13ABCEE270A6A246CBC4E7&profile=pass
+#EXTINF:-1 tvg-id="5b6c596593ddb4373dda3e08cee226b7",BBC Radio Bristol
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1700359259?ticket=C77D34AEACF835168FF5EDCC471BC171200AC1F0&profile=pass
+#EXTINF:-1 tvg-id="1e62864838b4d64d41cb8e50c46f3f85",BBC Radio Cornwall
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1216766494?ticket=77530F2E869A6759370F8D31DD557E2E06C14503&profile=pass
+#EXTINF:-1 tvg-id="ff02881596cddadda8da2aac89dca2d8",BBC Radio Gloucestershire
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/361235199?ticket=0DFC322AC0E3A80EF77A6879EF667ECF3FCE410D&profile=pass
+#EXTINF:-1 tvg-id="0c3ad091e4c0be89df24f1c578678c46",BBC Radio Guernsey
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/298859020?ticket=5EE974EF9D2A1F2328F00ACB7E1085F7984DBE6C&profile=pass
+#EXTINF:-1 tvg-id="449b267f78ce8a1ce73a250c0a3e1c8f",BBC Radio Leicester
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/2133236548?ticket=FC1C0202CCBB15E44BBA7DF2AE033B004A687359&profile=pass
+#EXTINF:-1 tvg-id="763f720923f9a8d6f55b1b108a702288",BBC WM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/158482294?ticket=2A7484718D3A90BB9F5CC14C4C83AEE4FADD66C6&profile=pass
+#EXTINF:-1 tvg-id="6c87874549b64281246fc423e82c865c",Bridge FM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1166509932?ticket=55E5DFC5F375669CE6AC2EE47E3C2636FCB4ADB2&profile=pass
+#EXTINF:-1 tvg-id="32d5f127be62ab17a38348f68d60e7c5",BSJ.FM - Best Smooth Jazz
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/670160178?ticket=790A4206691294566811481841DCFB9492A445B4&profile=pass
+#EXTINF:-1 tvg-id="878942c06892235b5521896bdfea44df",Capital Xtra UK
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1078102407?ticket=0988421BF89668E9143F4DE89983425DCDBA21CA&profile=pass
+#EXTINF:-1 tvg-id="c958d95273531d458fc9f20fcdf67eb7",Cheesy FM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1389975753?ticket=B967358EF1AAF039B66C10BE10E9532C8233E013&profile=pass
+#EXTINF:-1 tvg-id="a62d8ae810cfc37b0975ffba2e5bdb84",Chill.
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1753886118?ticket=3446645870B91F78B448A75E3B2FA3B7657E18F8&profile=pass
+#EXTINF:-1 tvg-id="3c9dc8a8a5e2f6eec52a05dc90ab31ea",Chris Country
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/684236092?ticket=38EBBEBF1BD16BBDA785FC710F865E732E3FF157&profile=pass
+#EXTINF:-1 tvg-id="5beeea3d5e4f5f10f469defa860fa6d9",Classic FM
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1038806619?ticket=27AA6E4FB990844298876DEBAE2F79AF5CC14F39&profile=pass
+#EXTINF:-1 tvg-id="794c1aa41777a15f51a6b12d116aaa8d",ABN Radio
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/605703289?ticket=1DBECFA0D876B93AF55D86B9D36AEF7626F6344E&profile=pass
+#EXTINF:-1 tvg-id="ea881559584f7df0d0e1b2d610a9001a",BBC 1Xtra
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1494583530?ticket=8CA7A561F38A960CA849F6AF2A160ED72C108D95&profile=pass
+#EXTINF:-1 tvg-id="445e9984f6307be15ce689546f712dfb",BBC 5 live
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/77160004?ticket=2B90D4090C77A374D0FA477572876D07F1E441B0&profile=pass
+#EXTINF:-1 tvg-id="5036f8d5c15d8b6ad2e514e73662e832",BBC 6 Music
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1442330192?ticket=9603DEF5B8AC58C2A1EEAD67117E379F33DEE165&profile=pass
+#EXTINF:-1 tvg-id="3e6a32e8871fd91a592c88ccd0f091e5",BBC Newcastle
+http://pipa:pipas@venenox.ddns.net:2566/stream/channelid/1748134462?ticket=20C04F0A6945C235420100EC82AC8DB5FA5195D9&profile=pass
