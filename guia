@@ -21,7 +21,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 -->
 
 <item>
-<title>[COLOR blue][B]          SABADO 02 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          SABADO 16 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -31,13 +31,13 @@ https://api.dondeverlo.com/img/channels/gol.png
 
 
 <item>
-<title>[COLOR white][B] + MOTO3 QUALIFYING [/B][/COLOR] [COLOR lime] 12:35 AV[10] [/COLOR]</title>
+<title>[COLOR white][B] + 24 HOURS OF LE MANS [/B][/COLOR] [COLOR lime] 15:00 AV[13] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + MOTOGP QUALIFYING 1 [/B][/COLOR] [COLOR lime] 14:10 AV[10] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
@@ -69,12 +69,12 @@ https://api.dondeverlo.com/img/channels/gol.png
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+-->
 
 
 
 <item>
-<title>[COLOR blue][B]          DOMINGO 03 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          DOMINGO 17 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -82,7 +82,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO3 RACE [/B][/COLOR] [COLOR lime] 11:00 AV[10] [/COLOR]</title>
+<title>[COLOR white][B] + MOTO3 RACE [/B][/COLOR] [COLOR lime] 11:00 AV[17] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -90,7 +90,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 12:20 AV[10] [/COLOR]</title>
+<title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 12:20 AV[17] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -98,7 +98,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 </item>
 
 <item>
-<title>[COLOR orange][B] + MOTOGP RACE [/B][/COLOR] [COLOR lime] 14:00 AV[10] [/COLOR]</title>
+<title>[COLOR orange][B] + MOTOGP RACE [/B][/COLOR] [COLOR lime] 14:00 AV[17] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
