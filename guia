@@ -21,7 +21,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 -->
 
 <item>
-<title>[COLOR blue][B]          SABADO 16 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          SABADO 23 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -31,7 +31,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 
 
 <item>
-<title>[COLOR white][B] + 24 HOURS OF LE MANS [/B][/COLOR] [COLOR lime] 15:00 AV[13] [/COLOR]</title>
+<title>[COLOR white][B] + QUALIFYING SESSION [/B][/COLOR] [COLOR lime] 16:00 AV[10] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -74,7 +74,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 
 
 <item>
-<title>[COLOR blue][B]          DOMINGO 17 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR blue][B]          DOMINGO 24 [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
@@ -82,13 +82,13 @@ https://api.dondeverlo.com/img/channels/gol.png
 </item>
 
 <item>
-<title>[COLOR white][B] + MOTO3 RACE [/B][/COLOR] [COLOR lime] 11:00 AV[17] [/COLOR]</title>
+<title>[COLOR white][B] + RACE [/B][/COLOR] [COLOR lime] 16:00 AV[10] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B] + MOTO2 RACE [/B][/COLOR] [COLOR lime] 12:20 AV[17] [/COLOR]</title>
 <thumbnail>https://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png</thumbnail>
@@ -209,7 +209,7 @@ https://api.dondeverlo.com/img/channels/gol.png
 </item>
 -->
 <item>
-<title>[COLOR yellow][B]  Actualizado 16/06/2018 13:30 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
+<title>[COLOR yellow][B]  Actualizado 23/06/2018 12:30 CEST UTC+2 (Madrid París) [/B][/COLOR] [COLOR orange]  [/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
