@@ -8,14 +8,14 @@
 </item>
 
 <item>
-<title>[B][COLOR lime] SERVIDOR #ml [/COLOR][/B][B][COLOR lightblue] [/COLOR][/B]</title>
+<title>[B][COLOR lime] SERVIDOR #3 [/COLOR][/B][B][COLOR lightblue] [/COLOR][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lightblue] Actualizado 02/05/2018 18:00 CEST UTC+2 Madrid,Paris [/COLOR]</title>
+<title>[COLOR lightblue] Actualizado: 13/03/2019 20:00 CET UTC+1 (Nigran) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
@@ -28,331 +28,14 @@
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
 </item>
 
-
-
-	<item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 1[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV1</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/8</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>             
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
  
-  
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 2[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV2</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/10</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 3[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV3</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/11</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 4[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV4</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/12</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 5[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV5</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/13</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 6[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV6</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/2</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 7[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV7</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/23</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 8[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV8</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/34</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 9[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV9</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/35</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 10[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV10</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/36</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-
- 
-         <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 11[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV11</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/32</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 12[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV12</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/33</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 13[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV13</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/37</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 14[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV14</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/38</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 15[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV15</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/39</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 16[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV16</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/40</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 17[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV17</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/41</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 18[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV18</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/42</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 19[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV19</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/43</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 20[/COLOR]</title>
-            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV20</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/44</page>
-            <referer>http://www.arenavision.us</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
-            </item>
-           
-           
-           
-            <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 21[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 21[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV21</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/30</page>
+            <page>http://cdn1.arenavision.link/21?dajhbaduchjwas</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -363,12 +46,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 22[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 22[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV22</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/31</page>
+            <page>http://cdn1.arenavision.link/22?sayjhasukjbsac</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -379,12 +62,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 23[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 23[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV23</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/14</page>
+            <page>http://cdn1.arenavision.link/23?saikasxukjnasx</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -395,12 +78,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 24[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 24[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV24</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/15</page>
+            <page>http://cdn1.arenavision.link/24?hajsxyugwascxzd</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -411,12 +94,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 25[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 25[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV25</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/16</page>
+            <page>http://cdn1.arenavision.link/25?yiwdayxaushjkashj</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -428,12 +111,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 26[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 26[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV26</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/17</page>
+            <page>http://cdn1.arenavision.link/26?csixzykhbasukjx</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -444,12 +127,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 27[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 27[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV27</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/20</page>
+            <page>http://cdn1.arenavision.link/27?scaikbascjkb</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -461,12 +144,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 28[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 28[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV28</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/24</page>
+            <page>http://cdn1.arenavision.link/28?savlkoiieksldvc</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -478,12 +161,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 29[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 29[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV29</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/27</page>
+            <page>http://cdn1.arenavision.link/29?asuxkjwauxjs</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -494,12 +177,12 @@
            
            
             <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 30[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 30[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV30</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/29</page>
+            <page>http://cdn1.arenavision.link/30?iawkdsxwiuskxjbasx</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -510,12 +193,12 @@
 
  
   <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 31[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 31[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV31</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/61</page>
+            <page>http://cdn1.arenavision.link/31?asxyigkdwausxkas</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -526,12 +209,12 @@
 
  
   <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 32[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 32[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV32</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2017.tk//node/62</page>
+            <page>http://cdn1.arenavision.link/32?sayxgkaxukjaxs</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -542,12 +225,12 @@
 
  
   <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 33[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 33[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV33</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/63</page>
+            <page>http://cdn1.arenavision.link/33?asxujwasxjsaxz</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -558,12 +241,12 @@
 
  
   <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 34[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 34[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV34</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/64</page>
+            <page>http://cdn1.arenavision.link/34?asxkhbawxsukjh</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
@@ -574,14 +257,80 @@
 
  
   <item>
-            <title>[COLOR white]ArenaVision[/COLOR][COLOR red] 35[/COLOR]</title>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 35[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV35</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://arenavision2018.ml/node/65</page>
+            <page>http://cdn1.arenavision.link/35?iusxkasjukxaszxc</page>
             <referer>http://www.arenavision.us</referer>
             <setcookie>beget=begetok</setcookie>
             </regex>
             <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
             </item>
+
+<item>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 36[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV36</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://cdn1.arenavision.link/36?iusxkasjukxaszxc</page>
+            <referer>http://www.arenavision.us</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 37[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV37</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://cdn1.arenavision.link/37?iusxkasjukxaszxc</page>
+            <referer>http://www.arenavision.us</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 38[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV38</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://cdn1.arenavision.link/38?iusxkasjukxaszxc</page>
+            <referer>http://www.arenavision.us</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 39[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV39</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://cdn1.arenavision.link/39?iusxkasjukxaszxc</page>
+            <referer>http://www.arenavision.us</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white]Canal[/COLOR][COLOR red] 40[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AV40</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://cdn1.arenavision.link/40?iusxkasjukxaszxc</page>
+            <referer>http://www.arenavision.us</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
+            </item>
+
