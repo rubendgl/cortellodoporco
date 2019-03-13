@@ -9,14 +9,14 @@
 </item>
 
 <item>
-	<title>[B][COLOR red]****AGENDA****[/COLOR][/B]</title>
+	<title>[B][COLOR red]**** A G E N D A ****[/COLOR][/B]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/guia</externallink>
 </item>
 
 <item>
-	<title>[B][COLOR green] Actualizado 13/03/2019 13:30 CET UTC+1 Nigran,Vigo [/COLOR][/B]</title>
+	<title>[B][COLOR green] Actualizado 13/03/2019 13:30 CET UTC+1 ValMiñor Time [/COLOR][/B]</title>
 	<link>http://Ignoreme</link>
 	<externallink>http://main.txt</externallink>
 	<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
@@ -31,7 +31,7 @@
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR white] Servidor AV #1 [/COLOR][/B] [COLOR lime] servidor activado [/COLOR]</title>
+	<title>[B][COLOR white] Servidor AV #1 [/COLOR][/B] [COLOR lime] AV1 - AV9 [/COLOR]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor1.xml</externallink>
@@ -45,7 +45,7 @@
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR white] Servidor AV #2 [/COLOR][/B] [COLOR lime] [/COLOR] </title>
+	<title>[B][COLOR white] Servidor AV #2 [/COLOR][/B] [COLOR lime] AV10 - AV20 [/COLOR] </title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor2.xml</externallink>
@@ -59,7 +59,7 @@
 </item>
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
-	<title>[B][COLOR white] Servidor AV #3 [/COLOR][/B] [COLOR lime]  [/COLOR]</title>
+	<title>[B][COLOR white] Servidor AV #3 [/COLOR][/B] [COLOR lime] AV21 - AV36 [/COLOR]</title>
 	<thumbnail>http://arenavision2017.tk/sites/default/files/logo_av2015.png</thumbnail>
 	<link>http://ignoreme</link>
 	<externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/servidor3.xml</externallink>
