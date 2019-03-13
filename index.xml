@@ -9,14 +9,14 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Canales Deporte - Arenavision [/B][/COLOR]</title>
+<title>[COLOR red][B] Canales Deporte [/B][/COLOR]</title>
 <thumbnail>thumbnail</thumbnail>
 <fanart>http://www.fondos7.net/wallpaper-original/wallpapers/cancha-verde-de-futbol-6902.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/futbol.xml</externallink>
 </item>
  
-<!--
+
 <item>
 <title>[COLOR white][B] * [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
@@ -24,8 +24,9 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-------------------------------------------------------------------------------------------------------------------
 <!--
+------------------------------------------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[COLOR orange][B] Moto GP - 2 enlaces [/B][/COLOR]</title>
@@ -55,7 +56,7 @@
 <externallink>https://raw.githubusercontent.com/rubendgl/cortellodoporco/master/pipa_prueba</externallink>
 </item>
 -->
-<!--
+
 <item>
 <title>[COLOR white][B] *  [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
@@ -65,13 +66,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B] * [/B][/COLOR]</title>
+<title>[COLOR white][B] Panasco Street Server 2019 [/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
 <fanart>.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
+<!--
 <item>
 <title>[COLOR white][B]TDT[/B][/COLOR]</title>
 <thumbnail>.png</thumbnail>
